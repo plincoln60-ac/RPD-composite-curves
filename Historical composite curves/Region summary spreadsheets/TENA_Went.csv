@@ -1,0 +1,96 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+1,1,"Cygnet core",44.66,-110.61,2530,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+2,4,"Slough Creek Pond core",44.91,-110.34,1884,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+3,5,"Burnt Knob core",45.7,-114.98,2250,"lake sediment","Sieved","influx","IMPD","central core","2021-05-07",10
+4,6,"Baker core",45.891785,-114.263047,2300,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+5,7,"Hoodoo core",46.320193,-114.651545,1770,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+6,9,"Pintlar core",45.84,-113.44,1921,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+8,13,"Bolan core",41.0225,-122.4583,1637,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+11,19,"Crater Lake CA core",41.3836,-122.5797,2288,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+12,21,"Mumbo core",41.191147,-122.510445,1860,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+13,23,"Trail core",44.28,-110.17,2362,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+14,25,"Lost Lake core",45.822988,-123.579517,449,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+19,37,"Como core",37.55,-105.5,3523,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+20,38,"Crane core",36.71,-112.21,2590,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+22,41,"Forest Pond 1 core",43.47,-109.93,2797,"lake sediment","pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",78
+23,42,"Forest Pond 2 core",43.43,-109.95,2766,"lake sediment","pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",78
+25,44,"Head core",37.69,-105.73,2294,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+28,48,"Montezuma Well core",34,-112,1125,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+30,54,"Park Pond 1 core",43.46,-109.95,2705,"lake sediment","-777777","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",78
+31,55,"Park Pond 2 core",43.45,-109.94,2714,"lake sediment","-777777","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",78
+33,57,"Posy Lake core",37.95,-111.7,2653,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+34,58,"San Joaquin Marsh core",33.65,-117.85,2,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",137
+41,67,"Martins core",47.71,-123.54,1415,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+42,68,"Moose core",47.88,-123.35,1508,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+92,128,"Alamo Bog core",35.91,-106.58,2630,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+93,129,"Chihuahuenos Bog core",36.04,-106.5,2925,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+101,137,"Patterson Lake core",41.3867,-120.2236,2743,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+102,138,"Lily Lake core",41.9758,-120.2097,2042,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+103,139,"Dead Horse Lake core",42.5606,-120.7781,2248,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+105,141,"Coast Trail Pond core",37.98,-122.8,230,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+106,142,"DeHerrera Lake core",37.74,-107.7,3343,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+107,143,"Hunter's Lake core",37.6,-106.84,3516,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+108,144,"Jicarita Bog core",36.07,-105.58,3207,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+109,145,"Little Molas Lake core",37.74,-107.7,3370,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+126,163,"Siesta Lake core",37.85,-119.66,2430,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+145,192,"East Sooke Fen core",48.3519,-123.6817,155,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",88
+146,193,"Pixie core",48.595187,-124.197301,70,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",88
+147,194,"Whyac core",48.6722,-124.8444,15,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",88
+148,195,"Porphyry core",48.900916,-123.835013,1100,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+149,196,"Walker core",48.529101,-124.003118,950,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+204,253,"Cooley Lake core",49.490867,-117.645321,1515,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+205,254,"Rockslide core",49.550849,-117.52088,1539,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+262,319,"Turtle core",49.32,-124.95,80,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+264,321,"Enos core",49.28,-124.15,50,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+285,347,"Beaver core",42.47,-100.67,900,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+292,361,"Reservoir core",45.13,-113.46,2161,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+356,425,"Hidden core",40.51,-106.61,2710,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+359,429,"East Lake core",37.17,-119.02,2863,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+458,544,"Crevice Lake core",45,-110.578,1713,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+696,791,"Lower Gaylor Lake core",37.90938,-119.286309,3062,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+697,792,"Barrett Lake core",37.588994,-118.996235,2816,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+725,822,"Three Creeks core",44.09,-121.62,1996,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+726,823,"Todd Lake core",44.02,-121.68,1875,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+727,824,"Tumalo Lake core",44.02,-121.54,1536,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+742,839,"Campbell Lake CA core",41.532802,-123.105499,1750,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+743,840,"Sanger Lake CA core",41.901658,-123.648973,1547,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+744,841,"Taylor Lake CA core",41.36144,-122.968648,1979,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+745,842,"USL core",42.03,-123.01,930,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+748,845,"Wildcat Lake core",37.96,-122.78,67,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+749,846,"Glenmire core 3",37.99,-122.77,399,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+753,850,"Lake Oswego core",45.41,-122.66,30,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-16",11
+754,851,"Porter Lake core",44.44,-123.24,73,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+755,852,"Warner Lake core",44.24,-122.95,590,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+759,856,"Five Lakes core",48.08,-118.92,780,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+840,937,"Mt Constitution C38 core",48.67642,-122.838074,735,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-888888","2021-05-07",13
+952,1423,"Clayoquot Core",49.25,-125.5,15,"lake sediment","Sieved","concentration","IMPD","-777777","2021-05-07",88
+7,1427,"Foy Core",48.16,-114.35,1006,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2020-03-13",11
+39,1429,"Frozen Lake core",49.6,-121.46,1180,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+40,1441,"Mount Barr Cirque core",49.26,-121.51,1376,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+838,1442,"Mt Constitution C11 core",48.659979,-122.833612,611,"small hollow","Sieved","concentration","Global Charcoal Database Version 3","central core","2021-05-07",13
+839,1443,"Mt Constitution C32 core",48.664006,-122.838676,611,"small hollow","Sieved","concentration","Global Charcoal Database Version 3","central core","2021-05-07",13
+837,1445,"Panther Core",48.65,-121.0333,1100,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+193,1465,"BG04A",45.8,-122.49,154,"lake sediment","Sieved","influx","Global Charcoal Database Version 3","central core","2021-05-07",10
+1377,1784,"Abalone Rocks Marsh core",33.956389,-119.976667,0,"bog sediment","pollen slide","count","IMPD","-999999","2021-02-15",137
+1381,1788,"Lake Eileen core",40.902,-106.673,3135,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1382,1789,"Gold Creek Lake core",40.781,-106.678,2917,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1383,1790,"Gem Lake Colorado core",40.881,-106.734,3101,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1385,1792,"Hinman Lake core",40.771,-106.827,2501,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1386,1793,"Middle Rainbow Lake core",40.648,-106.624,3001,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1387,1794,"Round Lake MZ core",40.473,-106.663,3071,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1388,1795,"Seven Lake MZ core",40.896,-106.681,3276,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1389,1796,"Teal Lake CO core",40.583,-106.608,2689,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1390,1797,"Whale Lake MZ core",40.556,-106.675,3059,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1391,1798,"Summit Lake MZ core",40.545,-106.682,3149,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1395,1802,"Tiago Lake MZ core",40.579,-106.613,2700,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34
+1596,2025,"Little Lake core 93",44.167778,-123.582222,210,"bog sediment","Sieved","influx","author","central core","2021-03-04",10
+1624,2062,"Lone Pine composite",40.2327333,-105.73165,3016,"lake sediment","Sieved","concentration","author","central core","2021-03-12",11
+1625,2063,"Odessa Lake composite",40.3303667,-105.6854,3051,"lake sediment","Sieved","concentration","author","central core","2021-03-12",11
+1626,2064,"Sand Beach composite",40.2187667,-105.6018,3140,"lake sediment","Sieved","concentration","author","central core","2021-03-12",11
+1627,2065,"Thunder Lake composite",40.2219,-105.6472833,3231,"lake sediment","Sieved","concentration","author","central core","2021-03-12",11
+1629,2067,"Yahoo Lake core",47.683333,-124.016667,710,"lake sediment","Sieved","concentration","author","central core","2021-03-12",88
+1653,2098,"Rice lake core",48,-101.53333,620,"lake sediment","Sieved","concentration","author","central core","2021-03-25",11
+1712,2157,"ODP hole 893A",34.28,-120.03,-577,"marine sediment","Pollen slide","concentration","Pangaea","-888888","2021-03-26",22
+1781,2232,"Swamp Lake core",37.95,-119.816667,1554,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2021-04-16",128
+1802,2255,"Kettle Lake core",48.607198,-103.623723,610,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-04-29",149
+1803,2256,"Beef Pasture core H 25-50µm",37.41,-108.15,3060,"bog sediment","pollen slide","concentration","global charcoal database version 4","central core","2021-05-04",89

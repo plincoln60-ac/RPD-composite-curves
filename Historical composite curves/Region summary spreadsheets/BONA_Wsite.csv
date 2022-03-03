@@ -1,0 +1,79 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+17,"Beach Lake",65.216667,-127.05,81,"lacustrine",-999999,"-999999","-999999","-999999",-999999,-999999
+27,"Maligne Lake",52.708479,-117.608897,1675,"lacustrine",35,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",19.71,-999999
+29,"Ninisith Lake",59.58,-113,225,"lacustrine",3.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+29,"Ninisith Lake",59.58,-113,225,"lacustrine",3.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+37,"Wilcox Pass",52.241667,-117.216667,2355,"terrestrial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+38,"Dog Lake",50.76,-116.1,1183,"lacustrine",4.7,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.151,20.8
+110,"Paradox Lake",60.623074,-150.757767,68,"lacustrine",15.8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.12,-999999
+162,"Jackfish",63.02,-136.47,655,"lacustrine, glacial origin",8,"-777777","-777777","-777777",NA,NA
+164,"Oops",65.44,-147.63,488,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+166,"Ruppert Lake",67.071111,-154.245833,230,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","-999999","-999999",0.03,-999999
+168,"wild tussock",67.15,-151.86,250,"lacustrine, thermokarst origin",-999999,"small (0.01-1 km2)","-999999","-999999",0.02,-999999
+169,"Wild Tussock Lake",67.128,-151.382,290,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","-999999","-999999",0.15,-999999
+170,"Last Chance",67.07,-150.75,250,"lacustrine, thermokarst origin",8.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.34,-999999
+171,"7-M Lake",62.5,-113.72,213,"lacustrine",6.5,"medium (1.1-50 km2)","small (less than 10 km2)","-999999",0.12,-999999
+172,"Arrow Lake",60.75,-150.516667,90,"lacustrine",10.5,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",0.105,-999999
+173,"Rock Lake",60.416667,-150.25,285,"lacustrine",5.3,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+175,"Portage Lake",60.716667,-150.5333,75,"lacustrine",15.6,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.116,-999999
+244,"Nicole Lake",62.898592,-114.806868,300,"lacustrine",5.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.08,-999999
+245,"Scotty Lake",54.71,-101.68,305,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.12,-999999
+375,"Brenda Lake",62.35,-119.19,207,"lacustrine",5.86,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+376,"Andy Lake",61.95,-109.81,360,"lacustrine",9.5,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+377,"Jason",61.68,-107.78,120,"lacustrine",12.6,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.01,-999999
+378,"Corral Lake",57.32,-100.85,75,"lacustrine",7.5,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.08,-999999
+931,"Crater Lake Alaska",62.101714,-146.238431,806,"lacustrine",4.2,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.01,-999999
+1150,"JPH4",57.112222,-111.423333,336,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1165,"McKay",57.228333,-111.7,302,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1166,"McMurray",56.627778,-111.194167,387,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1195,"Utikuma",56.076389,-115.475278,675,"terrestrial, bog",-888888,"-999999","-999999","-999999",-999999,-999999
+1137,"Dimple Lake Alaska",69.956951,-150.201839,394,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.1,-999999
+1141,"E5",68.64,-149.46,805,"lacustrine",12,"small (0.01-1 km2)","-999999","in and out flow",0.1,-999999
+1151,"Keche Lake",68.017444,-146.923806,740,"lacustrine",14.5,"small (0.01-1 km2)","-999999","in and out flow",0.802,-999999
+1160,"Little Isac",67.941083,-160.797111,210,"lacustrine",5.4,"small (0.01-1 km2)","-999999","in and out flow",0.029,-999999
+1174,"Perch Lake",68.941494,-150.499372,400,"lacustrine",12.6,"small (0.01-1 km2)","-999999","-999999",0.14,-999999
+1179,"Raven Lake",68.009028,-162.035694,118,"lacustrine",4.9,"small (0.01-1 km2)","-999999","in and out flow",0.057,-999999
+1191,"Tungak Lake",61.43,-164.2,25,"lacustrine",15.4,"medium (1.1-50 km2)","-999999","-999999",1.17,-999999
+1194,"Upper Capsule Lake",68.6286,-149.413528,800,"lacustrine",5.7,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.011,3.5
+1161,"Loon Lake",67.92926944,-161.96694444,140,"lacustrine",12.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.14,0.545
+1206,"Anzac",56.471944,-111.042778,497,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1227,"Seba",53.476111,-114.878611,807,"terrestrial, bog",-888888,"-999999","-999999","-999999",-999999,-999999
+1147,"Hudson Lake",61.897711,-145.670722,860,"lacustrine",1.4,"medium (1.1-50 km2)","-999999","closed - no inflow or outflow",2.7,-999999
+1240,"Mildred",56.930556,-111.475,334,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1177,"Poktovik Lake",68.031778,-161.374722,160,"lacustrine",13.4,"small (0.01-1 km2)","-999999","in and out flow",0.063,-999999
+1202,"Salmo Lake",60.4455555,-133.5613888,866,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1192,"Uchugrak",68.05,-161.72,216,"lacustrine",9.2,"small (0.01-1 km2)","-777777","in and out flow",0.092,NA
+1262,"BC 1",57.1477833,-120.6513833,120,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1302,"NW 1",61.8459167,-122.4,120,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1344,"Lin",61.48,-163.43,2,"lacustrine",1,"very small (less than 0.01 km2)","-999999","in and out flow",0.003,NA
+1375,"Fariya Lake",59.8483333333333,-111.291111111111,225,"lacustrine",5.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.012,-999999
+907,"Rainbow Lake A",59.8,-112.16,225,"lacustrine",10,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.027,-999999
+1384,"Minnesota Plateau Lake",62.541794,-146.238431,827,"lacustrine",5.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.05,-999999
+1392,"Super Cub Lake",62.296611,-145.347172,486,"lacustrine",4.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+1415,"Keyhole (Yukon)",61.078,-138.375,826,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0406,-999999
+1416,"UpperFly (Yukon)",61.04,-138.09,1326,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.105,-999999
+1417,"Sulphur (Yukon)",60.959,-137.852,847,"lacustrine",10,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",1.5,-999999
+1418,"Aishihik WA01 (Yukon)",61.233,-136.917,1000,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.001,-999999
+1466,"Chopper Lake",66.00225,-146.27532,-999999,"lacustrine",9.4,"-999999","-999999","outflow only",-999999,-999999
+1467,"Epilobium Lake",65.97248,-145.56712,366,"lacustrine",13.1,"-999999","-999999","outflow only",-999999,-999999
+1468,"Granger Lake",66.05754,-145.65209,-999999,"lacustrine",9.5,"-999999","-999999","in and out flow",-999999,-999999
+1469,"Jonah Lake",66.068,-145.08488,-999999,"lacustrine",9.2,"-999999","-999999","in and out flow",-999999,-999999
+1470,"Landing Lake",65.90337,-145.77707,394,"lacustrine",4.2,"-999999","-999999","inflow only",-999999,-999999
+1471,"Latitude Lake",65.92689,-146.14223,-999999,"lacustrine",17.5,"-999999","-999999","outflow only",-999999,-999999
+1472,"Lucky Lake",66.01737,-145.52501,-999999,"lacustrine",9.4,"-999999","-999999","outflow only",-999999,-999999
+1473,"Noir Lake",66.00261,-145.92613,-999999,"lacustrine",15.3,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1474,"Picea Lake",65.88162,-145.58768,269,"lacustrine",7.3,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1475,"Reunion Lake",66.00925,-146.1078,306,"lacustrine",7.7,"-999999","-999999","outflow only",-999999,-999999
+1476,"Robinson Lake",65.97158,-145.69925,-999999,"lacustrine",8.1,"-999999","-999999","outflow only",-999999,-999999
+1477,"Screaming Lynx Lake",66.06815,-145.4044,276,"lacustrine",7.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.035,-999999
+1478,"West Crazy Lake",65.89142,-145.62195,-999999,"lacustrine",6.1,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1479,"Windy Lake",66.04169,-145.75471,-999999,"lacustrine",11.6,"-999999","-999999","outflow only",-999999,-999999
+1618,"Dragonfly Lake",60.8119444,-135.34,760,"lacustrine",2,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.06,-999999
+1620,"Haircut Lake",60.515555,-133.205555,1000,"lacustrine",8.64,"small (0.01-1 km2)","-999999","in and out flow",0.1,-999999
+1637,"Jan Lake",63.56667,-143.9,485,"lacustrine",12,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.143,0.643
+1643,"Marcella Lake",60.0736111,-133.807777,697,"lacustrine",9.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.04,0.8
+1644,"Sands of Time",66.0285,-147.549,256,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.7,NA
+1646,"Mallard Lake",51.287669,-101.324722,570,"lacustrine",8.78,"small (0.01-1 km2)","-999999","-999999",0.08,-999999
+1785,"Deuce Lake",65.51667,-147.5167,170,"lacustrine, thermokarst origin",5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.03,-999999
+1786,"Dune Lake",64.41667,-149.9,134,"lacustrine",9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.12,-999999
+1955,"Niliq Lake",67.867867,-160.431633,270,"lacustrine",4.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999

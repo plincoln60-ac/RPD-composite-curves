@@ -1,0 +1,8 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+256,"Kabata Swamp",0.48,30.26,1370,"lacustrine, volcanic lake",0,"-777777","-777777","closed - no inflow or outflow",NA,NA
+649,"Mai Maikden II",13.583625,39.568911,2228,"terrestrial",-888888,"-999999","medium (10.1-500 km2)","-888888",-999999,-999999
+653,"Hayk",11.35,39.71,1920,"-777777",0,"-777777","-777777","-777777",NA,NA
+865,"Lake Doukoulou",4.252778,18.423611,400,"lacustrine",2.35,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.36,-999999
+866,"Lake Gbali",4.818611,18.262778,400,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.02,-999999
+868,"Lake Nguengue",3.761111,18.121944,385,"lacustrine",2.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.14,-999999
+899,"Garba Guracha",6.88193762812471,39.8712116233205,3950,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.15,-999999

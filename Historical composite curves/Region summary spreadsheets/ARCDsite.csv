@@ -1,0 +1,29 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+320,"Santa Maria",-1.57,-53.6,17,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+688,"Marcacocha",-13.21,-72.2,3355,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+695,"Carajas",-6,-50.16,250,"lacustrine",NA,"-777777","-777777","-777777",NA,NA
+750,"Yaguaru",-15.6,-63.21,195,"lacustrine",1.1,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",NA,NA
+1605,"Lake Carana",-2.834645,-55.041785,5,"lacustrine",3,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.7,-999999
+1607,"Lago Rogaguado",-4.374611,-79.111528,125,"lacustrine",4,"large (50.1-500 km2)","-999999","closed - no inflow or outflow",315,-999999
+1611,"Laguna Rabadilla de Vaca",-3.980917,-79.074472,1990,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.06,2
+1693,"Laguna Chaplin",-14.466667,-61.066667,200,"lacustrine, tectonic origin",2,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",17,-999999
+1694,"Laguna Bella Vista",-13.6167,-61.55,191,"lacustrine, tectonic origin",2,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",29,-999999
+1697,"Lagoa do Caco",-2.970219,-43.267808,120,"lacustrine",12,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",1.5,15
+1716,"Lake Pacucha",-13.6072,-73.495,3095,"lacustrine",30,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",7.5,-999999
+1759,"El Tiro Bog",-3.84,-79.14,2810,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1851,"Lake Comprida",-1.62,-53.99,130,"lacustrine, fluvial origin",5,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.78,-999999
+1860,"Gentry Lake",-12.17,-69.09,270,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.35,-999999
+1861,"Geral",-1.64,-53.59,130,"lacustrine",6,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",3,-999999
+1868,"Lago Crispim",-0.62,-47.64,2,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.03,-999999
+1870,"Lago do Pires",-17.95,-42.21,390,"lacustrine",5,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.025,-999999
+1871,"Lagoa da Curuca",-0.76,-47.85,35,"lacustrine",2,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.15,-999999
+1872,"Lagoa Nova",-17.95,-42.2,390,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.02,-999999
+1873,"Laguna Chorreras",-2.75,-79.16,3700,"lacustrine, glacial origin",14,"small (0.01-1 km2)","-999999","in and out flow",0.17,-999999
+1874,"Laguna de Chochos",-7.63,-77.47,3285,"lacustrine, glacial origin",10,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1890,"Lake Santa Rosa",-14.47,-67.87,350,"lacustrine",-777777,"-777777","-777777","-777777",-777777,-777777
+1893,"Lake Titicaca",-16.13,-69.15,3810,"lacustrine, tectonic origin",152,"very large (more than 500 km2)","large (more than 500 km2)","in and out flow",8500,58000
+1900,"Parker Lake",-12.14,-69.02,276,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.33,-999999
+1907,"Rio Curua",-1.73,-51.45,3,"fluvial",5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1911,"Surucucho",-3.06,-78,3180,"lacustrine",14,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-777777,-777777
+1914,"Vargas Lake",-12.37,-68.89,246,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.8,-999999
+1916,"Werth Lake",-11.74,-69.23,302,"lacustrine",1.5,"-999999","-999999","closed - no inflow or outflow",0.25,-999999

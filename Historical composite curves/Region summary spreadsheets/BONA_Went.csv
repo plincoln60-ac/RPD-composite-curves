@@ -1,0 +1,79 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+17,29,"Beach Lake core",65.216667,-127.05,81,"lake sediment","-777777","concentration","IMPD","-999999","2021-05-07",69
+27,47,"Maligne Lake core_14_24",52.708479,-117.608897,1675,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",86
+29,51,"Ninisith Lake core 3",59.58,-113,225,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",145
+29,53,"Ninisith Lake core 5",59.58,-113,225,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",145
+37,63,"Wilcox Pass core gtr30",52.24,-117.21,2355,"lake sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",64
+38,64,"Dog Lake core",50.76,-116.1,1183,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",17
+110,146,"Paradox Lake core",60.62,-150.75,68,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+162,211,"Jackfish core",63.02,-136.47,655,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+164,213,"Oops core",65.44,-147.63,488,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+166,215,"Ruppert core",67.07,-154.24,230,"lake sediment","Sieved","influx","IMPD","central core","2021-05-07",10
+168,217,"Code core",67.15,-151.86,250,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+169,218,"Wild Tussock core",67.128,-151.382,290,"lake sediment","Sieved","influx","IMPD","central core","2021-05-07",10
+170,219,"Last Chance core",67.07,-150.75,250,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+171,220,"7-M core",62.5,-113.72,213,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",149
+172,221,"Arrow core",60.75,-150.516667,90,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",149
+173,222,"Rock Lake core",60.416667,-150.25,285,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",149
+175,224,"Portage core",60.716667,-150.5333,75,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",149
+244,297,"Nicole Lake core",62.898592,-114.806868,300,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+245,300,"Scotty Lake core_area",54.71,-101.68,305,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",10
+375,447,"Brenda Lake  core",62.35,-119.19,207,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+376,449,"Andy Lake  core",61.95,-109.81,360,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+377,452,"Jason  core",61.68,-107.78,120,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+378,454,"Corral Lake core",57.32,-100.85,75,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",152
+931,1344,"Crater Lake core",62.1,-146.238,806,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",113
+1150,1361,"JPH4",57.112222,-111.423333,336,"bog sediment","Sieved","concentration","author","central core","2020-03-13",181
+1165,1383,"McK",57.228333,-111.7,302,"bog sediment","Sieved","concentration","author","central core","2020-03-13",181
+1166,1384,"McM",56.627778,-111.194167,387,"bog sediment","Sieved","concentration","author","central core","2020-03-13",181
+1195,1412,"UTK",56.076389,-115.475278,675,"bog sediment","Sieved","concentration","author","central core","2020-03-13",181
+1137,1424,"Dimple core",69.956951,-150.201839,394,"lake sediment","Sieved","influx","NOAA","central core","2021-05-07",15
+1141,1425,"E5 core",68.64,-149.46,805,"lake sediment","Sieved","concentration","author","central core","2020-03-13",13
+1151,1431,"Keche Lake core",68.017444,-146.923806,740,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",34
+1160,1436,"Little Isac core",67.93,-160.78,210,"lake sediment","Sieved","influx","NOAA","central core","2021-05-07",15
+1174,1446,"Perch Lake core",68.941494,-150.499372,400,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",34
+1179,1448,"Raven core",68.009028,-162.035694,118,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",15
+1191,1451,"Tungak Lake core",61.43,-164.2,25,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",34
+1194,1453,"Upper Capsule Lake core",68.6286,-149.413528,800,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",34
+1161,1470,"Loon Lake core",67.92926944,-161.96694444,140,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",34
+1206,1489,"ANZ",56.471944,-111.042778,497,"bog sediment","Sieved","concentration","author","central core","2020-03-27",181
+1227,1519,"SEB",53.476111,-114.878611,807,"bog sediment","Sieved","concentration","author","marginal core","2020-03-27",181
+1147,1531,"Hudson Lake core conc",61.897711,-145.670722,860,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",134
+1240,1547,"MIL",56.930556,-111.475,334,"bog sediment","Sieved","concentration","author","central core","2020-03-30",181
+1177,1551,"Poktovik core conc",68.02,-161.37,160,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",134
+1202,1555,"Salmo Lake Core A conc",60.4455555,-133.5613888,866,"lake sediment","Sieved","concentration","author","central core","2020-03-30",134
+1192,1559,"Uchugrak core conc",68.05,-161.72,216,"lake sediment","Sieved","concentration","NOAA","central core","2021-05-07",134
+1262,1607,"BC 1A conc",57.1477833,-120.6513833,120,"bog sediment","Sieved","concentration","author","central core","2020-04-10",134
+1302,1677,"NW 1 core",61.8459167,-122.4,120,"bog sediment","Sieved","concentration","author","central core",NA,137
+1344,1735,"Lin core conc",61.48,-163.43,2,"lake sediment","Sieved","concentration","author","central core","2021-02-10",17
+1375,1780,"Fariya Lake core_micro",59.8483333333333,-111.291111111111,225,"lake sediment","pollen slide","influx","IMPD","-999999","2021-02-15",226
+907,1782,"Rainbow Lake core",59.8,-112.166666666667,225,"lake sediment","pollen slide","influx","IMPD","-999999","2021-02-15",226
+1384,1791,"Minnesota Plateau Lake core",62.541794,-146.238431,827,"lake sediment","sieved","count","IMPD","-999999","2021-02-15",113
+1392,1799,"Super Cub Lake core",62.296611,-145.347172,486,"lake sediment","sieved","count","IMPD","-999999","2021-02-15",113
+1415,1829,"Keyhole core",61.078,-138.375,826,"lake sediment","-999999","influx","author","central core","2021-02-15",245
+1416,1830,"Upper Fly core_micro",61.04,-138.09,1326,"lake sediment","Pollen slide","influx","author","central core","2021-02-15",246
+1417,1832,"Sulphur core_micro",60.959,-137.852,847,"lake sediment","Pollen slide","influx","author","central core","2021-02-15",246
+1418,1834,"Aishihik WA01_micro",61.233,-136.917,1000,"lake sediment","Pollen slide","concentration","author","-999999","2021-02-15",169
+1466,1883,"Chopper Lake core",66.00225,-146.27532,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1467,1884,"Epilobium Lake core",65.97248,-145.56712,366,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1468,1885,"Granger Lake core",66.05754,-145.65209,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1469,1886,"Jonah Lake core",66.068,-145.08488,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1470,1887,"Landing Lake core",65.90337,-145.77707,394,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1471,1888,"Latitude Lake core",65.92689,-146.14223,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1472,1889,"Lucky Lake core",66.01737,-145.52501,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1473,1890,"Noir Lake core",66.00261,-145.92613,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1474,1891,"Picea Lake core",65.88162,-145.58768,269,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1475,1892,"Reunion Lake core",66.00925,-146.1078,306,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1476,1893,"Robinson Lake core",65.97158,-145.69925,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1477,1894,"Screaming Lynx Lake core",66.06815,-145.4044,276,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1478,1895,"West Crazy Lake core",65.89142,-145.62195,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1479,1896,"Windy Lake core",66.04169,-145.75471,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113
+1618,2054,"Dragonfly Lake Core A",60.8119444,-135.34,760,"lake sediment","Sieved","concentration","author","central core","2021-03-11",84
+1620,2057,"Haircut Lake Core A conc",60.515555,-133.205555,1000,"lake sediment","Sieved","concentration","author","central core","2021-03-12",134
+1637,2076,"Jan Lake core_gtr125",63.56667,-143.9,485,"lake sediment","Sieved","concentration","author","central core","2021-05-08",11
+1643,2088,"Marcella Lake Core A-Z composite",60.0736111,-133.807777,697,"lake sediment","Sieved","concentration","author","central core","2021-03-19",299
+1644,2089,"SoT Core Z",66.0285,-147.549,256,"lake sediment","Charcoal particles identified by imaging software","concentration","author","central core","2021-03-19",108
+1646,2091,"Mallard Lake core",51.287669,-101.324722,570,"lake sediment","Sieved","concentration","NOAA","central core","2021-03-19",113
+1785,2238,"Deuce Lake core",65.51667,-147.5167,170,"lake sediment","Charcoal particles identified by imaging software","influx","author","central core","2021-04-28",149
+1786,2239,"Dune Lake Core A",64.41667,-149.9,134,"lake sediment","Charcoal particles identified by imaging software","influx","author","central core","2021-04-28",149
+1955,2424,"Niliq core",67.867867,-160.431633,270,"lake sediment","pollen slide","count","arctic data center","central core","2021-06-03",188

@@ -1,0 +1,43 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+90,"Huguangyan Maar Lake",21.15,110.28,87.6,"lacustrine",22,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",2.3,3.5
+238,"Tugupugua",-5.66,142.61,2300,"terrestrial, fen",0,"small (0.01-1 km2)","-777777","-777777",NA,NA
+250,"Laukutu Swamp",-9.47,160.08,20,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+499,"Xishuangbanna",21.5,101.5,900,"terrestrial, fen",1,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+506,"Ajkwa 1",-4.86,136.96,1.3,"coastal, estuarine",-888888,"-888888","-999999","-888888",-888888,-999999
+507,"Ajkwa 2",-4.86,136.96,1.3,"coastal, estuarine",-888888,"-888888","-999999","-888888",-888888,-999999
+508,"Ajkwa 3",-4.86,136.96,1.3,"coastal, estuarine",-888888,"-888888","-999999","-888888",-888888,-999999
+509,"Ajkwa 4",-4.86,136.96,1.3,"coastal, estuarine",-888888,"-888888","-999999","-888888",-888888,-999999
+510,"Ajkwa 5",-4.86,136.96,1.3,"coastal, estuarine",-888888,"-888888","-999999","-888888",-888888,-999999
+513,"Aru",-5.91,134.2,1,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+515,"Hogayaku",-3.98,137.38,3580,"lacustrine, glacial origin",0,"-777777","-777777","-777777",NA,NA
+516,"Lake Hordorli",-2.53,140.55,680,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+566,"Kelela Swamp",-4.02,138.91,1650,"terrestrial, bog",0,"medium (1.1-50 km2)","medium (10.1-500 km2)","-777777",NA,NA
+569,"Laravita",-8.39,147.35,3570,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+570,"Aguai Ramata",-6.56,145.21,1950,"lacustrine, volcanic lake",2.9,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+571,"Sondambile",-6.34,147.11,2850,"lacustrine, glacial origin",4.8,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+575,"Wanum",-6.63,146.79,35,"lacustrine",3.5,"medium (1.1-50 km2)","medium (10.1-500 km2)","-777777",NA,NA
+580,"Yawi Ti",-6.61,143.88,1150,"terrestrial, bog",0,"medium (1.1-50 km2)","medium (10.1-500 km2)","-777777",NA,NA
+655,"Lombok Ridge Core G6-4 B",-10.78,118.06,-3510,"marine",3510,"very large (more than 500 km2)","large (more than 500 km2)","-888888",NA,NA
+677,"Ngardmau",7.6,134.57,10,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+679,"Ngerdok",7.52,134.6,25,"lacustrine",4.6,"medium (1.1-50 km2)","-777777","-777777",NA,NA
+680,"Olbed",7.5,134.54,20,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+699,"Ngerkell",7.6,134.62,10,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+700,"Mela Swamp",-9.47,160.08,20,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+703,"Neon",-8.47,147.3,2875,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+1025,"ODP-1144",20.05,117.41,-2037,"marine",2037,"-888888","-888888","-888888",-888888,-888888
+1533,"Song Mu Ping Swamp (Jinggang Mountains)",26.58,114.08,1269,"fluvial",NA,"-999999","-999999","-999999",-999999,-999999
+1535,"Xingyun Lake",24.33,102.77,1723,"lacustrine",7.3,"medium (1.1-50 km2)","medium (10.1-500 km2)","outflow only",34.329,378
+1578,"Chenghai Lake",26.45,100.63,1509,"lacustrine",31.8,"large (50.1-500 km2)","large (more than 500 km2)","closed - no inflow or outflow",77.2,-999999
+1579,"Qinghai Lake",25.13,98.57,1885,"lacustrine, volcanic lake",6.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.25,1.5
+1756,"Anggi Lakes",-1.39,133.894893,1945,"lacustrine, tectonic origin",200,"medium (1.1-50 km2)","medium (10.1-500 km2)","outflow only",-999999,-999999
+1761,"Horton Plains",6.8,80.49,2200,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-999999",-999999,-999999
+1765,"Kosipe Swamp",-8.46,147.2,1960,"terrestrial, marsh",-888888,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",12,-999999
+1774,"Nong Pa Kho",17.01,102.93,380,"terrestrial, fen",3.5,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+1775,"Pemerak Swamp",0.78,112.05,40,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+1780,"Supulah Hill",-4.11,138.96,1580,"terrestrial, bog",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-888888,-888888
+1783,"Wanda",-2.33,121.23,440,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.05,0.14
+1827,"Sungai Buluh",-1.23611,103.62,18,"terrestrial, bog",-888888,"large (50.1-500 km2)","medium (10.1-500 km2)","-888888",180,-999999
+1828,"Mythadi Sacred Grove",12.220278,75.791944,879,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1829,"Bopaiah",12.153889,75.713056,910,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1830,"Rajus",12.178611,75.8175,824,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1831,"Tea Shettigeri",12.046667,75.975556,820,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999

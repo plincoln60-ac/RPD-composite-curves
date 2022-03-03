@@ -1,0 +1,25 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+406,"Lago Verde",18.61,-95.34,149,"lacustrine, volcanic lake",4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+684,"Laguna Verde",13.89,-89.78,1600,"lacustrine",4.15,"-777777","-777777","-777777",NA,NA
+685,"Laguna Cuzcachapa",13.98,-89.68,709,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+687,"Laguna Santa Elena",8.56,-82.56,1100,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+690,"Laguna Pompal",18.37,-94.95,700,"lacustrine",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",-999999,-999999
+719,"Cantarrana",10.43,-84,36,"terrestrial, bog",0.01,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.005,-999999
+730,"Laguna Bonillita",9.99,-83.61,450,"lacustrine",20,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+738,"Pie de Gigante",11.38,-86.03,-777777,"coastal",1.3,"-777777","-777777","-777777",NA,NA
+739,"Laguna Herradura",22.01,-98.15,-777777,"lacustrine, fluvial origin",-777777,"-777777","-777777","-777777",NA,NA
+751,"Laguna de Salvador",18.795786,-70.886979,990,"lacustrine",2.8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+752,"Leguna Castilla",18.7978,-70.8761,976,"lacustrine",4.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1600,"Iztapa",13.951908,-90.659736,10,"terrestrial, marsh",NA,"-999999","-999999","-999999",-999999,-999999
+1842,"Aguada de Petapilla",14.86,-89.12,705,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.09,-999999
+1845,"Bao-1",19.06,-71.03,1775,"terrestrial, mire",0.15,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",-999999,0.75
+1850,"Laguna Charco Verde",11.47,-85.63,33,"lacustrine, volcanic lake",-999999,"-999999","-999999","-999999",-999999,-999999
+1867,"Lago Chirripo",9.483,-83.496,3520,"lacustrine",9,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.05,1
+1869,"Lago de las Morrenas",9.48,-83.48,3480,"lacustrine",8.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-777777,-777777
+1876,"Laguna Llana del Espino",13.95,-89.52,700,"lacustrine, tectonic origin",4.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",1,-999999
+1877,"Laguna Metapan",14.3,-89.47,450,"lacustrine, volcanic lake",-999999,"-999999","-999999","-999999",-999999,-999999
+1879,"Laguna Volcan",8.75,-82.68,1500,"lacustrine, volcanic lake",12,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+1880,"Laguna Zoncho",8.813,-82.963,1190,"lacustrine, tectonic origin",2.3,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0075,-999999
+1887,"Lake Miragoane",18.4,-73.05,20,"lacustrine, tectonic origin",41,"medium (1.1-50 km2)","small (less than 10 km2)","-999999",7.06,-999999
+1888,"Lake Nicaragua",11.76258,-85.872528,30,"lacustrine, tectonic origin",-777777,"very large (more than 500 km2)","large (more than 500 km2)","in and out flow",8264,41600
+1947,"Lake Aljojuca",19.09113,-97.533602,2376,"lacustrine, volcanic lake",30,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.78,-999999

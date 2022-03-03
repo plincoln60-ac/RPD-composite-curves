@@ -1,0 +1,7 @@
+"ID_ENTITY","ID_SAMPLE","depth","est_age","sed_rate","quant","conc","influx","xst_level","conc_source","influx_source"
+986,165056,0.285,-9999,0.00300695358015411,216249.74,216249.74,216249.74,"concentration","data","copied from quant "
+986,165060,0.445,643,0.00290144165382174,39312.8,39312.8,39312.8,"concentration","data","copied from quant "
+986,165065,0.645,-9999,0.079734219269103,102043.77,102043.77,102043.77,"concentration","data","copied from quant "
+986,165069,0.805,-9999,0.102564102564103,86911.34,86911.34,86911.34,"concentration","data","copied from quant "
+986,165073,0.965,1643,0.00253706493300563,1250968.65,1250968.65,1250968.65,"concentration","data","copied from quant "
+986,165078,1.165,-9999,0.0402684563758389,344524.89,344524.89,344524.89,"concentration","data","copied from quant "

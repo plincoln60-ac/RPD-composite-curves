@@ -1,0 +1,37 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+60,89,"Laguna Venus core",-45.53,-72.01,600,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",13
+66,96,"Morro de Itapeva core",-22.78,-45.57,1850,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",97
+67,97,"Serra Campos Gerais core_less50",-24.66,-50.21,1200,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",43
+76,107,"Mosquito Lake core",-42.493858,-71.404047,556,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",17
+94,130,"Sao Francisco de Assis core",-29.58,-55.21,100,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",98
+111,147,"Laguna Aculeo core",-33.8333,-70.91,350,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",2
+114,150,"Lago Condorito core",-41.75,-73.11,60,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",3
+117,153,"Lago Pollux core",-45.67,-71.86,640,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",11
+118,154,"PS0304A",-50.93,-72.76,200,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",2
+119,155,"Torres del Paine core",-51.08,-73.06,100,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",81
+120,156,"Lago Guanaco composite",-51.13,-73.1,60,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+121,158,"PTA02_4  gtr20",-51.96,-70.38,100,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",24
+122,159,"Rio Rubens core",-52.13,-71.88,220,"bog sediment","Sieved","concentration","IMPD","-999999","2021-05-07",11
+123,160,"Punta Arenas core",-53.15,-70.95,75,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",82
+125,162,"Puerto Haberton core",-54.88,-67.16,20,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",95
+457,542,"AZU 02_11_influx",-52.12,-69.52,100,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",8
+691,786,"Laguna Lincoln core",-45.36,-74.06,19,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",78
+692,787,"Laguna Lofel core",-44.92,-74.32,13,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",78
+693,788,"Laguna Six Minutes core",-46.41,-74.33,15,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",78
+741,838,"Lago Pichilafquen core",-39.220472,-72.208021,301,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+872,970,"LC06A",-42.3506788506558,-71.288480758667,818,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+873,971,"HH08B",-41.510751619562,-71.5075147743712,849,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",15
+874,972,"LCar08B",-41.3597617518288,-71.5084867140167,1280,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",15
+875,973,"Laguna la Zeta core",-42.8901629934376,-71.3493700797113,774,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",15
+876,974,"Lago Theobald core",-43.437931910209,-71.561818350962,678,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",15
+877,975,"MLN09A",-44.0071051387066,-71.4941418490453,1015,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+878,976,"LP09B",-44.2796728961738,-71.5233138517377,731,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",15
+902,1002,"Lake Facil core",-44.325,-74.2833,10,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 3","-777777","2020-03-06",164
+901,1003,"Laguna Oprasa core",-44.35555556,-73.65555556,50,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 3","-777777","2020-03-06",164
+1696,2140,"Cambara do Sul core",-29.0525,-50.1011,1040,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 3","central core","2021-05-08",134
+1758,2207,"Canal de la Puntilla core",-40.9525,-72.905,120,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-04-16",2
+1776,2227,"Puerto del Hambre core",-53.6,-70.91,6.25,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-04-16",81
+1782,2233,"Trebol Lake core",-41.07,-71.49,758,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-04-16",17
+1844,2299,"Aracatuba charcoal concentration",-25.91,-48.98,1500,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",129
+1856,2311,"Fazendo do Pinto core",-29.4,-50.56,900,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-888888","2021-05-12",164
+1918,2376,"Colonia basin composite core",-23.8675,-46.7075,700,"lake sediment","sieved","concentration","Pangaea","central core","2021-05-18",175

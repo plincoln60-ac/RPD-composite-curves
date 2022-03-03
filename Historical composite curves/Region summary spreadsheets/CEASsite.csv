@@ -1,0 +1,56 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+15,"Taylor Lake, Oregon",46.100556,123.906667,4,"lacustrine",4.5,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.04,-999999
+54,"Chyornaya Valley",44.56,33.62,2,"fluvial",2,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+55,"Yaila-Crimea",44.48,34.05,1205,"terrestrial",0,"very small (less than 0.01 km2)","small (less than 10 km2)","inflow only",NA,NA
+79,"Kunming Lake",39.98,116.26,48.6,"lacustrine",-777777,"medium (1.1-50 km2)","small (less than 10 km2)","-777777",NA,NA
+80,"Nanwangcun",37,118,10,"terrestrial",-777777,"-777777","-777777","-777777",NA,NA
+81,"Qindeli peat",47.92,133.22,74,"terrestrial, mire",80,"very large (more than 500 km2)","large (more than 500 km2)","in and out flow",NA,NA
+84,"Muchang",43.03,122.2,308.4,"terrestrial, marsh",0,"medium (1.1-50 km2)","-777777","-777777",NA,NA
+86,"Daxigou",43.14,86.91,3450,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+87,"Lijiayuan",36.11,104.85,1850,"terrestrial, loess",0,"-777777","-777777","-777777",NA,NA
+88,"Lingtai section",35,107.5,1400,"terrestrial, loess",0,"-777777","-777777","-777777",NA,NA
+91,"Longgan Lake",30.16,116.16,12.1,"lacustrine",3.78,"large (50.1-500 km2)","medium (10.1-500 km2)","in and out flow",316,-999999
+198,"Karakol",42.83,77.39,2353,"lacustrine",3,"small (0.01-1 km2)","medium (10.1-500 km2)","-777777",NA,NA
+248,"Zagas Nuur",48.5061,90.6099,2376,"lacustrine",15.9,"small (0.01-1 km2)","-777777","in and out flow",0.64,-999999
+334,"Kichikol",39.98,73.55,2541,"lacustrine",10,"small (0.01-1 km2)","medium (10.1-500 km2)","-777777",NA,NA
+335,"Bakaly",42.45,72.6,1879,"lacustrine",5,"small (0.01-1 km2)","medium (10.1-500 km2)","-777777",NA,NA
+350,"Sakhare",41.58,45.31,800,"lacustrine, playa",0.5,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+351,"Kumisi",41.58,44.83,469,"lacustrine, tectonic origin",3,"medium (1.1-50 km2)","small (less than 10 km2)","inflow only",5,-999999
+352,"Tsavkisi",41.68,44.71,1100,"terrestrial, bog",0.5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.03,-999999
+353,"Imera",41.65,44.21,1610,"terrestrial, bog",2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.06,1
+354,"Aligol",41.63,44.01,1550,"terrestrial, bog",0.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+355,"Ispani",41.86,41.8,2,"terrestrial, bog",-888888,"medium (1.1-50 km2)","small (less than 10 km2)","-888888",-999999,-999999
+452,"Xujianan",35.5,106,1620,"-777777",0,"-888888","-888888","-888888",NA,NA
+481,"Hatchodaira",35.23,135.83,810,"terrestrial, mire",-888888,"small (0.01-1 km2)","-777777","-777777",0.05,-777777
+482,"Ofuke",38.64,135.17,510,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+644,"Beaver Lake, Oregon",44.917167,123.296333,69,"lacustrine, fluvial origin",1.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.01,-999999
+708,"Caotanhu relic site",44.42,113.02,380,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+1119,"Airag Nuur",48.9087,93.3076,1030,"lacustrine",9.1,"large (50.1-500 km2)","medium (10.1-500 km2)","in and out flow",180.22,-999999
+1127,"Bayan Nuur",48.4631,95.1604,1540,"lacustrine",14,"large (50.1-500 km2)","medium (10.1-500 km2)","in and out flow",64.01,-999999
+1189,"Tsagaan Nuur",48.9118,94.867,1382,"lacustrine",6.6,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",12.42,-999999
+1153,"Kholboo Nuur",49.7014,91.0914,2570,"lacustrine",2.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.09,5.6
+1423,"Path (Nova Scotia)",45.869,63.077,15,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.219,-999999
+1491,"Crooked Pond",41.891667,70.65,28,"lacustrine",3.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.09,-999999
+1512,"Bayangdian Lake",38.84,115.99,7.97,"lacustrine",2,"-999999","medium (10.1-500 km2)","inflow only",-999999,366
+1515,"Jinchuan (Changbai Mountains)",42.3,126.4,614,"terrestrial, bog",NA,"medium (1.1-50 km2)","-999999","-999999",1.1,-999999
+1517,"Shenjiadian peatland, Sanjiang Plain",46.58,130.66,-999999,"terrestrial, bog",NA,"-999999","-999999","-999999",-999999,-999999
+1522,"Motianling peatland",47.37,120.65,1645,"terrestrial, bog",NA,"small (0.01-1 km2)","-999999","-999999",0.5,-999999
+1523,"Boluo Pond",44.38,124.82,-999999,"terrestrial, bog",NA,"large (50.1-500 km2)","-999999","in and out flow",70,-999999
+1524,"Jiandi Pond",45,122.34,-999999,"terrestrial, bog",NA,"large (50.1-500 km2)","-999999","in and out flow",230,-999999
+1525,"Wulan Pond",45.15,121.95,-999999,"terrestrial, bog",NA,"large (50.1-500 km2)","-999999","in and out flow",76,-999999
+1526,"Nam Co area",30.92,90.88,4718,"terrestrial, mire",NA,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",-999999,-999999
+1536,"Sayram Lake",44.58,81.15,2071.9,"lacustrine",86,"large (50.1-500 km2)","large (more than 500 km2)","inflow only",453,1408
+1539,"Lake Naleng",31.1,99.75,4200,"lacustrine",-999999,"medium (1.1-50 km2)","small (less than 10 km2)","-999999",1.8,1.8
+1541,"Erlongwan Maar Lake",42.3,126.38,724,"lacustrine, volcanic lake",36,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.3,-999999
+1554,"Gonghe Basin",35.65,101.1,3780,"terrestrial",NA,"large (50.1-500 km2)","-999999","-999999",13800,-999999
+1556,"Xiangcheng County",33.95,113.48,-999999,"terrestrial, loess",NA,"-999999","-999999","-999999",-999999,-999999
+1570,"Taibai Lake",30,115.81,10,"lacustrine",1.5,"medium (1.1-50 km2)","large (more than 500 km2)","in and out flow",28.98,607
+1574,"Daihai Lake",40.53,112.67,1221,"lacustrine",13.1,"large (50.1-500 km2)","-999999","-999999",133.5,-999999
+1577,"Caohu Lake",31.56,117.39,-999999,"lacustrine",2.69,"large (50.1-500 km2)","large (more than 500 km2)","-999999",825,9258
+1589,"Zoige Basin",33.45,102.63,3467,"terrestrial, bog",NA,"large (50.1-500 km2)","-999999","-999999",4500,-999999
+1591,"Xiadawu",35,99.26,3988,"archaeological site",NA,"-999999","-999999","-999999",-999999,-999999
+1592,"Tianchi Lake",35.26,106.31,2430,"lacustrine",8.2,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.02,-999999
+1650,"Bortala River",44.97373,81.03134,1300,"terrestrial, marsh",NA,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",38.4,-999999
+1763,"Jagaike",35.24,135.45,610,"terrestrial, mire",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.002,-999999
+1964,"Congping",31.4,110.04,2120,"terrestrial, bog",0.1,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",10,14
+1969,"Doroo Nuur",48.2459,90.6639,2394,"lacustrine",9.1,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",14.12,152.2

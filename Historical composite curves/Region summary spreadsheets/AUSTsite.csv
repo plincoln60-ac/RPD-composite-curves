@@ -1,0 +1,136 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+183,"Lake Baraba Thirlmere Lakes",-34.23,150.53,305,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.128,0.8236
+188,"Core Fr10 95-GC-17",-22.04,113.5,-1093,"marine",1093,"very large (more than 500 km2)","large (more than 500 km2)","-888888",NA,NA
+208,"Black Swamp",-32.05,151.4667,1450,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+209,"Boggy Swamp",-29.96,151.49,1160,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+210,"Butchers Swamp",-29.97,151.45,1230,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+213,"Dublin Bog",-41.72,146.23,710,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.5,-999999
+224,"Tadpole Swamp",-38.13,145.27,60,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+225,"Whitehaven Swamp",-20.3,148.9,45,"terrestrial, fen",1.1,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+226,"Buxton",-37.44,145.69,235,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+230,"Middle Patriarch Swamp",-39.99,148.18,19,"lacustrine, drained lake",-888888,"-777777","-777777","-777777",NA,NA
+231,"North Torbreck",-37.48,146.94,564,"fluvial",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+232,"Oaks Creek",-37.58,146.16,610,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+233,"Poets Hill",-41.88,145.55,600,"lacustrine, glacial origin",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+237,"Snobs Creek",-37.55,145.92,775,"terrestrial, bog",0,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+241,"Lake Mountain",-37.46,145.87,1450,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",NA,NA
+247,"Tiger Snake Swamp",-38.13,145.27,60,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+330,"Ajax Bog",-46.4192,169.2922,680,"terrestrial, bog",10,"small (0.01-1 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",-888888,-999999
+331,"Clarks Junction",-45.71,170.11,560,"terrestrial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+332,"Eweburn Bog",-45.32,167.8,320,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+333,"Glendhu Bog",-45.8333,169.75,600,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.036,2.2
+342,"Gooches Swamp",-33.45,150.26,960,"terrestrial, fen",-888888,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",0.4,-999999
+360,"Sapphire Swamp",-30.03,151.56,1260,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+361,"Burraga Swamp",-32.02,151.43,1462,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+362,"Killalea Lagoon",-34.6,150.86,22,"coastal, estuarine",1,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.23,1.5
+363,"Bondi Lake",-36.8,149.93,22,"coastal",4.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.7,3.5
+365,"Soleve",-17.25,-179.49,2,"terrestrial, bog",0.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+366,"Yacata Pond",-17.15,-179.51,2,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+367,"Voli Voli",-18.16,177.48,2,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.2,-888888
+372,"Waikaremoana",-38.7745,177.1124,582,"lacustrine, tectonic origin",248,"large (50.1-500 km2)","medium (10.1-500 km2)","in and out flow",56,347
+392,"Warrananga",-33.97,141.56,22,"lacustrine, salt lake, permanent",0.2,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",NA,NA
+393,"Byenup Lagoon",-34.46,116.73,175,"lacustrine",2.8,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",12,-999999
+394,"Wet Lagoon",-34.47,149.25,700,"terrestrial, bog",0,"-777777","medium (10.1-500 km2)","closed - no inflow or outflow",NA,NA
+395,"Bobundara Swamp",-36.5833,150.06,75,"coastal, estuarine",-999999,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",1.2,14.25
+396,"Kurnell Fen",-34.01,151.1,15,"coastal, estuarine",0,"-777777","-777777","-777777",NA,NA
+397,"Ryans Swamp",-35.09,150.39,8,"terrestrial, bog",1,"-777777","-777777","-777777",NA,NA
+417,"Rock Arch Swamp",-34.3,150.39,575,"terrestrial, fen",0.1,"small (0.01-1 km2)","medium (10.1-500 km2)","-777777",NA,NA
+418,"Cotter Source Bog center",-35.96,148.81,1755,"terrestrial, bog",0,"medium (1.1-50 km2)","medium (10.1-500 km2)","-777777",NA,NA
+419,"Tom Gregory Swamp",-35.64833,148.8305,1024,"terrestrial, bog",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.013,0.62
+420,"Rennix Gap",-36.22,148.3,1570,"terrestrial",0,"-777777","-777777","-777777",NA,NA
+421,"Ginini Flats",-35.31,148.46,1590,"terrestrial, bog",0,"-777777","medium (10.1-500 km2)","-777777",NA,NA
+422,"Den Plain",-41.50278,146.34167,350,"fluvial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+423,"Nursery Swamp",-35.675567,148.9672,1092,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.26,10
+425,"Argan Swamp",-10.05,142.06,3,"coastal",0,"small (0.01-1 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",NA,NA
+426,"Talita Kupai",-10.1,142.12,33,"coastal, estuarine",0,"-777777","-777777","-888888",NA,NA
+427,"Waruid",-10.4,142.09,5,"coastal",0.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+429,"Boigu Gawat",-10.1,142.14,10,"coastal",0.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+430,"Bar20",-10.1,142.12,18,"coastal",0.8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+431,"Zurath Islet Swamp",-10.16,142.06,3,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+432,"Muellers Rock",-35.39,148.5,1102,"terrestrial, bog",0,"-777777","-777777","in and out flow",NA,NA
+504,"Quambie Lagoon",-12.5,131.17,20,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+512,"Anumon Swamp",-20.1628,169.8275,45,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+514,"Cameron's Lagoon",-41.96,146.68,1045,"terrestrial, bog",1,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0025,-999999
+520,"Plum Swamp",-22.26,166.61,40,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+522,"Blue Lake Kosciuzko",-36.14,148.43,1950,"lacustrine",28,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.16,1.9
+523,"Grey Pole Swamp Broughton Island",-32.61,152.31,9,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+524,"Griffith Swamp",-33.28,151,20,"terrestrial, bog",0.1,"small (0.01-1 km2)","medium (10.1-500 km2)","outflow only",NA,NA
+525,"Hopwoods Lagoon",-33.21,150.99,38,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+526,"Howes Waterhole Swamp",-33.01,150.66,280,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+529,"Lake Couridjah Thirlmere Lakes",-34.23,150.54,310,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+530,"Lake Curlip",-37.83,148.56,2,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+531,"Lashmars Lagoon",-35.8,138.067,2,"lacustrine",-999999,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.5,60
+532,"Main Lake Tower Hill",-38.31,142.36,20,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+557,"Aire Crossing",-38.64,143.47,180,"terrestrial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+559,"Lake Condah",-38.06,141.83,60,"lacustrine",0.5,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",1.8,-999999
+560,"Tea Tree Swamp",-37.21,148.83,900,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.2,-999999
+563,"Wildes Meadow Swamp",-34.62,150.51,670,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+564,"South Salvation Creek Swamp",-33.63,151.25,132,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+565,"Bridgewater Lakes",-38.3,141.38,20,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+574,"Katoomba Swamp",-33.71,150.31,950,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+577,"Lake Johnston",-41.86,145.55,900,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+578,"Loch Sport Swamp",-37.96,147.68,2,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+579,"Long Swamp",-38.08,141.08,2,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+583,"Breadalbane",-34.8,149.51,694,"lacustrine, drained lake",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+584,"Brooks Ridge Fen",-36.15,148.59,1450,"terrestrial, fen",-888888,"-777777","-777777","-777777",NA,NA
+585,"Burralow Creek Swamp",-33.53,150.63,320,"terrestrial, fen",-888888,"-777777","-777777","-777777",NA,NA
+586,"Chapple Vale Swamp",-38.62,143.32,30,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+587,"Club Lake",-36.4,148.31,1995,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+591,"Kurnell Swamp",-34.03,151.21,2,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+632,"Rotten Swamp",-35.7,148.8833,1445,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.28,2.4
+598,"Egg Lagoon",-39.65,143.95,20,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+615,"Queens Swamp",-33.9,150.59,665,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+616,"Worimi Swamp",-32.51,152.33,8,"terrestrial, bog",0.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+617,"Wingecarribee Swamp",-34.56,150.51,685,"terrestrial, fen",0,"-777777","-777777","-777777",NA,NA
+618,"Bonatoa",-18.07,178.53,4,"terrestrial, bog",0.5,"medium (1.1-50 km2)","small (less than 10 km2)","-999999",-999999,-999999
+626,"Blundells Flat",-35.19,148.49,762,"terrestrial, fen",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",-999999,-999999
+628,"Cobrico Swamp",-38.3,143.03,140,"terrestrial, fen",1,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",-888888,-888888
+630,"Jibbon Lagoon",-34.08,151.15,65,"terrestrial, bog",0,"-777777","-777777","-777777",NA,NA
+631,"Lake Flannigan King Island",-39.6,143.95,40,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+633,"McKenzie Road Bog",-38.43,146.76,50,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+637,"Navatu",-18.07,178.53,4,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+638,"Sari",-16.63,179.5,67,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+639,"Vunimoli",-18.22,177.88,251,"terrestrial, bog",0.5,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+640,"Waitabu",-18.23,-178.78,43,"other",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+659,"Ringarooma River",-41.3,147.61,885,"terrestrial",0,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+661,"Cotter Source Bog",-35.755,148.8575,1755,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.05,0.25
+662,"Dalhousie Springs",-26.41,135.52,150,"terrestrial, mound spring or spring",0,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",NA,NA
+663,"Micalong Swamp",-35.33,148.51,1100,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",1,17
+664,"Mulloon Creek Swamp",-35.396667,149.585,799,"terrestrial, fen",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.14,54
+665,"Snowy Flats",-35.5655,148.864167,1618,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.12,1.85
+666,"Solomons Jewel Lake",-41.8,146.26,1185,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+667,"Yaouk Swamp",-35.49,148.5,1100,"lacustrine, drained lake",0,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",2.55,16.3
+668,"Bega Swamp",-36.51,149.5,1080,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+669,"Bolin Billabong",-37.7667,145.0667,50,"fluvial",3,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.017,-999999
+670,"Evoran Pond",-18.76,169.01,194,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+672,"Hogan's Billabong",-36.02,146.71,140,"lacustrine",3.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",NA,NA
+673,"Lake Hordern",-38.784,143.467,3,"lacustrine",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","-999999",-999999,-999999
+675,"Nadrau",-17.75,177.88,680,"terrestrial, bog",0.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",1.5,-999999
+682,"Stockyard Swamp Hunter Island",-40.55,144.75,65,"terrestrial, bog",0.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+657,"Lynchs Crater",-17.36,145.7,760,"lacustrine, drained lake",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.4,-999999
+734,"Lake Tyrrell",-35.31,142.78,42,"lacustrine, salt lake, permanent",0,"large (50.1-500 km2)","medium (10.1-500 km2)","inflow only",NA,NA
+904,"Tagamaucia",-16.49,-179.56,820,"lacustrine",2,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+1346,"Lake Kirkpatrick",-45.02706,168.57374,570,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+1347,"Dukes Tarn",-44.96418,168.49269,830,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.015,-999999
+1706,"Caledonia Fen",-37.3333,146.7333,1280,"terrestrial, fen",0.1,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.15,-999999
+1766,"Lac Suprin",-22.3,166.9833,230,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,0.06
+1784,"Xere Wapo",-22.29,166.97,220,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.85,1.5
+1843,"Allom Lake",-25.23,153.16,100,"lacustrine",3.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.015,-999999
+1847,"Boulder Flat",-37.45,148.92,25,"terrestrial",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-777777",-999999,-999999
+1853,"Cuddie Springs",-30.37,147.31,127,"lacustrine, drained lake",-888888,"medium (1.1-50 km2)","large (more than 500 km2)","inflow only",3,-999999
+1857,"Fred South Swamp",-38.13,141.78,27,"terrestrial, bog",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.012,-999999
+1858,"Gallaghers Swamp",-34.4903,150.723,535,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.18,0.27
+1863,"Ingar Swamp",-33.76,150.45,584,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1864,"Kings Tableland Swamp",-33.73,150.48,780,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1883,"Lake Euramoo",-17.15,145.62,718,"lacustrine, volcanic lake",18,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,0.0045
+1885,"Lake Frome",-30.68,139.78,40,"lacustrine, salt lake, permanent",-777777,"very large (more than 500 km2)","large (more than 500 km2)","in and out flow",2550,-999999
+1886,"Lake George",-35.06,149.41,673,"lacustrine",-999999,"large (50.1-500 km2)","large (more than 500 km2)","inflow only",155,932
+1891,"Lake Selina",-41.88,145.6,516,"lacustrine",6.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1897,"Newnes Swamp",-33.3825,150.2222,1060,"terrestrial, mire",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1898,"Northwest Crater Tower Hill",-38.31,142.36,20,"lacustrine, volcanic lake",0.36,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1899,"Notts Swamp",-33.80984,150.4077,682,"terrestrial, mire",-888888,"small (0.01-1 km2)","-999999","outflow only",-999999,-999999
+1901,"Penrith Lakes",-33.71,150.67,18,"lacustrine",-777777,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-777777,-777777
+1908,"Saint Louis Lac",-22.23,166.55,3,"terrestrial, bog",-999999,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,0.025
+1910,"Storm Creek",-37.44417,145.8006,1177,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.2,-999999
+1912,"Tom Burns",-37.38556,145.8181,1075,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.2,-999999
+1917,"Wyelangta",-38.64722,143.4614,450,"fluvial",-888888,"-888888","medium (10.1-500 km2)","in and out flow",-999999,-999999

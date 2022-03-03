@@ -1,0 +1,31 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+167,216,"Xindi core",67.111667,152.491667,240,"lake sediment","Sieved","influx","IMPD","central core","2021-05-07",10
+273,331,"Pechora core",62,52,127,"bog sediment","-777777","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+445,530,"Tel 2001-02",51.529167,87.714722,1900,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-19",23
+483,569,"Bolshoe bog core",51.46,104.5,450,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",156
+484,570,"Duliha bog core",51.51,105,510,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+486,572,"Duguldzeiri River bog core",54.45,109.53,529,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+1126,1336,"Batbold Nuur Core",51.3476,98.87493,2150,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1144,1353,"Ganbold Nuur Core",51.3346,98.8755333333333,2102,"lake sediment","Sieved","concentration","IMPD","marginal core","2021-05-07",113
+439,1376,"Lake Kirjavalampi core",61.7333,30.7667,5,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 3","central core","2021-05-19",130
+1171,1392,"Mustei Nuur Core",51.23923,99.00756,2353,"lake sediment","Sieved","concentration","IMPD","marginal core","2021-05-07",113
+1183,1401,"Sanjin Nuur Core",51.23183,99.02328,2250,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1190,1410,"Tsogtoo Nuur Core",51.34563,98.89736,2063,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1157,1433,"Larix Hollow core",61.8459167,37.7565,155,"small hollow","Pollen slide","concentration","author","central core","2020-03-13",19
+1204,1440,"Mosquito Hollow core",61.8518667,37.7702833,155,"small hollow","Pollen slide","concentration","author","central core","2020-03-13",19
+1172,1444,"Olga Hollow core",61.2016,37.5905,200,"small hollow","Pollen slide","concentration","author","central core","2020-03-13",19
+1251,1579,"Pine hollow (RUmic)",61.870278,37.993611,155,"small hollow","Pollen slide","concentration","author","central core","2021-07-28",3
+1254,1584,"Polttiais hollow (RUmic)",62.275833,36.750833,140,"small hollow","Pollen slide","concentration","author","central core","2021-07-28",3
+1123,1586,"Akkol Lake core",50.25,89.625,2204,"lake sediment","Pollen slide","concentration","author","marginal core","2020-04-08",159
+1146,1594,"Grusha Lake core",50.3833,89.4167,2413,"lake sediment","Pollen slide","concentration","author","marginal core","2020-04-08",159
+1271,1632,"Krugloe Bog core",56.8956,84.5761,100,"bog sediment","Pollen slide","concentration","author","central core","2020-04-17",159
+1273,1634,"Manzherok Lake core",51.8208,85.8097,423,"lake sediment","Pollen slide","concentration","author","central core","2020-04-17",159
+1326,1710,"Plotnikovo Mire core",56.83552,83.284014,120,"bog sediment","Sieved","concentration","author","marginal core","2021-02-10",204
+1330,1714,"Lake Kharinei core 1",67.37,62.75,108,"lake sediment","Pollen slide","concentration","author","central core","2021-02-10",117
+1334,1719,"Yak2A",61.6961944,55.5743333,140,"bog sediment","Charcoal particles identified by imaging software","influx","author","central core","2021-02-10",14
+1335,1721,"Yak3A",61.7314306,55.4943334,131,"bog sediment","Charcoal particles identified by imaging software","influx","author","central core","2021-02-10",14
+1580,2009,"Tuqiang section",52.94,122.86,468,"bog sediment","Pollen slide","concentration","author","-999999","2021-03-04",123
+1588,2017,"Pangu peat profile",52.55,123.74,495,"bog sediment","Pollen slide","concentration","digitized from publication","-999999","2021-03-04",152
+1635,2074,"Mukhrino Mire core",60.8889,68.7026,35,"bog sediment","Pollen slide","concentration","author","central core","2021-03-18",294
+1674,2119,"Uzunkol Lake core",50.4833,87.1083,1985,"lake sediment","Pollen slide","concentration","author","central core","2021-03-25",159
+1994,2468,"CHK",62,130.06,129,"lake sediment","Sieved","concentration","author","central core","2021-07-21",612

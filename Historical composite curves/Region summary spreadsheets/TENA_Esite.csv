@@ -1,0 +1,141 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+26,"Howes Prairie Marsh",41.65,-87.072222,185,"terrestrial, marsh",-888888,"very small (less than 0.01 km2)","-999999","closed - no inflow or outflow",6e-04,-999999
+97,"Lac Francis",48.5264,-79.4722,305,"lacustrine, glacial origin",6,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.008,-999999
+98,"Pas-de-Fond",48.8083,-78.8083,290,"lacustrine, glacial origin",11,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.02,-999999
+130,"Ferry Lake",46.01,-92.13,25,"lacustrine, glacial origin",12,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+138,"Curt Pond",36.9,-84.03,336,"terrestrial, small hollow",0.2,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+139,"Cliff Palace Pond",37.52,-83.92,424,"terrestrial, small hollow",0.14,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.001,0.005
+140,"Horse Cove Bog",35.04,-83.15,887,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.12,-999999
+141,"Mound G Pond Shiloh Indian Mounds",35.14,-88.2,143,"terrestrial, small hollow",0.48,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+143,"Tuskegee Pond",35.58,-84.21,240,"lacustrine",0.4,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+144,"Black Pond",35.62,-84.18,262,"lacustrine",0.1,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+151,"Albion",45.6708,-71.325,320,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.025,-999999
+153,"Desautels",49.4578,-73.2567,480,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.3,-999999
+158,"Spearman",46.5439,-78.5028,368,"lacustrine",1.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.031,-999999
+159,"Yamaska",45.4578,-72.8719,265,"lacustrine",3.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.002,-999999
+160,"Yelle",48.5039,-79.6378,356,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.032,-999999
+199,"Sharkey Lake",44.59,-93.41,305,"lacustrine, glacial origin",15,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.28,-999999
+200,"Kimble Pond",44.21902,-93.84009,314,"lacustrine, glacial origin",16,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.049,-999999
+214,"ELA-320 Lake",49.5,-93.5,370,"lacustrine",17.3,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.045,-999999
+228,"Lac Hertel",45.68,-74.05,75,"-777777",0,"-777777","-777777","-777777",NA,NA
+267,"Lac Marcotte",47.07,-71.42,503,"lacustrine",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+269,"St Francois",48.29,-72.14,358,"lacustrine",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+282,"Round Pond",44,-74,548,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+284,"Crawford Lake Ontario",43.468529,-79.948817,279,"lacustrine",28.5,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.025,-999999
+288,"Fish",43.85,-95.04,423,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+291,"Moon Lake",46.857601,-98.158626,456,"lacustrine",12.8,"small (0.01-1 km2)","-999999","-999999",0.35,-999999
+293,"McGinnis",44.6,-78.03,256,"lacustrine",18,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+294,"Petit Lac Bouchard",48.8539,-64.5978,145,"lacustrine",1.5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.02,-999999
+295,"Lac aux Atocas",45.5428,-73.3108,114,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.012,-999999
+300,"Lac a Euloge",49.2444,-65.3722,83,"lacustrine",2.2,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.012,-999999
+304,"Lac Martini",47.475,-72.7647,242,"lacustrine",-999999,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.002,-999999
+305,"Lac a la Montagne Ronde",48.3208,-68.5653,150,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.035,-999999
+307,"Lac Perdu",49.1708,-66.3236,152,"lacustrine",7,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.005,-999999
+308,"Lac a la Pessiere",49.5083,-79.2403,280,"lacustrine",16,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.036,-999999
+309,"Lac du Triangle",48.71,-65.4139,465,"lacustrine",1.6,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.015,-999999
+310,"Lac Flevy",48.2169,-71.2189,381,"lacustrine",4.5,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.015,-999999
+382,"Lily Pond Warwick",42.68,-72.33,269,"lacustrine",1.32,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.008,-999999
+383,"Otter Pond",42.65,-72.53,107,"lacustrine",2.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.031,-999999
+384,"Aino Pond",42.680759,-71.925514,354,"lacustrine",2.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.018,0.813
+386,"Green Pond",42.5668,-72.511,80,"lacustrine",5.7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.05,-999999
+614,"Lac des Ilets",48.19,-71.24,120,"terrestrial, mire",0,"-777777","-777777","-777777",NA,NA
+706,"Graham Lake",45.1833,-77.35,381,"-777777",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.025,-999999
+707,"High Lake",44.5167,-76.6,192,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.025,-999999
+728,"Butler Lake",43.662484,-88.134088,316,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.03,2
+729,"Seven Lake",43.613705,-88.143562,307,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.1,0.8
+862,"Spring Lake",48.57777778,-80.88072222,NA,"-777777",NA,"-777777","-777777","-777777",NA,NA
+886,"Anderson Pond",36.028494901294,-85.5051163141084,300,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.35,-999999
+847,"Avril Lake",49.36874,-89.41847,472,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.027,-999999
+848,"Beaver Lake, Ontario",49.53435,-90.40019,468,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.032,-999999
+849,"Ben Lake",49.35695,-89.76956,480,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.016,-999999
+851,"Dom Lake",49.43966,-89.63204,470,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.031,-999999
+844,"Folly ",45.45826,-75.77775,133,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.14,0.28
+1149,"Jones Lake",49.446389,-99.291111,409,"lacustrine",4.4,"small (0.01-1 km2)","-999999","-999999",0.56,-999999
+850,"Lac Christelle",49.73214,-84.25453,291,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.024,-999999
+852,"Lac du Berger",49.41851,-90.47587,479,"lacustrine",4,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.004,-999999
+1158,"Lebel",49.0983,-68.2216,22,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+861,"Small Lake, Ontario",49.581111,-90.385556,478,"lacustrine",3.9,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.005,-999999
+1125,"Baie",49.0966,-68.25,17,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-888888","-888888",24.2,-999999
+1164,"Manic",49.1183,-68.305,22,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",5.38,-999999
+400,"West Olaf Lake",46.61,-96.18,402,"lacustrine",18,"small (0.01-1 km2)","-777777","-777777",0.58,NA
+265,"Lac a l'ange",47.46,-70.4,648,"lacustrine",NA,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+1210,"CASA",49.5522925,-78.98717844,270,"terrestrial, bog",-888888,"-999999","-999999","-999999",-999999,-999999
+1212,"Chasseur Lake",47.745775,-79.0874527777778,275,"lacustrine",5.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0015,-999999
+1213,"Fur Lake",46.7102166666667,-78.7897333333333,288,"lacustrine",5.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0725,-999999
+1215,"Geais Lake",49.89228,-78.6551,280,"lacustrine",10.15,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.037,-999999
+1220,"Labelle Lake",48.1802416666667,-79.4570111111111,375,"lacustrine",9.6,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.105,-999999
+1222,"Loutre Lake",49.711694,-78.335833,274,"lacustrine",10.63,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.021,-999999
+1224,"Profond Lake",49.861139,-78.613306,270,"lacustrine",20,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.006,-999999
+1225,"Raynald Lake",49.809278,-78.535833,250,"lacustrine",10.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.015,-999999
+1231,"Lili Lake",49.1737502777778,-79.3741475,320,"lacustrine",1.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.19,NA
+1233,"M15",49.7858333333333,-95.1902777777778,337,"lacustrine",5.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.053,-999999
+1234,"M16",49.8158333333333,-95.2655555555556,341,"lacustrine",2.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.05,-999999
+1236,"O4",49.7575,-94.8777777777778,366,"lacustrine",7.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.146,-999999
+1237,"O6",49.8213888888889,-94.7836111111111,361,"lacustrine",3.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.063,-999999
+1277,"Villebois",49.4211,-79.003,272,"terrestrial, bog",-888888,"-999999","-999999","-999999",-999999,-999999
+1299,"Lili Bog",49.1723,-79.3703,317,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1373,"Lac Geai SBL",45.995878,-73.993222,360,"lacustrine",8.2,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1379,"Copper Falls Lake",47.417,-88.192,392,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.3,0.4
+1420,"Noir (Quebec Ontario)",45.775,-75.133,176,"lacustrine",16.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.1,-999999
+1421,"Tawney (Quebec Ontario)",44.817,-77.183,276,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.02,-999999
+1422,"Stoll (Quebec Ontario)",44.967,-77.283,303,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.37,-999999
+1424,"Basin (COHMAP2k)",44.4666666666667,-70.05,125,"lacustrine",32,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.134,-999999
+1425,"Conroy (COHMAP2k)",46.2833333333333,-67.8833333333333,140,"lacustrine",33,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.105,-999999
+1426,"Clear (COHMAP2k)",43.75,-74.0166666666667,513,"lacustrine",11,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.035,-999999
+1427,"Ely (COHMAP2k)",41.7666666666667,-75.8333333333333,384,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.129,-999999
+1428,"Hells Kitchen Lake (COHMAP2k)",46.1833333333333,-89.7,500,"lacustrine",19,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.045,-999999
+1429,"Little Pine Lake (COHMAP2k)",45.2833333333333,-91.4833333333333,334,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.065,-999999
+1430,"Dark Lake (COHMAP2k)",45.2666666666667,-91.4666666666667,335,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.138,-999999
+1431,"Ruby Lake (COHMAP2k)",45.2666666666667,-91.45,330,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.129,-999999
+1432,"Lake of the Clouds (COHMAP2k)",48,-91.0166666666667,462,"lacustrine",12,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.5,-999999
+1450,"Crystal Lake Minnesota",44.3339,-93.2113,284,"lacustrine",11,"medium (1.1-50 km2)","-999999","-999999",1.13,-999999
+1451,"Amber Lake Minnesota",43.6053,-94.4725,351,"lacustrine",6,"small (0.01-1 km2)","-999999","inflow only",0.73,-999999
+1452,"Eagle Lake Carver County",44.8087,-93.9336,294,"lacustrine",4,"small (0.01-1 km2)","-999999","inflow only",0.74,-999999
+1453,"Lake Emily Wisconsin",44.314,-93.9143,344,"lacustrine",11,"small (0.01-1 km2)","-999999","inflow only",0.44,-999999
+1454,"Fuller Lake Stearns County",45.4206,-94.0743,292,"lacustrine",8.5,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.12,-999999
+1455,"Goose Lake Meeker County",44.9855,-94.5863,334,"lacustrine",3.5,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.48,-999999
+1456,"Hunt Lake Rice County",44.3314,-93.4454,327,"lacustrine",8,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.71,-999999
+1457,"Kelly Dudley Lake",44.3523,-93.3708,321,"lacustrine",18,"small (0.01-1 km2)","-999999","in and out flow",0.77,-999999
+1458,"Minnreg Lake",44.6905,-93.3197,-999999,"lacustrine",-999999,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",-999999,-999999
+1459,"Murphy Lake St Louis County",44.7105,-93.3417,411,"lacustrine",7.3,"medium (1.1-50 km2)","-999999","in and out flow",1.6,-999999
+1460,"Lake Martha Wright County",45.1422,-93.7392,295,"lacustrine",6.7,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.38,-999999
+1461,"Union Lake Rice County",44.4611,-93.3074,306,"lacustrine",3,"medium (1.1-50 km2)","-999999","in and out flow",1.61,-999999
+1462,"Lily Lake Waseca County",44.1912,-93.6401,311,"lacustrine",7,"small (0.01-1 km2)","-999999","inflow only",0.46,-999999
+1463,"Fish Lake Le Sueur County",44.2274,-93.6648,310,"lacustrine",16.7,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.31,-999999
+1464,"Fish Lake Scott County",44.6492,-93.4597,288,"lacustrine",8.5,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.7,-999999
+1492,"Big Spirit Lake Iowa",43.48462,-95.10617,449,"lacustrine",7.3,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",23,194
+1493,"Bass Lake Faribault County",43.82053,-94.07825,314,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.81,-999999
+1494,"Fox Lake Martin County",43.67528,-94.69222,381,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",3.85,-999999
+1495,"Duck Pond Wellfleet",41.932448,-70.000651,2.5,"lacustrine",18,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.051,-999999
+1496,"Lily Pond New Salem",42.4181,-72.3468,303,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1500,"Wickett Pond",42.57,-72.43167,330,"lacustrine",2.25,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.115,0.952
+1501,"Piermont Marsh",41,-73.9167,29,"terrestrial, marsh",NA,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",1.1,-999999
+1503,"Sutherland Pond",41.3914,-74.0377,380,"lacustrine",2.57,"small (0.01-1 km2)","medium (10.1-500 km2)","-999999",0.0405,-999999
+1630,"Little Pond, Bolton",42.42234,-71.587738,99,"lacustrine",3.2,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.05,0.32
+1648,"Black HF",41.3281,-70.7923,13,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.014,-999999
+1649,"Blaneys Pond HF",41.4717,-70.7652,5,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.01,-999999
+1651,"Cain HF",41.8583,-70.9784,20,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.013,-999999
+1652,"Coldwater Lake, McIntosh County",46.01666,-99.06666,596,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.5,-999999
+1654,"Deep Taunton",41.8824,-71.0115,7,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.015,-999999
+1657,"Doe HF",42.1754,-72.7024,79,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.014,-999999
+1658,"Duarte Pond HF",41.42,-70.6155,15,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.014,-999999
+1659,"Green HF",42.5668,-72.5111,82,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.05,-999999
+1661,"Sandy Hill Pond",41.6896,-70.3648,16,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.024,-999999
+1662,"Sears HF",40.8845,-72.5783,2,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.061,-999999
+1672,"Umpawaug HF",41.3061,-73.4497,138,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.053,-999999
+1673,"Uncle Seth's HF",41.4331,-70.6647,13,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.046,-999999
+1675,"Ware HF",42.4825,-70.8825,4,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.011,-999999
+1676,"Westside HF",41.8556,-73.2566,390,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.157,-999999
+1677,"Wildwood Lake",40.892,-72.6733,5,"lacustrine",18,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.26,-999999
+1681,"Blood Pond HF",42.08,-71.9615,214,"lacustrine",3.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.085,-999999
+1682,"Harlock Pond HF",41.403,-70.713,23,"lacustrine",5.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.055,-999999
+1683,"Icehouse Pond HF",41.798,-69.961,19,"lacustrine",6.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.018,-999999
+1688,"Eagle Pond HF",41.698,-70.137,11,"lacustrine",6.4,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.04,-999999
+1689,"Jemima Pond HF",41.829,-69.985,3,"lacustrine",4.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.022,-999999
+1720,"Fresh Pond Falmouth HF",41.5935,-70.5338,6,"lacustrine",5.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.053,-999999
+1724,"Duck Pond Naushon",41.494745,-70.71416,3,"lacustrine",18,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+1735,"Marys Pond HF",41.506151,-70.713474,26,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1737,"North Round Pond",42.8476,-72.4519,317,"lacustrine",3.4,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.043,0.213
+1739,"Round Pond Truro",41.971,-70.011,4,"lacustrine",7.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.016,-999999
+1748,"Deep Pond Falmouth",41.564087,-70.635791,23,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+1757,"Binnewater Pond",41.409742,-74.551738,256,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.26,-999999

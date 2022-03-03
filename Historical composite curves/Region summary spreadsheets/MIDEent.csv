@@ -1,0 +1,9 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+59,88,"Lake Van core",38.55,42.53,1648,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",114
+192,241,"Krimda core",35.28,6.63,200,"bog sediment","Pollen slide","other","Global Charcoal Database Version 4","-777777","2020-03-06",104
+554,644,"Nar core",38.37,34.45,1363,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+889,987,"Lake Ifrah core",33.5592942189009,-4.93055543838682,1610,"-777777","Other","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",140
+892,990,"Lake Sidi Ali core",33.06843,-4.998376,2080,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+895,994,"Laguna Grande core_conc",28.11666667,-17.25,1250,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",13
+1832,2287,"Bereket Basin composite core",37.545,30.295,1410,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-04",96
+1971,2444,"Almalou3",37.665278,46.631944,2491,"bog sediment","pollen slide","count","EPD","marginal core","2021-07-19",137

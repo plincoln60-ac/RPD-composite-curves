@@ -1,0 +1,69 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+220,"Northwest Lake",52.5,-92.5,331,"lacustrine",8.1,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+246,"Sky Lake",56.483601,-94.787937,145,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.12,-999999
+266,"Lac Diana",60.98,-69.95,114,"lacustrine",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+379,"Two Hill Lake",55.98,-97.28,200,"lacustrine",16,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+380,"OK Lake",54.8,-95.25,108,"lacustrine",16.4,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+389,"LG4-06",54.075,-72.9419,365,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.071,-999999
+612,"Amont",53.73,-74.38,335,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+613,"Aval",53.41,-73.86,335,"terrestrial, bog",0,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+1120,"Airport 1",53.6535,-77.729,175,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1121,"Airport 2",53.6536,-77.7263,175,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1155,"Lac Le Caron",52.292611,-75.8305,248,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",2.24,-999999
+856,"Lac du Loup, Quebec",53.05503,-77.40053,206,"lacustrine",3,"small (0.01-1 km2)","-777777","-777777",0.016,NA
+853,"Lac Garot",51.09964,-77.55358,248,"lacustrine",6.9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.051,-999999
+854,"Lac Huard",50.16414,-86.8265,343,"lacustrine",8.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.037,-999999
+857,"Lac Marie-Eve",52.06169,-75.51667,296,"lacustrine",8.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.165,-999999
+858,"Lac Nano",53.02375,-77.36425,206,"lacustrine",3.2,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.004,-999999
+860,"Lac Schon",50.59492,-77.56836,291,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.028,-999999
+863,"Lac Trefle",51.85014,-76.04514,270,"lacustrine",5.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.068,-999999
+1201,"Misask",52.7248,-72.2128,475,"terrestrial, fen",-888888,"small (0.01-1 km2)","-999999","-999999",0.102,-999999
+1169,"Morts",50.2633,-63.6683,14,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1170,"Mosaik",51.985694,-75.38544,300,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",2.67,-999999
+1173,"Ours",54.04978,-72.45406,458,"terrestrial, fen",-888888,"small (0.01-1 km2)","-999999","-999999",0.01,-999999
+1176,"Plaine",50.275,-63.5383,34,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1178,"Radisson",53.7244,-77.7031,174,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-888888,-999999
+1182,"Romaine",50.2947,-63.7157,24,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",-999999,-999999
+1185,"Sterne",52.045388,-75.158944,304,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",1.72,-999999
+1193,"Unit Lake",59.404,-97.493,249,"lacustrine",11.4,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.644,1.484
+1203,"Auassat",51.8136,-63.6919,466,"terrestrial, fen",-888888,"small (0.01-1 km2)","-888888","-888888",0.22,-999999
+1132,"Cheinu",52.647,-72.1926,461,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.148,-999999
+1167,"Mista",50.8059,-63.3432,372,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.17,-999999
+1143,"Gaillard",50.11327,-68.80876,392,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1205,"Abeille",54.114444,-72.500278,441,"terrestrial, fen",-888888,"small (0.01-1 km2)","-999999","-999999",0.035,-999999
+1207,"Aurelie Lake",50.4185,-74.2354444444444,428,"lacustrine",5.7,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0018,-999999
+1208,"Ayla Lake",52.89425,-67.04092,582,"lacustrine",10.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.108,-999999
+1217,"Jack Pine Lake",50.2705555555556,-86.9627777777778,341,"lacustrine",12.8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.028,-999999
+1226,"Richard Lake",50.6194166666667,-74.6860833333333,432,"lacustrine",5.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.04,-999999
+1228,"Steeve Lake",51.9399722222222,-68.1553333333333,548,"lacustrine",3.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.034,-999999
+864,"Twin Lake",50.9524722222222,-74.5753333333333,376,"lacustrine",5.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.029,-999999
+1232,"M14",50.0755555555556,-95.4022222222222,330,"lacustrine",1.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.086,-999999
+1235,"M34",50.23,-95.5777777777778,290,"lacustrine",4.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.043,-999999
+1238,"O14",50.0283333333333,-94.8244444444444,332,"lacustrine",8.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.07,-999999
+1239,"O15",50.0080555555556,-94.9825,339,"lacustrine",3.9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.062,-999999
+1148,"Lake Innu",50.07,-68.811,399,"lacustrine",7.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.014,-999999
+1433,"LM01 (North Quebec)",55.62,-74.58,320,"lacustrine",7.75,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.02,-999999
+1434,"EC03 (North Quebec)",56.02,-74.98,279,"lacustrine",4.18,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.025,-999999
+1435,"MV01 (North Quebec)",56.94,-74.9,300,"lacustrine",5.06,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.045,-999999
+1436,"BN07 (North Quebec)",55,-73.52,395,"lacustrine",2.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.34,-999999
+1437,"GB01 (North Quebec)",55.12,-75.25,325,"lacustrine",4.82,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.07,-999999
+1438,"EC02 (North Quebec)",56.02,-74.95,260,"lacustrine",8.85,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.025,-999999
+1439,"GB02 (North Quebec)",55.1,-75.28,300,"lacustrine",4.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.05,-999999
+1440,"EC01 (North Quebec)",56.28,-75.1,250,"lacustrine",8.65,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.04,-999999
+1441,"LB01 (North Quebec)",57.92,-75.62,200,"lacustrine",10.28,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.06,-999999
+1442,"LR01 (North Quebec)",58.58,-75.25,170,"lacustrine",9.13,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.02,-999999
+1443,"BI02 (North Quebec)",57.12,-76.38,210,"lacustrine",7.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.007,-999999
+1444,"LR03 (North Quebec)",58.57,-75.22,160,"lacustrine",10.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.022,-999999
+1445,"LT01 (North Quebec)",59.14,-75.15,150,"lacustrine",3.4,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.075,-999999
+1504,"Lac Nans",50.3686388888889,-74.30591667,431,"lacustrine",5,"small (0.01-1 km2)","-999999","-999999",0.045,-999999
+1663,"Canoe",53.04889,-57.67175,166,"lacustrine",0.637,"medium (1.1-50 km2)","-999999","-999999",3.63,-999999
+1664,"Big Beer",53.12281,-60.10361,315,"lacustrine",1.25,"medium (1.1-50 km2)","-999999","-999999",1.35,-999999
+1665,"111",59.912878,-96.9576,225,"lacustrine",3.97,"medium (1.1-50 km2)","small (less than 10 km2)","outflow only",1.309,4.339
+1666,"150",59.875018,-98.1318,299,"lacustrine",7.14,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.403,3.038
+1667,"396",59.571677,-98.5591,317,"lacustrine",7.36,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.839,3.112
+1668,"614",59.321304,-97.2804,268,"lacustrine",14.15,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.462,16.089
+1669,"630",59.314377,-98.0836,271,"lacustrine",9.96,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.911,35.689
+1670,"785",59.118988,-97.4093,234,"lacustrine",12.57,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.65,6.96
+1671,"Shuttle",59.84616,-97.6351,276,"lacustrine",3.31,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.957,3.132
+1960,"Aeroport",54.101027,-72.516166,431,"terrestrial, fen",-888888,"small (0.01-1 km2)","-999999","-999999",0.03,-999999
+1963,"Bouleau",50.5239,-63.2073,108,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-999999",1.51,-999999

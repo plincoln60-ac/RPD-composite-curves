@@ -1,0 +1,56 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+15,26,"Taylor OR long core",46.100556,123.906667,4,"lake sediment","Sieved","concentration","IMPD","-999999","2021-05-07",11
+54,82,"NG2",44.56,33.62,2,"fluvial/alluvial sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",23
+55,83,"Yaila-Crimea core",44.48,34.05,1205,"buried organic sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",23
+79,111,"Kunming CK3_conc",39.98,116.26,48.6,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+80,112,"Nanwangcun profile",37,118,10,"fluvial/alluvial sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",22
+81,113,"Qindeli peat section",47.92,133.22,74,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+84,117,"Muchang peat section_conc",43.03,122.2,308.4,"archaeological","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+86,120,"Daxigou profile",43.14,86.91,3450,"other","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",22
+87,121,"Lijiayuan section",36.11,104.85,1850,"other","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",109
+88,122,"Lingtai section",35,107.5,1400,"soil","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",109
+91,127,"Longgan Lake core",30.16,116.16,12.1,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",135
+198,247,"Karakol core",42.83,77.39,2353,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",6
+248,305,"Zagas Nuur core",48.5061,90.6099,2376,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+334,403,"Kichikol core",39.98,73.55,2541,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",6
+335,404,"Bakaly core",42.45,72.6,1879,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",6
+350,419,"Sakhare core",41.58,45.31,800,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+351,420,"Kumisi core",41.58,44.83,469,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+352,421,"Tsavkisi core 1",41.68,44.71,1100,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+353,422,"Imera 2002 core",41.65,44.21,1610,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+354,423,"Aligol 2003 core",41.63,44.01,1550,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+355,424,"Ispani core",41.86,41.8,2,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+452,537,"Xujianan core",35.5,106,1620,"loess","Charcoal separated by heavy liquid preparation","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",50
+481,567,"Hatchodaira core",35.23,135.83,810,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+482,568,"Ofuke core",35.65,135.18,528,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2021-06-04",17
+644,739,"BL05B core",44.917167,123.296333,69,"lake sediment","-999999","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+708,803,"Caotanhu relic site core",44.42,113.02,380,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",22
+1119,1331,"Airag Nuur Core",48.9087,93.3076,1030,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1127,1337,"Bayan Nuur Core",48.4631,95.1604,1540,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1189,1409,"Tsagaan Nuur Core",48.9118,94.867,1382,"lake sediment","Charcoal particles identified by imaging software","concentration","author","central core","2021-05-07",113
+1153,1468,"Kholboo Nuur Core",49.7014,91.0914,2570,"lake sediment","Sieved","concentration","IMPD","central core","2021-05-07",113
+1423,1840,"Path core",45.869,63.077,15,"lake sediment","Pollen slide","concentration","author","central core","2021-02-15",169
+1491,1910,"Crooked Pond core",41.891667,70.65,28,"lake sediment","Sieved","concentration","author","-999999","2021-03-01",11
+1512,1931,"Duancun profile",38.84,115.99,7.97,"lake sediment","Pollen slide","concentration","digitized from publication","-999999","2021-03-04",22
+1515,1934,"Jinchuan peat core",42.3,126.4,614,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","concentration","digitized from publication","-999999","2021-03-04",263
+1517,1936,"Shenjiadian peatland core",46.58,130.66,-999999,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","influx","digitized from publication","central core","2021-03-04",264
+1522,1941,"Motianling peatland MP2",47.37,120.65,1645,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","influx","digitized from publication","marginal core","2021-03-04",265
+1523,1942,"Boluo Pond core",44.38,124.82,-999999,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","influx","digitized from publication","-999999","2021-03-04",265
+1524,1943,"Jiandi Pond core",45,122.34,-999999,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","influx","digitized from publication","-999999","2021-03-04",265
+1525,1944,"Wulan Pond core",45.15,121.95,-999999,"bog sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","influx","digitized from publication","-999999","2021-03-04",265
+1526,1945,"Nam Co unnamed swamp",30.92,90.88,4718,"bog sediment","Pollen slide","concentration","digitized from publication","marginal core","2021-03-04",22
+1536,1955,"Sayram Lake core SLMH-2009",44.58,81.15,2071.9,"lake sediment","Pollen slide","concentration","digitized from publication","central core","2021-03-04",22
+1539,1959,"Lake Naleng core",31.1,99.75,4200,"lake sediment","Pollen slide","concentration","digitized from publication","-999999","2021-03-04",134
+1541,1961,"Erlongwan core",42.3,126.38,724,"lake sediment","Pollen slide","concentration","author","central core","2021-03-04",22
+1554,1978,"Gonghe Basin KE section",35.65,101.1,3780,"soil","Pollen slide","concentration","digitized from publication","marginal core","2021-03-04",22
+1556,1980,"Xiangcheng section",33.95,113.48,-999999,"loess","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","concentration","digitized from publication","marginal core","2021-03-04",109
+1570,1997,"Taibai Lake Core TN1_less125",30,115.81,10,"lake sediment","Pollen slide","concentration","author","marginal core","2021-03-04",279
+1574,2001,"Daihai Lake Core DH99a",40.53,112.67,1221,"lake sediment","Acidification of sample using gas chromatography to measure elemental carbon (Verardo et al., 1990)","concentration","author","central core","2021-03-04",263
+1577,2004,"Caohu Lake core",31.56,117.39,-999999,"lake sediment","Pollen slide","concentration","digitized from publication","-999999","2021-03-04",128
+1589,2018,"Zoige Basin core ZB18-C1",33.45,102.63,3467,"bog sediment","Pollen slide","concentration","author","-999999","2021-03-04",25
+1591,2020,"Xiadawu core XDW3",35,99.26,3988,"soil","Pollen slide","concentration","author","-999999","2021-03-04",22
+1592,2021,"Tianchi Lake core GSA07-1",35.26,106.31,-999999,"lake sediment","Pollen slide","concentration","author","central core","2021-03-04",22
+1650,2095,"WQ?1",45.616667,80.183333,1300,"fluvial/alluvial sediment","Pollen slide","influx","Pangaea","central core","2021-03-25",28
+1763,2212,"Jagaike core",35.24,135.45,640,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-04-16",156
+1964,2434,"CP1",31.4,110.04,2120,"bog sediment","pollen slide","count","author","central core","2021-07-16",123
+1969,2442,"Doroo Nuur core",48.2459,90.6639,2394,"lake sediment","Sieved","count","author","central core","2021-07-19",113

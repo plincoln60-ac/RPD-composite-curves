@@ -1,0 +1,295 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+57,"Lake Suho Breznishko",41.81,23.35,1963,"lacustrine, glacial origin",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+58,"Lake Okadensko",41.78,23.35,2475,"lacustrine, glacial origin",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+99,"Lattok Arjeplog",65.956944,18.345,480,"lacustrine, glacial origin",5.1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.011,0.1
+100,"Raigejegge Arjeplog",66.156944,18.2133333,480,"lacustrine, glacial origin",5.1,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.004,0.03
+104,"Lago di Massaciuccoli",43.85,10.31,1,"coastal",3,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",7,-999999
+194,"Lago di Origlio",46.055556,8.944444,416,"lacustrine, glacial origin",5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.08,-999999
+195,"Lago di Muzzano",45.994444,8.927778,337,"lacustrine, glacial origin",3,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.22,-999999
+196,"Soppensee",47.091667,8.0833333,596,"lacustrine, glacial origin",27,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.24,-999999
+216,"Iso Lehmalampi",60.35,24.6,106,"lacustrine",8.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.028,-999999
+227,"Etu-Mustajarvi",60.98,25,157,"lacustrine",9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.045,-999999
+277,"Trygasen",61.77,13.3,549,"terrestrial, fen",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+278,"Lago Piccolo di Avigliana",45.05,7.3833,356,"lacustrine, glacial origin",12.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.6,-999999
+312,"Artxilondo",43.03,-1.13,900,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+314,"La Loge a Magnard Chavannes",46.84,2.36,150,"terrestrial, mire",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+315,"Pla de l'Orri",42.5,1.88,2100,"terrestrial, mire",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+316,"Cuguron",43.1,0.54,513,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.8,-999999
+318,"Lej da San Murrezzan",46.49,9.84,1768,"lacustrine",44,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.78,-999999
+327,"Biviere di Gela",37.0167,14.33,7,"lacustrine",6,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",1.2,-999999
+723,"Lago della Costa",45.270278,11.743056,7,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+374,"Lago del Greppo",44.11,11.66,1442,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",1.8e-05,-999999
+403,"Bohult Hollow",57.2333,16.1667,77,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.005,-999999
+404,"Stavsakra Bog",57.024167,14.813056,187,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.02,-999999
+440,"El Carrizal",41.3185,-4.145,860,"lacustrine",1.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.11,-999999
+444,"Kalksjon",60.13,13.05,14.2,"lacustrine",14.2,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.4,4
+446,"Griblje Marsh",45.56,15.27,160,"-777777",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+460,"Gabarn",43.17,-0.55,525,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+462,"Sierra de Gador",36.9,-2.9167,1530,"lacustrine, drained lake",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.14,-999999
+464,"Kragso",56.291465,9.091028,47,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.22,-999999
+465,"Lac du Lait",45.31,6.81,2180,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+466,"Lac du Thyl",45.24,6.49,2038,"terrestrial, bog",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",NA,NA
+468,"Lac Miroir",44.63,6.79,2214,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+471,"Plan Bouchet",45.24,6.56,2405,"terrestrial, bog",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","inflow only",NA,NA
+472,"Skanso",56.509377,8.82872,8,"lacustrine",8.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.115,1.07
+473,"Solso",56.128367,8.613735,41,"lacustrine",6.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.02,-999999
+477,"Lios Lairthin Mor",53.08,-9.21,270,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+491,"Lovnas Arjeplog",66.310833,17.900833,515,"lacustrine, glacial origin",3.7,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.003,0.03
+495,"Steerenmoos",47.8167,8.1833,1000,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.2,-999999
+496,"Lake Lucerne",47.05,8.59,434,"lacustrine",110,"large (50.1-500 km2)","large (more than 500 km2)","in and out flow",113.6,2124
+534,"Derrycunihy Wood",52.01,-9.41,75,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+535,"Camillan Wood",52.03,-9.56,17,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.001,-999999
+536,"Mongan Bog",53.33,-7.93,45,"terrestrial, bog",-888888,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",6,-999999
+537,"Abbeyknockmoy Bog",53.44,-8.76,60,"terrestrial, bog",-777777,"-777777","-777777","-888888",NA,NA
+540,"Loch a'Phuinnd",57.366667,-7.266667,10,"lacustrine",5.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.015,-999999
+541,"Crag Lough",55.006008,-2.3673827,250,"lacustrine, glacial origin",2,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.11,-999999
+542,"Dallican Water",60.39167,-1.1,56,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.01,0.092
+549,"Anstey's Combe",51.054451,-3.6747154,282,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+593,"Pian Segna",46.18,8.63,1162,"terrestrial, bog",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+594,"Lago di Fimon",45.4667,11.5333,23,"lacustrine",3.9,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.67,-999999
+608,"Lac du Loup",45.18,6.53,2032,"lacustrine",1.4,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",NA,NA
+609,"Gorgo Basso",37.61,12.65,6,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+622,"Lake Ostrezko-2",42.13,23.46,2320,"lacustrine",1.5,"very small (less than 0.01 km2)","medium (10.1-500 km2)","in and out flow",0.15,-999999
+624,"Resnikov prekop",45.97,14.54,290,"archaeological site",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+641,"Sarup So",55.2,10.06,-888888,"lacustrine",4.1,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.036,-999999
+642,"Holtjarnen",60.65,14.916667,232,"lacustrine, glacial origin",7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.01,-999999
+643,"Klotjarnen",61.816667,16.533333,235,"lacustrine, glacial origin",6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.012,-999999
+698,"Lago Dell'Accesa",42.9879329162739,10.8951222896576,155,"lacustrine",37.5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.226,-999999
+747,"Lago Perso",44.905833,6.797222,1801,"lacustrine",3,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.000408,0.27
+758,"Libouse",44.59,6.32,1806,"terrestrial, bog",NA,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+766,"Kapteinstjorn Siljan",59.33,9.66,590,"-777777",NA,"-777777","-777777","-777777",NA,NA
+767,"Kontolanrahka bog Poytya",60.79,22.77,80,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-888888",8.8,-999999
+769,"Dallund So North Funen",55.48,10.26,12,"-777777",NA,"-777777","-777777","-777777",NA,NA
+772,"Slowinskie Blota Bog",54.58,16.92,20,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+776,"Lago Alimini Piccolo",40.18,18.43,1,"lacustrine",2,"medium (1.1-50 km2)","small (less than 10 km2)","outflow only",1.05,-999999
+777,"Siroki Nyirjes To",47.926352,20.183213,200,"terrestrial, fen",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.009,-999999
+779,"Pena da Cadela",42.83,-7.17,970,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.005,-999999
+780,"Fuldera-Palu Lunga",46.61,10.36,1822,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+781,"Halledammen Hallands Vadero",56.44,12.57,NA,"-777777",NA,"-777777","-777777","-777777",NA,NA
+783,"Les Amburnex Mire",46.53972,6.231667,1370,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.002,-999999
+784,"Skargolarna",57.02,16.12,NA,"-777777",NA,"-777777","-777777","-777777",NA,NA
+793,"Kentra Moss",56.75,-5.83,10,"terrestrial, bog",-888888,"small (0.01-1 km2)","-888888","-888888",0.95,-888888
+795,"Kinloch",57.025431,-6.299902,-999999,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+798,"Loch of Torness",58.77,-3.29,15,"-777777",NA,"-777777","-777777","-777777",NA,NA
+805,"Tourbiere du Peschio",44.45,3.6,1370,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+806,"Tourbiere des Narses Morte",44.43,3.6,1400,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+807,"Tourbiere de La Lande",43.56,2.96,1040,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+808,"Torveraz",45.695696,6.863743,2345,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+809,"Steregoiu",47.81,23.54,790,"-777777",NA,"-777777","-777777","-777777",NA,NA
+810,"Sagistalsee",46.68,7.98,1953,"-777777",NA,"-777777","-777777","-777777",NA,NA
+811,"Loch Laxford",58.36,-5,0,"coastal, estuarine",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+812,"Laghi dell'Orgials",44.23,7.13,2240,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+819,"Fleck's Loch Bog, Foula",60.146022,-2.093045,170,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+841,"Asi Gonia",35.2487733840969,24.2774999141693,780,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+867,"El Tiemblo",40.3575,-4.5263,1250,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",2e-04,-999999
+870,"Lanzahita",40.2222,-4.9358,588,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.00015,-999999
+882,"Espinosa de Cerrato",41.9567,-3.935,885,"terrestrial, marsh",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.088,35
+883,"Laguna de Rio Seco",37.052057,-3.34581,3020,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0042,0.99
+885,"Tubilla del Lago",41.8084,-3.5727,900,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.05,NA
+887,"Lake Dojran",41.1912253075602,22.7326384963602,144,"lacustrine",3,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",43,-999999
+888,"Pena Negra",40.3347,-5.7922,1000,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+890,"Fuente de la Leche",40.3468,-5.0569,1382,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+891,"Arroyo de las Carcavas",40.8419,-4.0314,1300,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",7e-04,-999999
+814,"Bruckmisse",48.7325,8.6442,670,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+815,"Brurskardtjorni",61.416667,8.666667,1309,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1134,"Crudale Meadow",59.01,-3.32,9,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.12,-999999
+792,"Fenton Cottage",53.840005,-2.92842979,200,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+463,"Kis-Mohos Ro",48.4,20.4,310,"terrestrial, bog",NA,"very small (less than 0.01 km2)","-777777","closed - no inflow or outflow",0.0036,NA
+592,"Lago Lucone",45.55,10.4833,249,"lacustrine, drained lake",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+543,"Loch a'Bhogaidh",55.725,-6.403333,65,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.175,-999999
+474,"Lough Mullaghlahan",54.775,-8.466944,40,"lacustrine",5.6,"very small (less than 0.01 km2)","-777777","in and out flow",0.005,-999999
+550,"Migneint",52.82,-3.82,440,"terrestrial, mire",-888888,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",1.2,-999999
+595,"Piano",46.32,8.62,1439,"terrestrial, bog",NA,"very small (less than 0.01 km2)","small (less than 10 km2)","inflow only",0.002,NA
+746,"Storasjo",56.93333,15.26667,225,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.025,-999999
+270,"Lilla Gloppsjon",59.802778,14.627778,198,"lacustrine",27,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.05,6.5
+547,"Long Breach",51.06587,-3.6874017,341,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1187,"Sudenpesä Hollow",61.1833,25.15,167,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.001,-999999
+818,"Etang de la Gruere",47.2406,7.05,1005,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.225,NA
+1180,"Rentukka Hollow",61.1923,25.1526,150,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.001,-999999
+475,"Lough Nabraddan",55.0167,-8.35,20,"lacustrine",5.6,"very small (less than 0.01 km2)","-777777","in and out flow",0.006,-999999
+1168,"Mogielica",49.6659056,20.2799058333333,845,"terrestrial, buried fen",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.00028,-999999
+476,"Altar Lough",55.0167,-8.4,30,"lacustrine",2.5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.012,-999999
+1128,"Bialowieza forest Site 2",52.7519,23.8789,165,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-05,-999999
+816,"Dalmutladdo",69.166667,20.716667,355,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.072,-999999
+1214,"Gazwa",53.8725,21.2197222222222,155,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","closed - no inflow or outflow",2.05,-999999
+1216,"Gleboczek",53.868066,18.209629,110,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","-999999","in and out flow",0.001,-999999
+1218,"Jaczno",54.276971,22.876204,164,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","-999999","closed - no inflow or outflow",0.013,-999999
+1219,"Kazanie fen",52.458694,17.296352,101,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.03,-999999
+1221,"Linje",53.187352,18.309571,90,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.0595,-999999
+1223,"Mechacz Wielki",54.331974,22.441504,200,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","closed - no inflow or outflow",1.47,-999999
+545,"Sidlings Copse",51.782709,-1.193905,53,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+207,"Black Loch",56,-3,90,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.015,1.423
+1241,"Apsuciems Mire",57.0536417,23.3170305,6.6,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.15,1.2
+1242,"Bagno Kusowo",53.8077778,16.5872222222222,155,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",3.19,-999999
+1243,"Odersprungmoor",51.7713889,10.5677777777777,811,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+1244,"Araisu lake",57.250912,25.289886,120.2,"lacustrine",12.3,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.326,-999999
+1246,"Gorenje jezero",45.74,14.4083,550,"terrestrial, mire",0.1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.1,-999999
+1248,"Lake Lielais Svetinu",56.760682,27.149276,96.2,"lacustrine",4,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.188,19.7
+450,"Mlaka",45.5,15.1219,150,"terrestrial, marsh",0.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.07,-999999
+1249,"Naava hollow",61.241389,25.056111,156,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",3e-04,1e-04
+1250,"Noricka graba",46.62,16.0075,240,"terrestrial, marsh",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.001,-999999
+599,"Prapoce",45.42,14.1223,480,"terrestrial, marsh",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.28,-999999
+1252,"Teici bog",56.622408,26.440808,114,"terrestrial, bog",-888888,"large (50.1-500 km2)","large (more than 500 km2)","-888888",144,-999999
+1253,"Bricu lake",57.115374,25.870619,208.4,"lacustrine",2.7,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.16,8
+1129,"Bogdanowka-Belo",49.7542,19.79435,675,"terrestrial, buried fen",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.003,4
+1255,"Buhaiescu Mare",47.57,23.64333333,1918,"lacustrine, glacial origin",0.5,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.009,0.16
+817,"Durchenbergried",47.783333,8.983333,432,"terrestrial, bog",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0225,-999999
+1256,"Griblje",45.5675,15.2819,160,"terrestrial, marsh",0.01,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.008,-999999
+1257,"Kammekka hollow",61.2425,25.055278,156,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1258,"Lilaste lake",57.179,24.351639,0.5,"coastal",2,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",1.8,-999999
+1259,"Na mahu",45.97,14.5389,290,"lacustrine, drained lake",-888888,"large (50.1-500 km2)","large (more than 500 km2)","in and out flow",160,-999999
+1260,"Trikatas lake",57.54116,25.714468,50,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.13,-999999
+1261,"Arroyo de Valdeconejos",40.8622,-4.0597,1380,"terrestrial, mire",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.00126,-999999
+1263,"Campo Lameiro",42.5333,-8.5167,295,"terrestrial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1265,"El Brezosa",39.3491,-4.3611,733,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.106,-999999
+1266,"El Perro mire",39.0513,-4.7596,690,"terrestrial, mire",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",3.3,-999999
+871,"Puerto de Serranillos",40.3072,-4.9342,1700,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.024,-999999
+1267,"Las Vinuelas",39.3744,-4.4884,761,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",2e-04,-999999
+1270,"Canada del Gitano Sierra de Baza",37.2333,-2.7,1900,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-888888",2,-999999
+1276,"Bermu Mire",39.4341,-4.146,783,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",5e-04,-999999
+1278,"Verdeospesoa",43.055,-2.8614,1015,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.000516,-999999
+1279,"El Redondo",40.2214,-5.6569,1765,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.00125,-999999
+1280,"Vapsko-2",42.07,23.5245,2120,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.002,-999999
+1282,"Pozo de la Nieve",40.3532,-4.5516,1600,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.0381,-999999
+1284,"Lake Oltina",44.14,27.6308,40,"lacustrine, fluvial origin",2,"medium (1.1-50 km2)","large (more than 500 km2)","inflow only",33,-999999
+1285,"Navamuno",40.3213,-5.7786,1505,"terrestrial, bog",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","-999999",0.14,-999999
+1286,"Las Animas Mire",36.6858,-5.03,1403,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",2e-04,-999999
+1287,"Lake Stiucii",46.97,23.8997,240,"lacustrine",6,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.38,131
+1289,"Arroyo de Aguas Frias",40.2667,-5.1167,1120,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.03,-999999
+1290,"Arbarrain Mire",43.2114,-2.1729,1004,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.0156,-999999
+1291,"Akali",58.408056,27.231944,30.5,"terrestrial, mire",0.2,"medium (1.1-50 km2)","-999999","-999999",25.68,-999999
+1292,"El Payo mire",40.2535,6.7712,1000,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1296,"Kiilaspere",58.796944,24.436111,22.6,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.43,-999999
+1297,"Koivasoo",58.908611,22.199444,27.5,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.34,-999999
+1298,"Lasva",57.859444,27.175,72.2,"lacustrine",19.15,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.11,3
+1300,"Maardu",59.441667,25,31.3,"lacustrine",0.9,"medium (1.1-50 km2)","medium (10.1-500 km2)","outflow only",1.59,10.52
+1301,"Mustjarve",59.076944,24.099722,38.9,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",2.78,-999999
+1303,"Parika",58.490278,25.774167,48.5,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",34.26,-999999
+1304,"Plaani",57.676944,27.077222,244.1,"lacustrine",4.4,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.24,1.4
+1305,"Rouge-Tougjarv",57.738889,26.905,109,"lacustrine",17,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.044,27
+1306,"Surusoo",58.529722,22.423056,43,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",1.08,-999999
+1307,"Ruila",59.175833,24.429722,43.8,"lacustrine",0.9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.46,3.4
+825,"Vedruka",58.330278,22.060556,21,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.9,-999999
+1309,"Verijarv",57.808333,27.058333,90,"lacustrine",19.3,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.25,31.3
+1311,"Fuente del Pino Blanco",40.2363,-4.9776,1343,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.0137,-999999
+1312,"Manaderos",40.3424,-4.6939,1292,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",5e-05,-999999
+1313,"Marbore",42.6956305555556,0.0400194444444444,2612,"lacustrine",30,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.1,-999999
+1315,"Basa de la Mora",42.54527,0.3255,1906,"lacustrine, glacial origin",4.5,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.03,2.09
+1317,"Valle do Lobo Ribeira de Carcavai",37.057965,-8.074734,2.3,"coastal, estuarine",-888888,"-888888","medium (10.1-500 km2)","in and out flow",-888888,67
+1318,"Armacao de Pera Ribeira de Alcantarilha",37.110107,-8.34459,2.4,"coastal, estuarine",-888888,"-888888","medium (10.1-500 km2)","in and out flow",-999999,41
+1319,"Alvor Estuary Ribeira do Farelo  Ribeira da Torre",37.151969,-8.594376,0.6,"coastal, estuarine",-888888,"-888888","medium (10.1-500 km2)","in and out flow",-999999,257
+1320,"Borreguil de la Caldera",37.0506,-3.3233,2992,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0017,0.62
+1321,"Laguna de la Mula",37.0597,-3.4168,2497,"lacustrine, glacial origin",0.57,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.002,0.25
+1322,"Laguna de la Mosca",37.0597,-3.3147,2889,"lacustrine, glacial origin",3.4,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0048,0.397
+1323,"Puerto del Pico",40.3233,-5.0145,1395,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",2e-04,-999999
+1324,"Calineasa",46.5631,22.8292,1300,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+1329,"Kumata",42.5904,23.2519,1770,"terrestrial, bog",NA,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.001,-999999
+1333,"Molhasul Mare",46.59,22.7642,1124,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.08,-999999
+1336,"Ahlequellmoor",51.73,9.51,300,"terrestrial, fen",NA,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+1337,"Beliya Kanton",41.73,24.14,1547,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.095,-999999
+1338,"Bielice",48.62,18.34,185,"terrestrial, fen",NA,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",-999999,-999999
+1340,"Kahala",59.48674,25.531503,33.2,"lacustrine",1.2,"small (0.01-1 km2)","medium (10.1-500 km2)","outflow only",3.45,13
+1342,"Abborrtjarnen",63.8,14.37,387,"lacustrine",6.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+1343,"Bagno Serebryskie",51.176363,23.526241,173,"terrestrial, fen",NA,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",3.76,-999999
+1352,"Lake Stiol",47.57,24.8136,1670,"lacustrine, glacial origin",1.3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.016,1.53
+1357,"Kevojarvi",69.75894,27.00018,74.7,"lacustrine",35,"small (0.01-1 km2)","large (more than 500 km2)","in and out flow",1.02,1520
+1358,"Kilden Islet of Melkoya",70.67,23.64,15,"terrestrial, fen",NA,"very small (less than 0.01 km2)","-999999","closed - no inflow or outflow",0.00015,-999999
+1364,"Lake Njargajavri",69.8666666666667,27.1666666666667,355,"lacustrine",2,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1446,"Taul Muced",47.5739,24.5446,1340,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.015,-999999
+1465,"Lake Czarne Bog",54.295,22.0592,147,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.06,0.1
+1636,"Gourte Mires",51.06,-3.67,291,"terrestrial, mire",NA,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1641,"Viitna Pikkjarv",59.446389,26.010556,76.5,"lacustrine",4.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.16,1.1
+1647,"Balywillin Crannog Lake Kinale",52.775,-7.4167,62,"lacustrine",4,"medium (1.1-50 km2)","-777777","in and out flow",6,27
+1655,"Derragh Bog",53.7667,-7.4167,70.5,"terrestrial, bog",NA,"small (0.01-1 km2)","-777777","-777777",0.374,NA
+1656,"Derragh Lough",53.7611,-7.5778,62,"lacustrine",2,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.4,6
+1660,"Lake Salet",53.94,21.3224,132,"lacustrine",17.2,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",3.277,-999999
+1679,"Grosser Treppelsee",52.15,14.452778,52.2,"lacustrine",5.55,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.71,58.3
+1684,"Loch an Amair",57.28,-4.89,315,"lacustrine, glacial origin",3.25,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.008,-999999
+1686,"Lochan na h-Inghinn",58.25,-5.09,65,"lacustrine, glacial origin",3.14,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.01,-999999
+1687,"Reidh-lochan",58.03,-4.12,160,"lacustrine, glacial origin",4.57,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.008,-999999
+1702,"MD95-2042",37.75,-10.16,-3146,"marine",-888888,"-888888","-888888","-888888",-888888,-888888
+1719,"Lake Orijarvi, Mikkeli",61.662891,27.211239,89.7,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.288,-999999
+1722,"Belauer See",54.1,10.2533,26,"lacustrine",29,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",1.15,32.86
+1723,"Dubrava Wood",48.8673,17.1024,190,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1725,"Gasak II",52.46,19.391266,81,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1726,"Golebiewo I",54.45,18.5,130,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.06,-999999
+1727,"Grosser Krebssee",52.85,14.0993,5,"lacustrine",7.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.3,-999999
+1728,"Iezerul Sadovei",47.6,25.44944444,930,"lacustrine",4.7,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.02,-999999
+1729,"Jagniecy Potok",50.85,15.36,850,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.14,-999999
+1730,"Lake Biale",52.5,19.494999,72,"lacustrine",31.3,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",1.502,-999999
+1734,"Lake Ruskowiejskie",53.95,21.3117,144,"lacustrine",11.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.291,-999999
+1738,"Parizske Mire",47.87,18.4653,123,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1740,"Lake Suminko",54.18,17.798333,163,"lacustrine",17.2,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.15,-999999
+1741,"Litzelsee",47.77,8.9306,413,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.013,-999999
+1742,"Rasna",49.227306,15.374528,679,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1743,"Semenic",45.18,22.05944444,1500,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1746,"Prasilske Jezero",49.06,13.4,1079,"lacustrine",14.8,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.037,0.52
+1751,"Penningholmen Lake Uddjaure",66.03,17.43,425,"terrestrial, soil",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1753,"Juodonys",55.74,25.44,20,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1754,"Lake Burg",42.505,1.306111,1821,"lacustrine, glacial origin",0.4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.3,-999999
+1767,"Lago di Pergusa",37.51,14.3,674,"lacustrine",1,"medium (1.1-50 km2)","small (less than 10 km2)","closed - no inflow or outflow",1.4,7.5
+1787,"Eustach",50.890667,14.428425,387,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.005,-999999
+1788,"Krepelcí dul",50.931874,14.438233,357,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",6e-04,-999999
+1791,"Polomovy dul",50.882869,14.317496,313,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",5e-04,-999999
+1793,"Pravcicky dul",50.884236,14.296834,382,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-04,-999999
+1794,"Puklina",50.932394,14.439768,386,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-04,-999999
+1795,"Raseliniste Jizery",50.861706,15.301881,843,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.03,-999999
+1796,"Stara jimka",49.068764,13.402947,1129,"lacustrine, drained lake",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.04,1
+1798,"Vlcek",50.039798,12.731939,769,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.165,-999999
+1799,"Zofinsky prales",48.664442,14.705347,785,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.009,-999999
+1801,"Tajga",50.0261,12.680355,817,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.65,-999999
+1805,"Lake Czechowskie",53.87417,18.23667,109,"lacustrine",32,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.77,-999999
+1806,"Dalane",58.244167,8.004445,40,"lacustrine",5.15,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.028,-999999
+1807,"Holebudalen",59.841389,6.008611,1144,"lacustrine",8.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.02,-999999
+1808,"Lille Kjelavatn",59.796111,7.001944,978,"lacustrine",3.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.005,-999999
+1809,"Flotatjonn",59.67027,7.54055,890,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1810,"Bjornfjelltjorn",68.44416,18.07166,510,"lacustrine",12.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1811,"Litlvatnet",68.52694,14.93083,106,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1812,"Myrvatnet",68.66055,16.38138,197,"lacustrine",4.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1813,"Gammelheimenvatnet",68.48222,17.75944,290,"lacustrine",4.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1814,"Vuoskkujarvi",68.34555,19.1,384,"lacustrine",18,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.68,11.2
+1815,"Grauthelleren",58.14416,7.91361,80,"lacustrine",7.8,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+1816,"Kinnshaugen",61.10833,10.35916,591,"lacustrine",4.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1817,"Lisletonn",59.34361,7.305,520,"lacustrine",7.1,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1818,"Morttjern",59.05972,11.61777,227,"lacustrine",12,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1819,"Masatjornet",61.5625,10.26777,841,"lacustrine",3.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1820,"Reiarsdalsvatn",58.32638,7.78583,245,"lacustrine",9.2,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1821,"Ratasjoen",62.26666,9.83333,1169,"lacustrine, glacial origin",8.3,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.125,-999999
+1822,"Storsandvatnet",63.4575,8.45444,106,"lacustrine",0.7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1823,"Svartvatnet",63.35138,8.87777,183,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1824,"Tiavatnet",63.05972,9.41694,464,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1825,"Oygardtjonn",59.62583,7.98666,665,"lacustrine",12.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1826,"Isbenttjorn",59.765,0.43444,787,"lacustrine",11.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1833,"BEAT, Glen Affric",57.259899,-4.9661087,270,"terrestrial",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1835,"Le Vernay",47.261944,4.079167,595,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1836,"Verny des Brulons",47.317778,4.122778,565,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1837,"Quart du Bois",46.8925,4.034167,420,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1838,"Nataloup",47.2275,4.035278,515,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1839,"Grostjorna Setesdal Valley",58.5333,7.7333,180,"lacustrine",9.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.03,-999999
+1840,"Vestre Oykjamyrtorn",59.8167,6,570,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.018,0.11
+1841,"Trettetjorn",60.7167,7,810,"lacustrine",7.5,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.008,-999999
+1922,"Champ Gazon",47.203333,4.048611,585,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.2,-999999
+1923,"Bazu bog",57.70004,22.45021,15,"terrestrial, bog",-888888,"very large (more than 500 km2)","large (more than 500 km2)","-888888",2646,-999999
+1924,"Lielais Vipedis",56.59148,23.00094,96,"lacustrine",4,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",21,9
+1925,"Lake Pikku Harkajarvi",68.8532,28.6447,188,"lacustrine",6.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0373,7
+1926,"Lake Rosalia",68.9128,28.3692,180,"lacustrine",9,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03017,8
+1927,"Mannikjarve",58.8667,26.25,90,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-888888",3.2,-999999
+1951,"Holbicky",48.51,17.109167,183,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1953,"Hute pod Smrkem",49.47,18.418517,533,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1958,"Seedorf",46.79522,7.04045,609,"lacustrine",7.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.135,4.5
+1966,"Herrenwieser See",48.669167,8.296389,830,"lacustrine",9.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.013,-999999
+1968,"Oberderdingen-Grossvillars",49.0425,8.760278,207,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1970,"Lake Skrzynka",53.81,17.5214,121,"lacustrine",4.3,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.21,-999999
+1973,"Lake Kojle",54.02,22.88,149,"terrestrial, bog",33,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.17,-999999
+1974,"Brve",50.06666,14.23888,362,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.06,-999999
+1975,"Nad Dolskym mlynem",50.8525,14.338889,240,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",5e-04,-999999
+1976,"Zahaji",50.379444,14.115556,232,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1977,"Na Bahne",50.198889,15.961389,240,"terrestrial, fen",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.01,-999999
+1982,"Jeleni louze",50.892778,14.27,460,"terrestrial, mire",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.02,-999999
+1983,"Pancavska louka",50.766389,15.541111,1336,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.28,-999999
+1985,"Pryskyricny dul",50.887778,14.413333,423,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.002,-888888
+1989,"Lac du Verney-Dessus",45.693333,6.8725,2276,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1991,"Mindelsee",47.75555,9.02305,406,"lacustrine, glacial origin",14,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.99,25.5
+1992,"Lake Suchar IV",54.09,23.0247,143,"lacustrine, glacial origin",8,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0095,-999999
+1355,"Vaike Juusa",58.05,26.5,122,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.03,0.55
+1999,"Beg Bunar",42.15,22.55,1750,"terrestrial, bog",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","inflow only",-999999,-999999

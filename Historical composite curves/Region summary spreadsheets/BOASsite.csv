@@ -1,0 +1,31 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+167,"Xindi Lake",67.111667,152.491667,240,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","-999999","-999999",0.07,-999999
+273,"Pechora",62,52,127,"terrestrial, bog",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+445,"Lake Teletskoye",51.529167,87.714722,1900,"lacustrine",325,"very large (more than 500 km2)","large (more than 500 km2)","in and out flow",233,-999999
+483,"Bolshoe Bog",51.46,104.5,450,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+484,"Duliha bog",51.51,105,510,"terrestrial, mire",-888888,"-777777","-777777","-777777",-999999,-777777
+486,"Duguldzeiri River bog",54.45,109.53,529,"terrestrial, mire",-888888,"-777777","-777777","-777777",-777777,-777777
+1126,"Batbold Nuur",51.3476,98.87493,2150,"lacustrine",15.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.14,-999999
+1144,"Ganbold Nuur",51.3346,98.8755333333333,2102,"lacustrine",21.9,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.12,-999999
+439,"Lake Kirjavalampi",61.7333,30.7667,5,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.024,0.94
+1171,"Mustei Nuur",51.23923,99.00756,2353,"lacustrine",28,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.34,-999999
+1183,"Sanjin Nuur",51.23183,99.02328,2250,"lacustrine",17.4,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.08,1
+1190,"Tsogtoo Nuur",51.34563,98.89736,2063,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.38,-999999
+1157,"Larix Hollow",61.8459167,37.7565,155,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.001,-999999
+1204,"Mosquito Hollow",61.8518667,37.7702833,155,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","-999999","-999999",0.001,-999999
+1172,"Olga Hollow",61.2016,37.5905,200,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.001,-999999
+1251,"Pine hollow",61.870278,37.993611,155,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1254,"Polttiais hollow",62.275833,36.750833,140,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1123,"Akkol Lake",50.25,89.625,2204,"lacustrine, glacial origin",2.8,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",3.2,-999999
+1146,"Grusha Lake",50.3833,89.4167,2413,"lacustrine, glacial origin",3.5,"medium (1.1-50 km2)","small (less than 10 km2)","inflow only",1.6,-999999
+1271,"Krugloe Bog West Siberian Plain",56.8956,84.5761,100,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1273,"Manzherok Lake Altai Mts.",51.8208,85.8097,423,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.5,-999999
+1326,"Plotnikovo Mire",56.83552,83.284014,120,"terrestrial, bog",NA,"very large (more than 500 km2)","large (more than 500 km2)","closed - no inflow or outflow",-999999,-999999
+1330,"Lake Kharinei",67.37,62.75,108,"lacustrine",16,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.5,5.1
+1334,"Yaksha2",61.7,55.57,140,"terrestrial, mire",NA,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.04,-999999
+1335,"Yaksha3",61.73,55.49,130,"terrestrial, mire",NA,"small (0.01-1 km2)","-999999","closed - no inflow or outflow",0.024,-999999
+1580,"Tuqiang Town",52.94,122.86,468,"terrestrial, mire",NA,"-999999","-999999","-999999",-999999,-999999
+1588,"Panggu Town",52.55,123.74,495,"terrestrial, mire",NA,"-999999","-999999","-999999",-999999,-999999
+1635,"Mukhrino Mire",60.8889,68.7026,35,"terrestrial, bog",NA,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",10,-999999
+1674,"Uzunkol Lake",50.4833,87.1083,1985,"lacustrine, glacial origin",5.9,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",-999999,-999999
+1994,"Chai-ku Lake",62,130.06,129,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.44,-999999

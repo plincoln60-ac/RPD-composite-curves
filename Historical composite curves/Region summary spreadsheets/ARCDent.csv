@@ -1,0 +1,29 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+320,389,"Santa Maria core",-1.57,-53.6,17,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+688,783,"Marcacocha core",-13.21,-72.2,3355,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",62
+695,790,"Carajas core",-6,-50.16,250,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+750,847,"Yaguaru core",-15.6,-63.21,195,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",43
+1605,2037,"Lake Carana core",-2.834645,-55.041785,5,"lake sediment","Sieved","concentration","Neotoma","marginal core","2021-03-04",174
+1607,2040,"Lago Rogaguado core_micro",-12.997389,-65.986139,125,"lake sediment","Pollen slide","influx","Neotoma","marginal core","2021-03-04",238
+1611,2046,"Laguna Rabadilla de Vaca core",-4.255472,-79.112139,3312,"lake sediment","Pollen slide","influx","Neotoma","central core","2021-03-04",241
+1693,2137,"Laguna Chaplin core LCH",-14.466667,-61.066667,200,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","marginal core","2021-05-08",72
+1694,2138,"Laguna Bella Vista core",-13.6167,-61.55,191,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","marginal core","2021-05-08",72
+1697,2141,"Caco MA97-1",-2.970219,-43.267808,120,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 3","central core","2021-05-08",124
+1716,2161,"PAC-E",-13.6072,-73.495,3095,"lake sediment","Pollen slide","concentration","Pangaea","central core","2021-03-26",152
+1759,2208,"El Tiro Bog core",-3.84,-79.14,2810,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-999999","2021-04-16",90
+1851,2306,"Comprida core",-1.62,-53.99,130,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",75
+1860,2315,"Gentry core",-12.17,-69.09,270,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","central core","2021-05-12",1
+1861,2316,"Geral core C",-1.64,-53.59,130,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",75
+1868,2323,"Lago Crispim core",-0.62,-47.64,2,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",98
+1870,2325,"Lago do Pires core",-17.95,-42.21,390,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-12",100
+1871,2326,"Lagoa da Curuca Profile B charcoal concentration",-0.76,-47.85,35,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",75
+1872,2327,"Lagoa Nova core",-17.95,-42.2,390,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",99
+1873,2328,"Laguna Chorreras microcharcoal",-2.75,-79.16,3700,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",91
+1874,2330,"Laguna de Chochos core",-7.63,-77.47,3285,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",39
+1890,2347,"Lake Santa Rosa core",-14.47,-67.87,350,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","-777777","2021-05-12",152
+1893,2350,"Lake Titicaca core NE98-1PC",-16.20528,-69.20528,3810,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","central core","2021-05-12",152
+1900,2357,"Parker core",-12.14,-69.02,276,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","central core","2021-05-12",152
+1907,2364,"Rio Curua core",-1.73,-51.45,3,"fluvial/alluvial sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",98
+1911,2368,"Surucucho core under25micron",-3.06,-78,3180,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",38
+1914,2372,"Vargas core",-12.37,-68.89,246,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","central core","2021-05-12",152
+1916,2374,"Werth core",-11.74,-69.23,302,"lake sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 4","central core","2021-05-12",152

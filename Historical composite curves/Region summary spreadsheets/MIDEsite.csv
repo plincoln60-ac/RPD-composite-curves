@@ -1,0 +1,9 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+59,"Lake Van",38.55,42.53,1648,"lacustrine, tectonic origin",430,"very large (more than 500 km2)","large (more than 500 km2)","inflow only",NA,NA
+192,"Krimda",35.28,6.63,200,"terrestrial, bog",-777777,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",NA,NA
+554,"Nar Lake",38.37,34.45,1363,"lacustrine, volcanic lake",26,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.7,4
+889,"Lake Ifrah",33.5592942189009,-4.93055543838682,1610,"lacustrine",2,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",2,44.77
+892,"Lake Sidi Ali",33.06843,-4.998376,2080,"lacustrine",40,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",2.8,14
+895,"Laguna Grande",28.11666667,-17.25,1250,"-777777",NA,"-777777","-777777","-777777",NA,NA
+1832,"Bereket Basin",37.545,30.295,1410,"terrestrial, marsh",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1971,"Almalou",37.665278,46.631944,2491,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999

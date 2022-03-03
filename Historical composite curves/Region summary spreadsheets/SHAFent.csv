@@ -1,0 +1,10 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+442,527,"Lake Sibaya core",-27.2,32.36,20,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",55
+443,528,"Funduzi core",-22.85,30.89,429,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",22
+555,645,"Moreletta River core 1",-28.82,30.99,417,"fluvial/alluvial sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",22
+760,857,"Lake Tanganyika core",-6.55,29.97,773,"-777777","Other","influx","Global Charcoal Database Version 4","-777777","2020-03-06",176
+842,939,"Kwasebuge core",-4.292015,37.92284,1939,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+843,941,"Mare Tatos core_conc",-20.2122222222222,57.7727777777778,21,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+869,967,"Esambu core",-2.711913,37.554357,1191,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",10
+1709,2154,"ODP1078C core",-11.91,13.4,-426,"marine sediment","Pollen slide","concentration","Global Charcoal Database Version 3","-888888","2021-05-08",25
+1773,2224,"MB6",-1.08,29.75,2100,"bog sediment","GRAVIMETRIC chemical assay (Winkler method)","pollen concentration","Global Charcoal Database Version 4","central core","2021-04-16",164

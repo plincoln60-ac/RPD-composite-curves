@@ -1,0 +1,25 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+406,485,"Lago Verde core",18.61,-95.34,149,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",84
+684,779,"Laguna Verde core",13.89,-89.78,1600,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",62
+685,780,"Laguna Cuzcachapa core",13.98,-89.68,709,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",62
+687,782,"Laguna Santa Elena core",8.56,-82.56,1100,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",62
+690,785,"Laguna Pompal core",18.37,-94.95,700,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",148
+719,816,"Cantarrana core",10.43,-84,36,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",140
+730,827,"Laguna Bonillita core",9.99,-83.61,450,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",62
+738,835,"Pie de Gigante core 1",11.38,-86.03,-777777,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",175
+739,836,"Laguna Herradura core",22.01,-98.15,-777777,"-777777","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",175
+751,848,"Salvador core",18.795786,-70.886979,990,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",43
+752,849,"Castilla core",18.7978,-70.8761,976,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",43
+1600,2030,"Iztapa core",13.951908,-90.659736,10,"bog sediment","-999999","concentration","Neotoma","-999999","2021-03-04",232
+1842,2297,"Aguada de Petapilla 1989 core",14.86,-89.12,705,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",52
+1845,2300,"Bao-1 1997 core charcoal concentration",19.06,-71.03,1775,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",134
+1850,2305,"Charco Verde core",11.47,-85.63,33,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-999999","2021-05-12",240
+1867,2322,"Lago Chirripo composite core",9.483,-83.496,3520,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","marginal core","2021-05-12",78
+1869,2324,"Lago de las Morrenas core",9.48,-83.48,3480,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2021-05-12",78
+1876,2332,"Laguna Llana del Espino core",13.95,-89.52,700,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-12",603
+1877,2333,"Laguna Metapan core",14.30071,-89.477829,450,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-999999","2021-05-12",13
+1879,2335,"Laguna Volcan core",8.75,-82.68,1500,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",134
+1880,2336,"Laguna Zoncho charcoal ratio",8.81,-82.96,1190,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-12",23
+1887,2344,"Lake Miragoane core",18.4,-73.05,20,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-12",134
+1888,2345,"Lake Nicaragua core LC-4",11.76258,-85.872528,30,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","marginal core","2021-05-12",13
+1947,2415,"Lake Aljojuca core",19.09113,-97.533602,2376,"lake sediment","Charcoal particles identified by imaging software","concentration","author","-999999","2021-05-26",606

@@ -1,0 +1,129 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT","min(c.original_est_age)","min(am.mean)"
+1147,1530,"Hudson Lake core count",61.897711,-145.670722,860,"lake sediment","Sieved","count","NOAA","central core","2021-05-07",113,-55,NA
+1177,1550,"Poktovik core count",68.02,-161.37,160,"lake sediment","Sieved","count","NOAA","central core","2021-05-07",113,-55,NA
+1202,1554,"Salmo Lake Core A count",60.4455555,-133.5613888,866,"lake sediment","Sieved","count","author","central core","2021-05-07",185,-54,NA
+1192,1558,"Uchugrak core",68.05,-161.72,216,"lake sediment","Sieved","count","NOAA","central core","2021-05-07",113,-56,NA
+1244,1566,"Araisu lake (LVmac)",57.250912,25.289886,120.2,"lake sediment","Sieved","raw count","author","central core","2021-07-28",134,12,NA
+1249,1577,"Naava hollow (FImac)",61.241389,25.056111,156,"small hollow","Sieved","raw count","author","central core","2021-07-28",134,-56,NA
+1251,1580,"Pine hollow (RUmac)",61.870278,37.993611,155,"small hollow","Sieved","raw count","author","central core","2021-07-28",134,-58,NA
+1252,1582,"Teici bog (LVmac)",56.622408,26.440808,114,"bog sediment","Sieved","raw count","author","central core","2021-07-28",134,-60,NA
+1253,1583,"Bricu lake (LVmac)",57.115374,25.870619,208.4,"lake sediment","Sieved","raw count","author","central core","2021-07-28",134,-57,NA
+1254,1585,"Polttiais hollow (RUmac)",62.275833,36.750833,140,"small hollow","Sieved","raw count","author","central core","2021-07-28",134,-55,NA
+1257,1596,"Kammekka hollow (FImac)",61.2425,25.055278,156,"small hollow","Sieved","raw count","author","central core","2021-07-28",134,64,NA
+1260,1602,"Trikatas lake (LVmac)",57.54116,25.714468,50,"lake sediment","Sieved","raw count","author","central core","2021-07-28",134,-56,NA
+1279,1645,"El Redondo core u125",40.2214,-5.6569,1765,"bog sediment","Pollen slide","raw count","author","central core",NA,188,40,127
+1279,1646,"El Redondo core o125",40.2214,-5.6569,1765,"bog sediment","Pollen slide","raw count","author","central core",NA,34,40,127
+1296,1669,"Kiilaspere_bog",58.796944,24.436111,22.6,"bog sediment","Pollen slide","raw count","author","central core",NA,137,-44,NA
+1297,1670,"Koivasoo_bog",58.908611,22.199444,27.5,"bog sediment","Pollen slide","raw count","author","central core",NA,137,164,NA
+1300,1675,"Maardu_lake",59.441667,25,31.3,"lake sediment","Pollen slide","raw count","author","central core",NA,137,-37,NA
+1301,1676,"Mustjarve_bog",59.076944,24.099722,38.9,"bog sediment","Pollen slide","raw count","author","central core",NA,137,-42,NA
+1303,1678,"Parika_bog",58.490278,25.774167,48.5,"bog sediment","Pollen slide","raw count","author","central core",NA,137,23,NA
+1306,1681,"Surusoo_bog",58.529722,22.423056,43,"bog sediment","Pollen slide","raw count","author","central core",NA,137,6,NA
+825,1684,"Vedruka_bog",58.330278,22.060556,21,"bog sediment","Pollen slide","raw count","author","central core",NA,137,-20,NA
+1322,1705,"LdlMo composite",37.0597,-3.3147,2889,"lake sediment","Sieved","count","author","central core","2021-05-07",137,159,9
+1336,1723,"Ahlequellmoor core",51.73,9.51,300,"bog sediment","Pollen slide","raw count","author","central core","2021-02-10",137,-45,-44
+1337,1724,"BK-2C",41.73,24.14,1547,"bog sediment","Pollen slide","raw count","author","central core","2021-02-10",137,104,350
+1344,1734,"Lin core",61.48,-163.43,2,"lake sediment","Sieved","raw count","author","central core","2021-02-10",212,-56,NA
+1346,1740,"Lake Kirkpatrick core",-45.02706,168.57374,570,"lake sediment","Sieved","count","IMPD","-999999","2021-02-11",34,-53,-50
+1347,1741,"Dukes Tarn core",-44.96418,168.49269,830,"lake sediment","Sieved","count","IMPD","-999999","2021-02-11",34,-51,-45
+1348,1742,"Baga Nuur core",49.9208,93.8493,981,"lake sediment","sieved","raw count","IMPD","central core","2021-02-11",113,-59,-56
+1349,1743,"Khundt Nuur core",49.9208,93.8493,1933,"lake sediment","sieved","raw count","IMPD","central core","2021-02-11",113,-55,NA
+1350,1744,"Takhilt Nuur core",48.8064,96.8062,1502,"lake sediment","sieved","raw count","IMPD","central core","2021-02-11",113,-55,NA
+1364,1762,"Njargajavri core",69.8666666666667,27.1666666666667,355,"lake sediment","Charcoal particles identified by imaging software","raw count","author","-999999","2021-02-11",137,70,NA
+1377,1784,"Abalone Rocks Marsh core",33.956389,-119.976667,0,"bog sediment","pollen slide","count","IMPD","-999999","2021-02-15",137,-40,-40
+1379,1786,"Copper Falls Lake core",47.417,-88.192,392,"lake sediment","sieved","count","IMPD","-999999","2021-02-15",34,-60,NA
+1381,1788,"Lake Eileen core",40.902,-106.673,3135,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-53,2
+1382,1789,"Gold Creek Lake core",40.781,-106.678,2917,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-57,-52
+1383,1790,"Gem Lake Colorado core",40.881,-106.734,3101,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-55,184
+1384,1791,"Minnesota Plateau Lake core",62.541794,-146.238431,827,"lake sediment","sieved","count","IMPD","-999999","2021-02-15",113,-56,NA
+1385,1792,"Hinman Lake core",40.771,-106.827,2501,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-58,-53
+1386,1793,"Middle Rainbow Lake core",40.648,-106.624,3001,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-51,-66
+1387,1794,"Round Lake MZ core",40.473,-106.663,3071,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-60,-57
+1388,1795,"Seven Lake MZ core",40.896,-106.681,3276,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-50,-50
+1389,1796,"Teal Lake CO core",40.583,-106.608,2689,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-58,-53
+1390,1797,"Whale Lake MZ core",40.556,-106.675,3059,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-50,-50
+1391,1798,"Summit Lake MZ core",40.545,-106.682,3149,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-57,-57
+1392,1799,"Super Cub Lake core",62.296611,-145.347172,486,"lake sediment","sieved","count","IMPD","-999999","2021-02-15",113,-57,NA
+1395,1802,"Tiago Lake MZ core",40.579,-106.613,2700,"lake sediment","sieved","count","IMPD","central core","2021-02-15",34,-45,-44
+1466,1883,"Chopper Lake core",66.00225,-146.27532,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-56,NA
+1467,1884,"Epilobium Lake core",65.97248,-145.56712,366,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-58,NA
+1468,1885,"Granger Lake core",66.05754,-145.65209,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-57,NA
+1469,1886,"Jonah Lake core",66.068,-145.08488,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-58,NA
+1470,1887,"Landing Lake core",65.90337,-145.77707,394,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-56,NA
+1471,1888,"Latitude Lake core",65.92689,-146.14223,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-57,NA
+1472,1889,"Lucky Lake core",66.01737,-145.52501,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-58,NA
+1473,1890,"Noir Lake core",66.00261,-145.92613,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-53,NA
+1474,1891,"Picea Lake core",65.88162,-145.58768,269,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-57,NA
+1475,1892,"Reunion Lake core",66.00925,-146.1078,306,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-59,NA
+1476,1893,"Robinson Lake core",65.97158,-145.69925,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-57,NA
+1477,1894,"Screaming Lynx Lake core",66.06815,-145.4044,276,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-56,NA
+1478,1895,"West Crazy Lake core",65.89142,-145.62195,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-56,NA
+1479,1896,"Windy Lake core",66.04169,-145.75471,-999999,"lake sediment","Sieved","raw count","author","central core","2021-02-18",113,-57,NA
+1599,2029,"Laguna EkNaab core",17.421145,-89.236475,160,"lake sediment","Sieved","raw count","Neotoma","central core","2021-03-04",231,-39,824
+1601,2031,"Laguna Cocha Caranga core",-4.045861,-79.159583,2710,"lake sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",233,-19,-55
+1601,2032,"Cocha Caranga Forest core",-4.045861,-79.159583,2700,"soil","Pollen slide","raw count","Neotoma","central core","2021-03-04",233,-55,NA
+1601,2033,"Cocha Caranga Mire core",-4.045861,-79.159583,2710,"bog sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",233,44,-25
+1608,2042,"Cerro Toledo CT core",-4.374611,-79.111528,3150,"bog sediment","Pollen slide","raw count","Neotoma","-999999","2021-03-04",240,25,0
+1608,2043,"Cerro Toledo CTB core",-4.374611,-79.111528,3110,"bog sediment","Pollen slide","raw count","Neotoma","-999999","2021-03-04",240,-55,299
+1609,2044,"Rabadilla de Vaca mire core",-4.256583,-79.120917,3200,"bog sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",240,-55,0
+1610,2045,"Valle Pequeno core",-4.116083,-79.172056,3244,"bog sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",240,-27,-14
+1612,2047,"Laguna Zurita core",-3.974667,-79.117611,2590,"lake sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",242,-50,-34
+1617,2053,"Lagunas Natosas Bosque core",-4.730417,-79.424064,3495,"bog sediment","Pollen slide","raw count","Neotoma","central core","2021-03-04",240,-21,94
+1620,2056,"Haircut Lake Core A count",60.515555,-133.205555,1000,"lake sediment","Sieved","count","author","central core","2021-05-08",185,-54,NA
+1634,2073,"Chickaree composite core",40.334125,-105.841095,2796,"lake sediment","Sieved","raw count","Neotoma","central core","2021-03-12",34,-1,-58
+1643,2087,"Marcella Lake Core Z count",60.0736111,-133.807777,697,"lake sediment","Sieved","raw count","author","central core","2021-03-19",185,-54,NA
+1718,2164,"URCB composite_250",47.04,-115.88,1710,"bog sediment","Sieved","raw count","author","central core","2021-03-26",212,-13,NA
+1718,2165,"URCB composite_150",47.04,-115.88,1710,"bog sediment","Sieved","raw count","author","central core","2021-03-26",182,-13,NA
+1805,2260,"JC11_K5",53.87417,18.23667,109,"lake sediment","sieved","count","Pangaea","central core","2021-05-04",137,-54,NA
+1806,2261,"Dalane core",58.244167,8.004445,40,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1807,2262,"Holebudalen core",59.841389,6.008611,1144,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1808,2263,"Lille Kjelavatn core",59.796111,7.001944,978,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1809,2264,"Flotatjonn core",59.67027,7.54055,890,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1810,2265,"Bjornfjelltjorn core",68.44416,18.07166,510,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1811,2266,"Litlvatnet core",68.52694,14.93083,106,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1812,2267,"Myrvatnet core",68.66055,16.38138,197,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1813,2268,"Gammelheimenvatnet core",68.48222,17.75944,290,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1814,2269,"Vuoskkujarvi core",68.34555,19.1,384,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1815,2270,"Grauthelleren core",58.14416,7.91361,80,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1816,2271,"Kinnshaugen core",61.10833,10.35916,591,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1817,2272,"Lisletonn core",59.34361,7.305,520,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1818,2273,"Morttjern core",59.05972,11.61777,227,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1819,2274,"Masatjornet core",61.5625,10.26777,841,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1820,2275,"Reiarsdalsvatn core",58.32638,7.78583,245,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1821,2276,"Ratasjoen core",62.26666,9.83333,1169,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,97,NA
+1822,2277,"Storsandvatnet core",63.4575,8.45444,106,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1823,2278,"Svartvatnet core",63.35138,8.87777,183,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1824,2279,"Tiavatnet core",63.05972,9.41694,464,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1825,2280,"Oygardtjonn core",59.62583,7.98666,665,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1826,2281,"Isbenttjorn core",59.765,0.43444,787,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137,0,NA
+1827,2282,"SB-B core",-1.23611,103.62,18,"bog sediment","sieved","count","Pangaea","central core","2021-05-04",137,-60,2
+1835,2290,"Vernay core",47.261944,4.079167,595,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137,96,NA
+1836,2291,"Verny des Brulons core",47.317778,4.122778,565,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137,146,NA
+1837,2292,"Quart du Bois core",46.8925,4.034167,420,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137,28,NA
+1838,2293,"Nataloup core",47.2275,4.035278,515,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137,104,NA
+1923,2382,"Bazu bog (LVmac)",57.70004,22.45021,15,"bog sediment","Sieved","raw count","author","central core","2021-05-19",604,-33,NA
+1924,2383,"Lielais Vipedis (LVmac)",56.59148,23.00094,96,"lake sediment","Sieved","raw count","author","central core","2021-05-19",604,-60,NA
+1927,2386,"Mannikjarve core",58.8667,26.25,90,"bog sediment","pollen slide","count","author","central core","2021-05-25",137,0,NA
+1943,2408,"Lake Huila micro",-0.423008,-78.018008,2608,"lake sediment","Pollen slide","raw count","Neotoma","central core","2021-05-26",161,-56,NA
+1943,2409,"Lake Huila macro",-0.423008,-78.018008,2608,"lake sediment","Sieved","raw count","Neotoma","central core","2021-05-26",606,-59,NA
+1946,2413,"CV micro",-4.149722,-79.156944,3285,"bog sediment","Pollen slide","raw count","Neotoma","-999999","2021-05-26",161,-57,NA
+1946,2414,"CV macro",-4.149722,-79.156944,3285,"bog sediment","Pollen slide","raw count","Neotoma","-999999","2021-05-26",161,-57,NA
+1948,2416,"AN core",-22.385319,-44.669802,2410,"bog sediment","Sieved","raw count","author","-999999","2021-05-26",606,-48,7
+1955,2424,"Niliq core",67.867867,-160.431633,270,"lake sediment","pollen slide","count","arctic data center","central core","2021-06-03",188,-58,NA
+1964,2434,"CP1",31.4,110.04,2120,"bog sediment","pollen slide","count","author","central core","2021-07-16",123,0,0
+1966,2436,"HES2_short",48.669167,8.296389,830,"lake sediment","pollen slide","count","EPD","central core","2021-07-16",137,-7,0
+1966,2437,"HES1_long",48.669167,8.296389,830,"lake sediment","pollen slide","count","EPD","central core","2021-07-16",137,0,201
+1968,2440,"OSVA",49.0425,8.760278,207,"bog sediment","pollen slide","count","EPD","central core","2021-07-16",137,82,-3
+1969,2442,"Doroo Nuur core",48.2459,90.6639,2394,"lake sediment","Sieved","count","author","central core","2021-07-19",113,-46,-54
+1971,2444,"Almalou3",37.665278,46.631944,2491,"bog sediment","pollen slide","count","EPD","marginal core","2021-07-19",137,43,82
+1974,2447,"Brve section",50.06666,14.23888,362,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221,102,92
+1975,2448,"Dolskym core",50.8525,14.338889,240,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221,113,109
+1976,2449,"Zahaji section",50.379444,14.115556,232,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221,7,5
+1977,2450,"Na Bahne core",50.198889,15.961389,240,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221,8,5
+1982,2455,"Jeleni louze core",50.892778,14.27,460,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137,0,321
+1983,2456,"Pancavska louka core",50.766389,15.541111,1336,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137,35,-13
+1985,2458,"PRYSKYRI core",50.887778,14.413333,423,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137,0,NA
+1989,2462,"DESVERNE core",45.693333,6.8725,2276,"lake sediment","pollen slide","count","EPD","central core","2021-07-21",137,0,57
+1991,2464,"MINDGES5",47.75555,9.02305,406,"lake sediment","pollen slide","count","EPD","central core","2021-07-21",137,3,3
+1355,2466,"J20",58.05916,26.51722,122,"lake sediment","pollen slide","count","Pangaea","central core","2021-07-21",137,0,NA
+1999,2477,"Beg Bunar core",42.15,22.55,1750,"bog sediment","Sieved","Count","author","marginal core","2021-07-28",302,0,NA

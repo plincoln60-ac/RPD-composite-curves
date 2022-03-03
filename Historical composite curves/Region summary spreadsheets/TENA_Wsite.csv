@@ -1,0 +1,96 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+1,"Cygnet Lake",44.66,-110.61,2530,"lacustrine, glacial origin",6.1,"very small (less than 0.01 km2)","medium (10.1-500 km2)","inflow only",0.11,-999999
+2,"Slough Creek Pond",44.91,-110.34,1884,"lacustrine",-999999,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",-999999,-999999
+3,"Burnt Knob Lake",45.7,-114.98,2250,"lacustrine, glacial origin",5.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.035,-999999
+4,"Baker Lake, Montana",45.891785,-114.263047,2300,"lacustrine, glacial origin",16,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+5,"Hoodoo Lake",46.320193,-114.651545,1770,"lacustrine",4,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.046,-999999
+6,"Pintlar",45.84,-113.44,1921,"lacustrine",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+8,"Bolan Lake",41.0225,-122.4583,1637,"lacustrine",11.25,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.05,-999999
+11,"Crater Lake CA",41.3836,-122.5797,2288,"lacustrine",12.15,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.06,-999999
+12,"Mumbo Lake",41.191147,-122.510445,1860,"lacustrine",3.2,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.04,-999999
+13,"Trail",44.28,-110.17,2362,"lacustrine",0,"medium (1.1-50 km2)","small (less than 10 km2)","inflow only",NA,NA
+14,"Lost Lake",45.822988,-123.579517,449,"lacustrine, fluvial origin",6,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.06,0.33
+19,"Como Lake",37.55,-105.5,3523,"lacustrine",-999999,"-999999","-999999","in and out flow",-999999,-999999
+20,"Crane Lake",36.716667,-112.21,2590,"lacustrine",-999999,"-999999","-999999","-999999",-999999,-999999
+22,"Forest Pond 1",43.471667,-109.938889,2797,"lacustrine",0.5,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+23,"Forest Pond 2",43.438889,-109.95,2766,"lacustrine",0.5,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+25,"Head Lake",37.7,-105.5,2300,"lacustrine",-999999,"-999999","-999999","-999999",-999999,-999999
+28,"Montezuma Well",34,-112,1125,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+30,"Park Pond 1",43.468056,-109.959444,2705,"lacustrine",0.5,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+31,"Park Pond 2",43.45,-109.94,2714,"lacustrine",0.5,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+33,"Posy Lake",37.95,-111.7,2653,"lacustrine",-999999,"-999999","-999999","-999999",-999999,-999999
+34,"San Joaquin Marsh",33.65,-117.85,2,"lacustrine",-999999,"-999999","-999999","-999999",-999999,-999999
+41,"Martins",47.71,-123.54,1415,"lacustrine",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+42,"Moose",47.88,-123.35,1508,"lacustrine",0,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+92,"Alamo Bog",35.91,-106.58,2630,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.5,-999999
+93,"Chihuahuenos Bog",36.04,-106.5,2925,"terrestrial, bog",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.023,2
+101,"Patterson Lake Warner Mountains",41.3867,-120.2236,2743,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.12,-999999
+102,"Lily Lake Warner Mountains",41.9758,-120.2097,2042,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.037,-999999
+103,"Dead Horse Lake",42.5606,-120.7781,2248,"lacustrine, glacial origin",0,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.15,-999999
+105,"Coast Trail Pond",37.98,-122.8,230,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+106,"DeHerrera Lake",37.74,-107.7,3343,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+107,"Hunter's Lake",37.6,-106.84,3516,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+108,"Jicarita Bog",36.07,-105.58,3207,"-777777",0,"-777777","-777777","-777777",NA,NA
+109,"Little Molas Lake",37.74,-107.7,3370,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+126,"Siesta Lake",37.85,-119.66,2430,"lacustrine",1.35,"small (0.01-1 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",0.13,11.83
+145,"East Sooke Fen",48.3519,-123.6817,155,"terrestrial, fen",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.001,-999999
+146,"Pixie Lake",48.595187,-124.197301,70,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.053,-999999
+147,"Whyac Lake",48.6722,-124.8444,15,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.025,-999999
+148,"Porphyry",48.900916,-123.835013,1100,"lacustrine",-999999,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",0.0035,-999999
+149,"Walker Lake",48.529101,-124.003118,950,"lacustrine",-999999,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0038,-999999
+204,"Cooley Lake BC",49.490867,-117.645321,1515,"lacustrine",11,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.045,1.07
+205,"Rockslide Lake",49.550849,-117.52088,1539,"lacustrine",14.1,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.032,0.86
+262,"Turtle Lake",49.3273,-124.9611,80,"lacustrine",10,"small (0.01-1 km2)","-999999","-999999",0.15,-999999
+264,"Enos Lake",49.28,-124.15,50,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.18,2.35
+285,"Beaver Lake, Nebraska",42.460044,-100.670164,900,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+292,"Reservoir",45.13,-113.46,2161,"lacustrine",-777777,"-777777","-777777","-777777",NA,NA
+356,"Hidden Lake Mount Zirkel",40.504,-106.607,2704,"lacustrine, glacial origin",9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.038,-999999
+359,"East Lake",37.17,-119.02,2863,"lacustrine, glacial origin",5,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+458,"Crevice Lake",45,-110.578,1713,"lacustrine, glacial origin",31,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0776,-999999
+696,"Lower Gaylor Lake",37.90938,-119.286309,3062,"lacustrine",3.7,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.03,-999999
+697,"Barrett Lake",37.588994,-118.996235,2816,"lacustrine",8.1,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.032,-999999
+725,"Three Creeks",44.09,-121.62,1996,"lacustrine",NA,"small (0.01-1 km2)","-777777","-777777",NA,NA
+726,"Todd Lake",44.02,-121.68,1875,"lacustrine",NA,"small (0.01-1 km2)","-777777","-777777",NA,NA
+727,"Tumalo Lake",44.040833,-121.903056,1536,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.07,-999999
+742,"Campbell Lake CA",41.532802,-123.105499,1750,"lacustrine",7.12,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.12,-999999
+743,"Sanger Lake CA",41.9,-123.64,1547,"lacustrine",7.19,"small (0.01-1 km2)","small (less than 10 km2)","-777777",NA,NA
+744,"Taylor Lake CA",41.36144,-122.968648,1979,"lacustrine",9.45,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.05,-999999
+745,"Upper Squaw Lake",42.03,-123.01,930,"lacustrine",14.1,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.072,40
+748,"Wildcat Lake",37.96,-122.78,67,"lacustrine",8.65,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,2.6
+749,"Glenmire",37.99,-122.77,399,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+753,"Lake Oswego",45.41,-122.66,30,"lacustrine",17,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",1.64,16.5
+754,"Porter Lake",44.44,-123.24,73,"lacustrine",3,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",0.014,-999999
+755,"Warner Lake",44.24,-122.95,590,"lacustrine",18,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.155,1.5
+759,"Five Lakes",48.08,-118.92,780,"lacustrine",2.84,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",NA,NA
+840,"Mt Constitution C38",48.67642,-122.838074,735,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+952,"Clayoquot Lake",49.25,-125.5,15,"lacustrine, glacial origin",3.8,"small (0.01-1 km2)","-999999","in and out flow",0.47,-999999
+7,"Foy ",48.16,-114.35,1006,"lacustrine",39.9,"large (50.1-500 km2)","small (less than 10 km2)","-777777",NA,NA
+39,"Frozen Lake",49.6,-121.46,1180,"lacustrine",17,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.03,-999999
+40,"Mount Barr Cirque",49.26,-121.51,1376,"lacustrine",9,"small (0.01-1 km2)","-777777","-777777",0.02,-999999
+838,"Mt Constitution C11",48.659979,-122.833612,611,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+839,"Mt Constitution C32",48.664006,-122.838676,611,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",-999999,-999999
+837,"Panther Potholes",48.65,-121.0333,1100,"lacustrine",5,"very small (less than 0.01 km2)","-777777","in and out flow",0.004,-999999
+193,"Battle Ground Lake",45.8,-122.49,154,"lacustrine",16.13,"small (0.01-1 km2)","small (less than 10 km2)","-777777",0.135,0.216
+1377,"Abalone Rocks Marsh",33.956389,-119.976667,0,"coastal, salt marsh",NA,"-999999","-999999","inflow only",-999999,-999999
+1381,"Lake Eileen",40.902,-106.673,3135,"lacustrine",5.73,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.012,-999999
+1382,"Gold Creek Lake",40.781,-106.678,2917,"lacustrine",10.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.037,-999999
+1383,"Gem Lake Colorado",40.881,-106.734,3101,"lacustrine",6.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.028,-999999
+1385,"Hinman Lake",40.771,-106.827,2501,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.027,-999999
+1386,"Middle Rainbow Lake",40.648,-106.624,3001,"lacustrine",5.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.028,-999999
+1387,"Round Lake Mount Zirkel",40.473,-106.663,3071,"lacustrine",11.83,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.062,-999999
+1388,"Seven Lake Mount Zirkel",40.896,-106.681,3276,"lacustrine",5.75,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.032,-999999
+1389,"Teal Lake Colorado",40.583,-106.608,2689,"lacustrine",13.09,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.061,-999999
+1390,"Whale Lake Mount Zirkel",40.556,-106.675,3059,"lacustrine",11.48,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.039,-999999
+1391,"Summit Lake Mount Zirkel",40.545,-106.682,3149,"lacustrine",5.85,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.019,-999999
+1395,"Tiago Lake Mount Zirkel",40.579,-106.613,2700,"lacustrine",15,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.042,-999999
+1596,"Little Lake, Oregon",44.167778,-123.582222,210,"lacustrine, tectonic origin",10,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.015,3.3
+1624,"Lone Pine Lake",40.2327333,-105.73165,3016,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.048,-999999
+1625,"Odessa Lake",40.3303667,-105.6854,3051,"lacustrine",6.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.033,-999999
+1626,"Sand Beach Lake",40.2187667,-105.6018,3140,"lacustrine",9.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.049,-999999
+1627,"Thunder Lake",40.2219,-105.6472833,3231,"lacustrine",12,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.06,-999999
+1629,"Yahoo Lake",47.683333,-124.016667,710,"lacustrine",18,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.037,0.096
+1653,"Rice Lake Ward county",48.00942,-101.53972,620,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.75,-999999
+1712,"ODP893A",34.28,-120.03,-577,"marine",NA,"-888888","large (more than 500 km2)","-888888",NA,NA
+1781,"Swamp Lake Yosemite",37.95,-119.816667,1554,"lacustrine",20,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.08,1.3
+1802,"Kettle Lake, ND",48.607198,-103.623723,610,"lacustrine",10.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.022,-999999
+1803,"Beef Pasture",37.416667,-108.15,3060,"terrestrial",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",0.75,-999999

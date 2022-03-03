@@ -1,0 +1,43 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+90,125,"Huguangyan Maar Lake core_ppm",21.15,110.28,87.6,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",163
+238,290,"Tugupugua core",-5.66,142.61,2300,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+250,307,"Laukutu Swamp core",-9.47,160.08,20,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+499,585,"Xishuangbanna core",21.5,101.5,900,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",110
+506,594,"Ajkwa 1 core",-4.86,136.96,1.3,"estuarine sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+507,595,"Ajkwa 2 core",-4.86,136.96,1.3,"estuarine sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+508,596,"Ajkwa 3 core",-4.86,136.96,1.3,"estuarine sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+509,597,"Ajkwa 4 core",-4.86,136.96,1.3,"estuarine sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+510,598,"Ajkwa 5 core",-4.86,136.96,1.3,"estuarine sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+513,601,"Aru core",-5.91,134.2,1,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+515,603,"Hogayaku core",-3.98,137.38,3580,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",123
+516,604,"Lake Hordorli_B",-2.53,140.55,680,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+566,657,"Kelela Swamp core",-4.02,138.91,1650,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",123
+569,660,"Laravita core",-8.39,147.35,3570,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+570,661,"Aguai Ramata core",-6.56,145.21,1950,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+571,662,"Sondambile core",-6.34,147.11,2850,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+575,666,"Wanum core",-6.63,146.79,35,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+580,671,"Yawi Ti core",-6.61,143.88,1150,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+655,750,"Lombok Ridge Core G6-4_B",-10.78,118.06,-3510,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",23
+677,772,"Ngardmau core",7.6,134.57,10,"archaeological","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",25
+679,774,"Ngerdok 2",7.52,134.6,25,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+680,775,"Olbed 1",7.5,134.54,20,"archaeological","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+699,794,"Ngerkell core",7.6,134.62,10,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",134
+700,795,"Mela Swamp core",-9.47,160.08,20,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",152
+703,798,"Neon core",-8.47,147.3,2875,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",156
+1025,1006,"ODP-1144 core",20.05,117.41,-2037,"marine sediment","Sieved","influx","Global Charcoal Database Web Version","-888888","2021-05-07",21
+1533,1952,"SMP Core",26.58,114.08,1269,"bog sediment","Pollen slide","concentration","author","-999999","2021-03-04",120
+1535,1954,"Xingyun Lake core",24.33,102.77,1723,"lake sediment","Sieved","influx","digitized from publication","marginal core","2021-03-04",28
+1578,2006,"Chenghai Lake Core CH-1_less125",26.45,100.63,1509,"lake sediment","Pollen slide","influx","author","central core","2021-03-04",187
+1579,2008,"Qinghai Lake Core TCQH1_less125",25.13,98.57,1885,"lake sediment","Pollen slide","concentration","author","central core","2021-03-04",279
+1756,2205,"Anggi Lake core 4",-1.39,133.894893,1945,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","marginal core","2021-04-16",23
+1761,2210,"Horton Plains core",6.8,80.49,2200,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-04-16",62
+1765,2214,"Kosipe core A",-8.46,147.2,1960,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-04-16",143
+1774,2225,"Nong Pa Kho core",17.01,102.93,380,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-999999","2021-04-16",6
+1775,2226,"Pemerak Swamp core",0.78,112.05,40,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2021-04-16",6
+1780,2231,"Supulah Hill core",-4.11,138.96,1580,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-04-16",77
+1783,2234,"Wanda core",-2.33,121.23,440,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-04-16",77
+1827,2282,"SB-B core",-1.23611,103.62,18,"bog sediment","sieved","count","Pangaea","central core","2021-05-04",137
+1828,2283,"GHATS My",12.220278,75.791944,879,"bog sediment","sieved","concentration","Pangaea","central core","2021-05-04",152
+1829,2284,"GHATS BOP",12.153889,75.713056,910,"bog sediment","sieved","concentration","Pangaea","central core","2021-05-04",152
+1830,2285,"GHATS RAJ",12.178611,75.8175,824,"bog sediment","sieved","concentration","Pangaea","central core","2021-05-04",152
+1831,2286,"GHATS TS",12.046667,75.975556,820,"bog sediment","sieved","concentration","Pangaea","central core","2021-05-04",152

@@ -1,0 +1,37 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+60,"Laguna Venus",-45.53,-72.01,600,"lacustrine, tectonic origin",5.5,"very small (less than 0.01 km2)","small (less than 10 km2)","outflow only",0.004,-999999
+66,"Morro de Itapeva",-22.78,-45.57,1850,"terrestrial, bog",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+67,"Serra Campos Gerais",-24.66,-50.21,1200,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.07,-999999
+76,"Lago Mosquito",-42.493858,-71.404047,556,"lacustrine, thermokarst origin",8,"medium (1.1-50 km2)","medium (10.1-500 km2)","in and out flow",4.61,-999999
+94,"Sao Francisco de Assis",-29.58,-55.21,100,"terrestrial, mire",0,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+111,"Laguna Aculeo",-33.8333,-70.91,350,"lacustrine, thermokarst origin",6,"medium (1.1-50 km2)","medium (10.1-500 km2)","outflow only",12,-999999
+114,"Lago Condorito",-41.75,-73.11,60,"lacustrine, thermokarst origin",2.7,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+117,"Lago Pollux",-45.67,-71.86,640,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+118,"Vega Nandu",-50.93,-72.76,200,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+119,"Torres del Paine",-51.08,-73.06,100,"lacustrine",1,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.01,-999999
+120,"Lago Guanaco",-51.13,-73.1,60,"lacustrine, glacial origin",16,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.13,0.6
+121,"Potrok Aike",-51.96,-70.38,100,"lacustrine, volcanic lake",100,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",9.46,200
+122,"Rio Rubens Bog",-52.1375,-71.881389,220,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.25,-999999
+123,"Punta Arenas",-53.15,-70.95,75,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.5,-999999
+125,"Puerto Haberton",-54.88,-67.16,20,"terrestrial, bog",-777777,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+457,"Laguna Azul",-52.12,-69.52,100,"lacustrine, volcanic lake",56,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+691,"Laguna Lincoln",-45.36,-74.06,19,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+692,"Laguna Lofel",-44.92,-74.32,13,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+693,"Laguna Six Minutes",-46.41,-74.33,15,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+741,"Lago Pichilafquen",-39.220472,-72.208021,301,"lacustrine",19,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+872,"Laguna del Condor",-42.3506788506558,-71.288480758667,818,"lacustrine",8.5,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",1.75,-999999
+873,"Lago Huala Hue",-41.510751619562,-71.5075147743712,849,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+874,"Laguna Padre Laguna",-41.3597617518288,-71.5084867140167,1280,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+875,"Laguna la Zeta",-42.8901629934376,-71.3493700797113,774,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+876,"Lago Theobald",-43.437931910209,-71.561818350962,678,"-777777",NA,"-777777","-777777","-777777",NA,NA
+877,"Lago los Ninos",-44.0071051387066,-71.4941418490453,1015,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.8,-999999
+878,"Laguna la Pava",-44.2796728961738,-71.5233138517377,731,"lacustrine, glacial origin",-999999,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+902,"Lake Facil",-44.325,-74.2833,10,"lacustrine",3,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+901,"Laguna Oprasa",-44.35555556,-73.65555556,50,"lacustrine, thermokarst origin",3.66,"very small (less than 0.01 km2)","small (less than 10 km2)","-777777",NA,NA
+1696,"Cambara do Sul",-29.0525,-50.1011,1040,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.00196,-999999
+1758,"Canal de la Puntilla",-40.9525,-72.905,120,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1776,"Puerto del Hambre",-53.6,-70.91,6.25,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1782,"Trebol Lake",-41.07,-71.49,758,"lacustrine",10.5,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.4,-999999
+1844,"Aracatuba",-25.91,-48.98,1500,"terrestrial, mire",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.006,-999999
+1856,"Fazendo do Pinto",-29.4,-50.56,900,"terrestrial, mire",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1918,"Colonia basin",-23.8675,-46.7075,700,"terrestrial, mire",-999999,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",-999999,-999999

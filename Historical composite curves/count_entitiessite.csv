@@ -1,0 +1,129 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+1147,"Hudson Lake",61.897711,-145.670722,860,"lacustrine",1.4,"medium (1.1-50 km2)","-999999","closed - no inflow or outflow",2.7,-999999
+1177,"Poktovik Lake",68.031778,-161.374722,160,"lacustrine",13.4,"small (0.01-1 km2)","-999999","in and out flow",0.063,-999999
+1202,"Salmo Lake",60.4455555,-133.5613888,866,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",-999999,-999999
+1192,"Uchugrak",68.05,-161.72,216,"lacustrine",9.2,"small (0.01-1 km2)","-777777","in and out flow",0.092,NA
+1244,"Araisu lake",57.250912,25.289886,120.2,"lacustrine",12.3,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.326,-999999
+1249,"Naava hollow",61.241389,25.056111,156,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",3e-04,1e-04
+1251,"Pine hollow",61.870278,37.993611,155,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1252,"Teici bog",56.622408,26.440808,114,"terrestrial, bog",-888888,"large (50.1-500 km2)","large (more than 500 km2)","-888888",144,-999999
+1253,"Bricu lake",57.115374,25.870619,208.4,"lacustrine",2.7,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.16,8
+1254,"Polttiais hollow",62.275833,36.750833,140,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1257,"Kammekka hollow",61.2425,25.055278,156,"terrestrial, small hollow",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",1e-06,1e-04
+1260,"Trikatas lake",57.54116,25.714468,50,"lacustrine",4,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.13,-999999
+1279,"El Redondo",40.2214,-5.6569,1765,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.00125,-999999
+1279,"El Redondo",40.2214,-5.6569,1765,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.00125,-999999
+1296,"Kiilaspere",58.796944,24.436111,22.6,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.43,-999999
+1297,"Koivasoo",58.908611,22.199444,27.5,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.34,-999999
+1300,"Maardu",59.441667,25,31.3,"lacustrine",0.9,"medium (1.1-50 km2)","medium (10.1-500 km2)","outflow only",1.59,10.52
+1301,"Mustjarve",59.076944,24.099722,38.9,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",2.78,-999999
+1303,"Parika",58.490278,25.774167,48.5,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",34.26,-999999
+1306,"Surusoo",58.529722,22.423056,43,"terrestrial, bog",-888888,"medium (1.1-50 km2)","-999999","-999999",1.08,-999999
+825,"Vedruka",58.330278,22.060556,21,"terrestrial, bog",-888888,"small (0.01-1 km2)","-999999","-999999",0.9,-999999
+1322,"Laguna de la Mosca",37.0597,-3.3147,2889,"lacustrine, glacial origin",3.4,"very small (less than 0.01 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.0048,0.397
+1336,"Ahlequellmoor",51.73,9.51,300,"terrestrial, fen",NA,"small (0.01-1 km2)","small (less than 10 km2)","inflow only",0.1,-999999
+1337,"Beliya Kanton",41.73,24.14,1547,"terrestrial, bog",NA,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.095,-999999
+1344,"Lin",61.48,-163.43,2,"lacustrine",1,"very small (less than 0.01 km2)","-999999","in and out flow",0.003,NA
+1346,"Lake Kirkpatrick",-45.02706,168.57374,570,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+1347,"Dukes Tarn",-44.96418,168.49269,830,"lacustrine",-999999,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.015,-999999
+1348,"Baga Nuur",49.9208,93.8493,981,"lacustrine",7.1,"medium (1.1-50 km2)","-999999","-999999",3.14,-999999
+1349,"Khundt Nuur",49.0513,97.16,1933,"lacustrine",6.8,"medium (1.1-50 km2)","-999999","-999999",26.78,-999999
+1350,"Takhilt Nuur",48.8064,96.8062,1502,"lacustrine",5.4,"medium (1.1-50 km2)","-999999","-999999",4.82,-999999
+1364,"Lake Njargajavri",69.8666666666667,27.1666666666667,355,"lacustrine",2,"small (0.01-1 km2)","-999999","-999999",-999999,-999999
+1377,"Abalone Rocks Marsh",33.956389,-119.976667,0,"coastal, salt marsh",NA,"-999999","-999999","inflow only",-999999,-999999
+1379,"Copper Falls Lake",47.417,-88.192,392,"lacustrine",3,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.3,0.4
+1381,"Lake Eileen",40.902,-106.673,3135,"lacustrine",5.73,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.012,-999999
+1382,"Gold Creek Lake",40.781,-106.678,2917,"lacustrine",10.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.037,-999999
+1383,"Gem Lake Colorado",40.881,-106.734,3101,"lacustrine",6.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.028,-999999
+1384,"Minnesota Plateau Lake",62.541794,-146.238431,827,"lacustrine",5.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.05,-999999
+1385,"Hinman Lake",40.771,-106.827,2501,"lacustrine",5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.027,-999999
+1386,"Middle Rainbow Lake",40.648,-106.624,3001,"lacustrine",5.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.028,-999999
+1387,"Round Lake Mount Zirkel",40.473,-106.663,3071,"lacustrine",11.83,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.062,-999999
+1388,"Seven Lake Mount Zirkel",40.896,-106.681,3276,"lacustrine",5.75,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.032,-999999
+1389,"Teal Lake Colorado",40.583,-106.608,2689,"lacustrine",13.09,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.061,-999999
+1390,"Whale Lake Mount Zirkel",40.556,-106.675,3059,"lacustrine",11.48,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.039,-999999
+1391,"Summit Lake Mount Zirkel",40.545,-106.682,3149,"lacustrine",5.85,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.019,-999999
+1392,"Super Cub Lake",62.296611,-145.347172,486,"lacustrine",4.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.03,-999999
+1395,"Tiago Lake Mount Zirkel",40.579,-106.613,2700,"lacustrine",15,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.042,-999999
+1466,"Chopper Lake",66.00225,-146.27532,-999999,"lacustrine",9.4,"-999999","-999999","outflow only",-999999,-999999
+1467,"Epilobium Lake",65.97248,-145.56712,366,"lacustrine",13.1,"-999999","-999999","outflow only",-999999,-999999
+1468,"Granger Lake",66.05754,-145.65209,-999999,"lacustrine",9.5,"-999999","-999999","in and out flow",-999999,-999999
+1469,"Jonah Lake",66.068,-145.08488,-999999,"lacustrine",9.2,"-999999","-999999","in and out flow",-999999,-999999
+1470,"Landing Lake",65.90337,-145.77707,394,"lacustrine",4.2,"-999999","-999999","inflow only",-999999,-999999
+1471,"Latitude Lake",65.92689,-146.14223,-999999,"lacustrine",17.5,"-999999","-999999","outflow only",-999999,-999999
+1472,"Lucky Lake",66.01737,-145.52501,-999999,"lacustrine",9.4,"-999999","-999999","outflow only",-999999,-999999
+1473,"Noir Lake",66.00261,-145.92613,-999999,"lacustrine",15.3,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1474,"Picea Lake",65.88162,-145.58768,269,"lacustrine",7.3,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1475,"Reunion Lake",66.00925,-146.1078,306,"lacustrine",7.7,"-999999","-999999","outflow only",-999999,-999999
+1476,"Robinson Lake",65.97158,-145.69925,-999999,"lacustrine",8.1,"-999999","-999999","outflow only",-999999,-999999
+1477,"Screaming Lynx Lake",66.06815,-145.4044,276,"lacustrine",7.4,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.035,-999999
+1478,"West Crazy Lake",65.89142,-145.62195,-999999,"lacustrine",6.1,"-999999","-999999","closed - no inflow or outflow",-999999,-999999
+1479,"Windy Lake",66.04169,-145.75471,-999999,"lacustrine",11.6,"-999999","-999999","outflow only",-999999,-999999
+1599,"Laguna EkNaab",17.421145,-89.236475,160,"lacustrine",2.1,"very small (less than 0.01 km2)","-999999","-999999",0.0017,-999999
+1601,"Laguna Cocha Caranga",-4.045861,-79.159583,2710,"lacustrine",2,"medium (1.1-50 km2)","-999999","-999999",2,-999999
+1601,"Laguna Cocha Caranga",-4.045861,-79.159583,2710,"lacustrine",2,"medium (1.1-50 km2)","-999999","-999999",2,-999999
+1601,"Laguna Cocha Caranga",-4.045861,-79.159583,2710,"lacustrine",2,"medium (1.1-50 km2)","-999999","-999999",2,-999999
+1608,"Cerro Toledo",-4.116083,-79.172056,3244,"terrestrial, bog",NA,"-999999","-999999","-999999",-999999,-999999
+1608,"Cerro Toledo",-4.116083,-79.172056,3244,"terrestrial, bog",NA,"-999999","-999999","-999999",-999999,-999999
+1609,"Rabadilla de Vaca mire",-3.974667,-79.117611,2590,"terrestrial, bog",NA,"small (0.01-1 km2)","-999999","-999999",0.6,-999999
+1610,"Valle Pequeno",-3.975,-79.073611,2520,"terrestrial, bog",NA,"small (0.01-1 km2)","-999999","-999999",0.08,-999999
+1612,"Laguna Zurita",-4.002444,-79.059583,3155,"lacustrine",3,"medium (1.1-50 km2)","-999999","-999999",2,-999999
+1617,"Lagunas Natosas Bosque",-4.730417,-79.424064,3495,"terrestrial, bog",NA,"-999999","-999999","-999999",-999999,-999999
+1620,"Haircut Lake",60.515555,-133.205555,1000,"lacustrine",8.64,"small (0.01-1 km2)","-999999","in and out flow",0.1,-999999
+1634,"Chickaree Lake",40.334125,-105.841095,2796,"lacustrine",7.9,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.015,0.31
+1643,"Marcella Lake",60.0736111,-133.807777,697,"lacustrine",9.7,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.04,0.8
+1718,"Upper Rocket Creek Bog",47.04,-115.88,1710,"terrestrial, mire",NA,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+1718,"Upper Rocket Creek Bog",47.04,-115.88,1710,"terrestrial, mire",NA,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",-999999,-999999
+1805,"Lake Czechowskie",53.87417,18.23667,109,"lacustrine",32,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.77,-999999
+1806,"Dalane",58.244167,8.004445,40,"lacustrine",5.15,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.028,-999999
+1807,"Holebudalen",59.841389,6.008611,1144,"lacustrine",8.2,"small (0.01-1 km2)","small (less than 10 km2)","closed - no inflow or outflow",0.02,-999999
+1808,"Lille Kjelavatn",59.796111,7.001944,978,"lacustrine",3.5,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",0.005,-999999
+1809,"Flotatjonn",59.67027,7.54055,890,"lacustrine",8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1810,"Bjornfjelltjorn",68.44416,18.07166,510,"lacustrine",12.9,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1811,"Litlvatnet",68.52694,14.93083,106,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1812,"Myrvatnet",68.66055,16.38138,197,"lacustrine",4.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1813,"Gammelheimenvatnet",68.48222,17.75944,290,"lacustrine",4.8,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1814,"Vuoskkujarvi",68.34555,19.1,384,"lacustrine",18,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.68,11.2
+1815,"Grauthelleren",58.14416,7.91361,80,"lacustrine",7.8,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",-999999,-999999
+1816,"Kinnshaugen",61.10833,10.35916,591,"lacustrine",4.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1817,"Lisletonn",59.34361,7.305,520,"lacustrine",7.1,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1818,"Morttjern",59.05972,11.61777,227,"lacustrine",12,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1819,"Masatjornet",61.5625,10.26777,841,"lacustrine",3.6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1820,"Reiarsdalsvatn",58.32638,7.78583,245,"lacustrine",9.2,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1821,"Ratasjoen",62.26666,9.83333,1169,"lacustrine, glacial origin",8.3,"small (0.01-1 km2)","small (less than 10 km2)","outflow only",0.125,-999999
+1822,"Storsandvatnet",63.4575,8.45444,106,"lacustrine",0.7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1823,"Svartvatnet",63.35138,8.87777,183,"lacustrine",10,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1824,"Tiavatnet",63.05972,9.41694,464,"lacustrine",7,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1825,"Oygardtjonn",59.62583,7.98666,665,"lacustrine",12.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1826,"Isbenttjorn",59.765,0.43444,787,"lacustrine",11.5,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1827,"Sungai Buluh",-1.23611,103.62,18,"terrestrial, bog",-888888,"large (50.1-500 km2)","medium (10.1-500 km2)","-888888",180,-999999
+1835,"Le Vernay",47.261944,4.079167,595,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1836,"Verny des Brulons",47.317778,4.122778,565,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1837,"Quart du Bois",46.8925,4.034167,420,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1838,"Nataloup",47.2275,4.035278,515,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1923,"Bazu bog",57.70004,22.45021,15,"terrestrial, bog",-888888,"very large (more than 500 km2)","large (more than 500 km2)","-888888",2646,-999999
+1924,"Lielais Vipedis",56.59148,23.00094,96,"lacustrine",4,"medium (1.1-50 km2)","small (less than 10 km2)","in and out flow",21,9
+1927,"Mannikjarve",58.8667,26.25,90,"terrestrial, bog",-888888,"medium (1.1-50 km2)","medium (10.1-500 km2)","-888888",3.2,-999999
+1943,"Lake Huila",-0.423008,-78.018008,2608,"lacustrine, volcanic lake",1.2,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1943,"Lake Huila",-0.423008,-78.018008,2608,"lacustrine, volcanic lake",1.2,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1946,"Cajanuma valley",-4.149722,-79.156944,3285,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",7e-04,-999999
+1946,"Cajanuma valley",-4.149722,-79.156944,3285,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",7e-04,-999999
+1948,"Agulhas Negras",-22.385319,-44.669802,2410,"terrestrial, mire",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-888888",-999999,-999999
+1955,"Niliq Lake",67.867867,-160.431633,270,"lacustrine",4.3,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999
+1964,"Congping",31.4,110.04,2120,"terrestrial, bog",0.1,"medium (1.1-50 km2)","medium (10.1-500 km2)","closed - no inflow or outflow",10,14
+1966,"Herrenwieser See",48.669167,8.296389,830,"lacustrine",9.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.013,-999999
+1966,"Herrenwieser See",48.669167,8.296389,830,"lacustrine",9.5,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.013,-999999
+1968,"Oberderdingen-Grossvillars",49.0425,8.760278,207,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1969,"Doroo Nuur",48.2459,90.6639,2394,"lacustrine",9.1,"medium (1.1-50 km2)","medium (10.1-500 km2)","inflow only",14.12,152.2
+1971,"Almalou",37.665278,46.631944,2491,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1974,"Brve",50.06666,14.23888,362,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.06,-999999
+1975,"Nad Dolskym mlynem",50.8525,14.338889,240,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-999999",5e-04,-999999
+1976,"Zahaji",50.379444,14.115556,232,"terrestrial, fen",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1977,"Na Bahne",50.198889,15.961389,240,"terrestrial, fen",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.01,-999999
+1982,"Jeleni louze",50.892778,14.27,460,"terrestrial, mire",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.02,-999999
+1983,"Pancavska louka",50.766389,15.541111,1336,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",0.28,-999999
+1985,"Pryskyricny dul",50.887778,14.413333,423,"terrestrial, bog",-888888,"very small (less than 0.01 km2)","small (less than 10 km2)","-888888",0.002,-888888
+1989,"Lac du Verney-Dessus",45.693333,6.8725,2276,"lacustrine",1,"small (0.01-1 km2)","small (less than 10 km2)","in and out flow",-999999,-999999
+1991,"Mindelsee",47.75555,9.02305,406,"lacustrine, glacial origin",14,"small (0.01-1 km2)","medium (10.1-500 km2)","in and out flow",0.99,25.5
+1355,"Vaike Juusa",58.05,26.5,122,"lacustrine",6,"small (0.01-1 km2)","small (less than 10 km2)","-999999",0.03,0.55
+1999,"Beg Bunar",42.15,22.55,1750,"terrestrial, bog",-888888,"small (0.01-1 km2)","medium (10.1-500 km2)","inflow only",-999999,-999999

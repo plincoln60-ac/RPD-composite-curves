@@ -1,0 +1,10 @@
+"ID_SITE","site_name","latitude","longitude","elevation","site_type","water_depth","basin_size_class","catch_size_class","flow_type","basin_size_km2","catch_size_km2"
+442,"Lake Sibaya",-27.2,32.36,20,"lacustrine",15,"very large (more than 500 km2)","large (more than 500 km2)","-777777",NA,NA
+443,"Funduzi",-22.85,30.89,429,"lacustrine",0,"-777777","-777777","-777777",NA,NA
+555,"Moreletta River",-28.82,30.99,417,"-777777",0,"-777777","-777777","-777777",NA,NA
+760,"Lake Tanganyika",-6.55,29.97,773,"lacustrine, tectonic origin",309,"large (50.1-500 km2)","large (more than 500 km2)","in and out flow",NA,NA
+842,"Kwasebuge",-4.292015,37.92284,1939,"-777777",NA,"-777777","-777777","-777777",NA,NA
+843,"Mare Tatos",-20.2122222222222,57.7727777777778,21,"-777777",NA,"-777777","-777777","-777777",NA,NA
+869,"Esambu",-2.711913,37.554357,1191,"-777777",NA,"-777777","-777777","-777777",NA,NA
+1709,"ODP1078C",-11.91,13.4,-426,"marine",-888888,"-888888","-888888","-888888",-888888,-888888
+1773,"Mubwindi Swamp",-1.08,29.75,2100,"terrestrial, bog",-888888,"small (0.01-1 km2)","small (less than 10 km2)","-999999",-999999,-999999

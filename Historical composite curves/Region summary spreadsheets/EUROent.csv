@@ -1,0 +1,296 @@
+"ID_SITE","ID_ENTITY","entity_name","latitude","longitude","elevation","depositional_context","measurement_method","TYPE","source","core_location","last_updated","ID_UNIT"
+57,86,"Suho Breznishko core",41.81,23.35,1963,"lake sediment","Pollen slide","other","Global Charcoal Database Version 4","-777777","2020-03-06",161
+58,87,"Okadensko core",41.78,23.35,2475,"lake sediment","Pollen slide","other","Global Charcoal Database Version 4","-777777","2020-03-06",161
+99,135,"Lattok core",65.956944,18.345,480,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+100,136,"Raigejegge core",66.156944,18.2133333,480,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+104,140,"Massaciuccoli composite",43.85,10.31,1,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",21
+194,243,"Lago di Origlio core",46.055556,8.944444,416,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",152
+195,244,"Lago di Muzzano core",45.994444,8.927778,337,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",152
+196,245,"Soppensee composite core (SO89-17)",47.091667,8.0833333,596,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",152
+216,267,"Iso Lehmalampi core",60.35,24.6,106,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",75
+227,279,"Etu-Mustajarvi core",60.98,25,157,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",75
+277,335,"Trygasen core",61.77,13.3,549,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-16",16
+278,336,"Lago Piccolo di Avigliana core",45.05,7.3833,356,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-19",21
+312,381,"Artxilondo core",43.03,-1.13,900,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+314,383,"LLM Chavannes core",46.84,2.36,150,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",149
+315,384,"Pla de l'Orri core",42.5,1.88,2100,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+316,385,"Cuguron core",43.1,0.54,515,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+318,387,"Lej da San Murrezzan core",46.49,9.84,1768,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",6
+327,396,"Biviere di Gela core",37.0167,14.33,7,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",6
+723,405,"Lago della Costa AP1",45.270278,11.743056,7,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",6
+374,446,"Lago del Greppo composite",44.11,11.66,1442,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",6
+403,482,"Bohult Hollow core",57.2333,16.1667,77,"small hollow","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",17
+404,483,"STV05",57.024167,14.813056,187,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",53
+440,525,"El Carrizal core",41.3185,-4.145,860,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",152
+444,529,"Kalksjon core",60.13,13.05,-777777,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+446,531,"Griblje Marsh core",45.56,15.27,160,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",32
+460,546,"Gabarn core",43.17,-0.55,525,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+462,548,"Gador core",36.9,-2.9167,1530,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",22
+464,550,"Kragso core",56.21,9.02,47,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+465,551,"Lac du Lait core",45.31,6.81,2180,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+466,552,"Lac du Thyl core",45.24,6.49,2038,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+468,554,"Lac Miroir core",44.63,6.79,2214,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+471,557,"Plan Bouchet core",45.24,6.56,2405,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+472,558,"Skanso core",56.51,8.83,8,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+473,559,"Solso core",56.13,8.63,41,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+477,563,"LLMII",53.08,-9.21,270,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",65
+491,577,"Lovnas_B",66.310833,17.900833,515,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+495,581,"Steerenmoos core",47.8167,8.1833,1000,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",10
+496,582,"Lake Lucerne core",47.05,8.59,434,"lake sediment","Charcoal particles identified by imaging software","influx","Global Charcoal Database Version 4","-777777","2020-03-06",66
+534,623,"Derrycunihy Wood core",52.01,-9.41,75,"small hollow","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+535,624,"Camillan Wood core",52.03,-9.56,17,"small hollow","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+536,625,"Mongan Bog core",53.33,-7.93,45,"bog sediment","Sieved","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+537,626,"Abbeyknockmoy Bog core",53.44,-8.76,60,"bog sediment","Sieved","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",164
+540,629,"Loch a'Phuinnd core",57.366667,-7.266667,10,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",134
+541,630,"Crag Lough core",55.006008,-2.3673827,250,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",124
+542,631,"Dallican Water core",60.39167,-1.1,56,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+549,638,"Anstey's Combe core",51.054451,-3.6747154,282,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",130
+593,684,"Pian Segna core",46.18,8.63,1162,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",1
+594,685,"Lago di Fimon core",45.4667,11.5333,23,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-19",28
+608,700,"Lac du Loup core",45.18,6.53,2032,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+609,701,"Gorgo Basso core GL3",37.61,12.65,6,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",6
+622,714,"Lake Ostrezko-2 core",42.13,23.46,2320,"lake sediment","Sieved","concentration","author","central core","2021-07-28",45
+624,716,"Resnikov prekop core_gtr40",45.97,14.54,290,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",19
+641,736,"Sarup So core",55.2,10.06,NA,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+642,737,"Holtjarnen core",60.65,14.916667,232,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+643,738,"Klotjarnen core",61.816667,16.533333,235,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-19",149
+698,793,"Lago Dell'Accesa composite",42.9879329162739,10.8951222896576,155,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","-777777","2020-03-06",11
+747,844,"Lago Perso core",44.92,6.8,1801,"-777777","Sieved","influx","Global Charcoal Database Version 4","-777777","2020-03-06",149
+758,855,"Libouse core",44.59,6.32,1806,"-777777","Pollen slide","pollen concentration","Global Charcoal Database Version 4","-777777","2020-03-06",54
+766,863,"Kapteinstjorn Siljan core",59.33,9.66,590,"-777777","-777777","influx","Global Charcoal Database Version 4","-777777","2020-03-06",28
+767,864,"Kontolanrahka Bog core",60.79,22.77,80,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",9
+769,866,"Dallund So core",55.48,10.26,12,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+772,869,"Slowinskie Blota SL4",54.58,16.92,20,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+776,873,"Lago Alimini Piccolo core",40.18,18.43,1,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",124
+777,874,"Siroki Nyirjes To core",47.926352,20.183213,200,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-19",126
+779,876,"Pena da Cadela core",42.83,-7.17,970,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",126
+780,877,"Fuldera core",46.61,10.36,1822,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+781,878,"Halledammen Hallands Vadero core",56.44,12.57,NA,"-777777","-777777","influx","Global Charcoal Database Version 4","-777777","2020-03-06",28
+783,880,"Les Amburnex Mire monolith",46.53972,6.231667,1370,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",164
+784,881,"Skargolarna core 1",57.02,16.12,NA,"-777777","-777777","influx","Global Charcoal Database Version 4","-777777","2020-03-06",28
+793,890,"Kentra Moss core",56.75,-5.83,10,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+795,892,"Kinloch monolith",57.025431,-6.299902,-888888,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+798,895,"Loch of Torness core",58.778977,-3.292225,15,"lake sediment","-999999","influx","Global Charcoal Database Version 4","-999999","2021-05-07",28
+805,902,"Tourbiere du Peschio core",44.45,3.6,1370,"bog sediment","-777777","concentration","EPD","central core","2021-05-07",134
+806,903,"Tourbiere des Narses Morte core",44.43,3.6,1400,"bog sediment","-777777","concentration","EPD","central core","2021-05-07",134
+807,904,"Tourbiere de La Lande core",43.56,2.96,1040,"bog sediment","Pollen slide","concentration","EPD","central core","2021-05-07",134
+808,905,"Torveraz core 2",45.695696,6.863743,2345,"bog sediment","Pollen slide","concentration","EPD","central core","2021-05-07",134
+809,906,"Steregoiu core",47.81,23.54,790,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+810,907,"Sagistalsee core",46.68,7.98,1953,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+811,908,"Loch Laxford core LL7C",58.36,-5,0,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",134
+812,909,"Laghi dell'Orgials core",44.23,7.13,2240,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",134
+819,916,"FLB 6B",60.146022,-2.093045,170,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",134
+841,938,"Asi Gonia core",35.2487733840969,24.2774999141693,780,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",164
+867,965,"El Tiemblo core",40.3575,-4.5263,1250,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2020-04-20",13
+870,968,"Lanzahita core",40.2222,-4.9358,588,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",11
+882,980,"Espinosa de Cerrato core",41.9567,-3.935,885,"other","Pollen slide","influx","Global Charcoal Database Version 4","central core","2020-04-20",28
+883,981,"Laguna de Rio Seco core",37.052057,-3.34581,3020,"lake sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2020-04-03",11
+885,983,"Tubilla del Lago core",41.8084,-3.5727,900,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+887,985,"Co1260",41.1912253075602,22.7326384963602,144,"-777777","Pollen slide","influx","Global Charcoal Database Version 4","-777777","2020-03-06",28
+888,986,"Pena Negra core",40.3347,-5.7922,1000,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",6
+890,988,"Fuente de la Leche core",40.3468,-5.0569,1382,"bog sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+891,989,"Arroyo de las Carcavas core",40.8419,-4.0314,1300,"soil","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+814,1340,"Bruckmisse_BRM1",48.7325,8.6442,670,"bog sediment","Pollen slide","concentration","EPD","-999999","2021-05-07",134
+815,1343,"Brurskardtjorni core",61.416667,8.666667,1309,"lake sediment","Sieved","concentration","EPD","central core","2021-05-07",134
+1134,1345,"Crudale Meadow core",59.01,-3.32,9,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 3","central core","2021-05-07",146
+792,1351,"Fenton Cottage core",53.840005,-2.92842979,200,"bog sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-19",164
+463,1363,"Kis-Mohos Ro Core",48.4,20.4,310,"bog sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2020-03-13",149
+592,1375,"LUC-1",45.55,10.48,249,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2020-03-13",1
+543,1378,"Loch a'Bhogaidh Core",55.725,-6.403333,65,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",152
+474,1379,"Lough Mullaghlahan core",54.775,-8.466944,40,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",146
+550,1385,"Migneint Core",52.82,-3.82,440,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","central core","2021-05-07",45
+595,1395,"Piano PIA 1",46.32,8.62,1439,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2020-03-13",1
+746,1406,"Storasjo core",56.93333,15.26667,225,"bog sediment","Sieved","concentration","Global Charcoal Database Version 4","marginal core","2021-05-07",134
+270,1434,"Lilla Gloppsjon Core",59.802778,14.627778,198,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-05-07",16
+547,1437,"Long Breach Core",51.06587,-3.6874017,341,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-19",43
+1187,1450,"Sudenpesä Hollow core",61.1833,25.15,167,"small hollow","Sieved","concentration","author","central core","2020-03-13",17
+818,1459,"Etang de la Gruere_EGR2G",47.2406,7.05,1005,"bog sediment","Pollen slide","concentration","EPD","central core","2020-03-13",134
+1180,1462,"Rentukka Hollow core",61.1923,25.1526,150,"small hollow","Sieved","concentration","author","central core","2020-03-13",17
+475,1471,"Lough Nabraddan core",55.0167,-8.35,20,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-05-07",146
+1168,1472,"Mogielica_micro",49.6659056,20.2799058333333,845,"bog sediment","Pollen slide","influx","author","central core","2020-03-13",21
+476,1476,"Altar Lough core",55.0167,-8.4,30,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-07",146
+1128,1481,"BIALOWI1_micro",52.7519,23.8789,165,"small hollow","Pollen slide","concentration","author","central core","2021-05-07",126
+816,1501,"Dalmutladdo core",69.166667,20.716667,355,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-07",28
+1214,1503,"GzII",53.8725,21.2197222222222,155,"bog sediment","Pollen slide","concentration","author","central core","2020-03-27",6
+1216,1505,"Gleboczek core",53.868066,18.209629,110,"bog sediment","Pollen slide","concentration","author","central core","2020-03-27",6
+1218,1509,"Jaczno core",54.276971,22.876204,164,"bog sediment","Pollen slide","concentration","author","central core","2021-05-07",6
+1219,1510,"KAZI",52.458694,17.296352,101,"bog sediment","Pollen slide","concentration","author","marginal core","2020-03-27",6
+1221,1513,"LIN micro",53.187352,18.309571,90,"bog sediment","Pollen slide","concentration","author","central core","2020-03-27",6
+1223,1515,"MW1",54.331974,22.441504,200,"bog sediment","Pollen slide","concentration","author","central core","2020-03-27",6
+545,1520,"Sidlings Copse core",51.782709,-1.193905,53,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","-999999","2021-05-07",152
+207,1526,"Black Loch I",56,-3,90,"lake sediment","Pollen slide","influx","author","central core","2020-03-30",28
+1241,1560,"APS1",57.0536417,23.3170305,6.6,"bog sediment","Sieved","concentration","author","marginal core","2020-03-30",137
+1242,1561,"Bagno Kusowo 2010 core micro",53.8077778,16.5872222222222,155,"bog sediment","Pollen slide","concentration","author","central core","2021-05-07",6
+1243,1564,"OdI",51.7713889,10.5677777777777,811,"bog sediment","Sieved","concentration","author","marginal core","2020-03-30",137
+1244,1565,"Araisu lake (LVmic)",57.250912,25.289886,120.2,"lake sediment","Pollen slide","influx","author","central core","2021-07-28",2
+1246,1569,"Gorenje jezero - core 1",45.74,14.4083,550,"fluvial/alluvial sediment","Pollen slide","pollen concentration","author","marginal core","2021-05-07",126
+1248,1574,"Lake Lielais Svetinu (LVmic)",56.760682,27.149276,96.2,"lake sediment","Pollen slide","influx","author","central core","2021-07-28",2
+450,1575,"Mlaka_core",45.5,15.1219,150,"other","Pollen slide","pollen concentration","author","central core","2021-05-07",126
+1249,1576,"Naava hollow (FImic)",61.241389,25.056111,156,"small hollow","Pollen slide","concentration","author","central core","2021-07-28",3
+1250,1578,"Noricka graba core",46.62,16.0075,240,"fluvial/alluvial sediment","Pollen slide","pollen concentration","author","central core","2021-05-07",126
+599,1581,"Prapoce_core",45.42,14.1223,480,"fluvial/alluvial sediment","Pollen slide","pollen concentration","author","central core","2021-05-07",126
+1252,1582,"Teici bog (LVmac)",56.622408,26.440808,114,"bog sediment","Sieved","raw count","author","central core","2021-07-28",134
+1253,1583,"Bricu lake (LVmac)",57.115374,25.870619,208.4,"lake sediment","Sieved","raw count","author","central core","2021-07-28",134
+1129,1587,"B-BII_2014_micro",49.7542,19.79435,675,"bog sediment","Pollen slide","concentration","author","central core","2021-05-07",21
+1255,1590,"Buhaiescu Mare core",47.57,23.6433,1918,"lake sediment","Sieved","concentration","author","central core","2020-04-08",13
+817,1591,"Durchenbergried core",47.783333,8.983333,432,"bog sediment","Pollen slide","concentration","EPD","central core","2021-05-19",134
+1256,1593,"Griblje GRIB1",45.5675,15.2819,160,"bog sediment","Pollen slide","influx","author","central core","2021-05-07",28
+1257,1595,"Kammekka hollow (FImic)",61.2425,25.055278,156,"small hollow","Pollen slide","concentration","author","central core","2021-07-28",3
+1258,1598,"Lilaste lake (LVmac)",57.179,24.351639,0.5,"lake sediment","Sieved","influx","author","central core","2021-07-28",134
+1259,1599,"Na mahu  core",45.97,14.5389,290,"lake sediment","Pollen slide","influx","author","central core","2021-05-07",28
+1260,1601,"Trikatas lake (LVmic)",57.54116,25.714468,50,"lake sediment","Pollen slide","influx","author","central core","2021-07-28",2
+1261,1604,"VALDECON",40.8622,-4.0597,1380,"bog sediment","Pollen slide","concentration","PANGAEA","central core","2021-05-07",134
+1263,1612,"PRD4",42.5333,-8.5167,260,"soil","Sieved","per unit weight","author","-888888","2021-05-07",141
+1265,1616,"El Brezosa core_macro",39.3491,-4.3611,733,"bog sediment","Sieved","concentration","author","central core","2020-04-20",11
+1266,1618,"El Perro mire core",39.0513,-4.7596,690,"bog sediment","Sieved","concentration","author","-777777","2020-04-20",11
+871,1620,"Serranillos core_micro",40.3072,-4.9342,1700,"bog sediment","Sieved","pollen concentration","author","-777777","2021-05-07",4
+1267,1621,"Las Vinuelas core_micro",39.3744,-4.4884,761,"bog sediment","Pollen slide","concentration","author","central core","2020-04-20",6
+1270,1631,"Baza section",37.2333,-2.7,1900,"bog sediment","Pollen slide","concentration","author","marginal core","2020-04-14",6
+1276,1639,"Bermu Mire core_small",39.4341,-4.146,783,"bog sediment","Pollen slide","influx","author","central core",NA,187
+1278,1644,"Verdeospesoa core",43.055,-2.8614,1015,"bog sediment","Sieved","influx","author","central core",NA,28
+1279,1645,"El Redondo core u125",40.2214,-5.6569,1765,"bog sediment","Pollen slide","raw count","author","central core",NA,188
+1280,1647,"Vapsko-2 core",42.07,23.5245,2120,"bog sediment","Sieved","concentration","author","central core",NA,13
+1282,1649,"PozoN_2015 core",40.3532,-4.5516,1600,"bog sediment","Pollen slide","concentration","author","central core",NA,13
+1284,1651,"Lake Oltina core",44.14,27.6308,40,"lake sediment","Sieved","concentration","author","central core",NA,13
+1285,1652,"Navamuno_S3",40.3213,-5.7786,1505,"bog sediment","Sieved","other","author","central core",NA,106
+1286,1653,"Las Animas Mire core_micro",36.6858,-5.03,1403,"bog sediment","Pollen slide","influx","author","central core",NA,187
+1287,1655,"Lake Stiucii core",46.97,23.8997,240,"lake sediment","Sieved","concentration","author","central core",NA,13
+1289,1658,"Aguas Frias core",40.2667,-5.1167,1120,"bog sediment","Sieved","influx","author","central core",NA,28
+1290,1659,"Arbarrain Mire core",43.2114,-2.1729,1004,"bog sediment","Sieved","influx","author","central core",NA,189
+1291,1660,"Akali_mire",58.408056,27.231944,30.5,"bog sediment","Pollen slide","concentration","author","marginal core",NA,134
+1292,1661,"El Payo core_50",40.2535,6.7712,1000,"bog sediment","Pollen slide","influx","author","central core",NA,190
+1296,1669,"Kiilaspere_bog",58.796944,24.436111,22.6,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1297,1670,"Koivasoo_bog",58.908611,22.199444,27.5,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1298,1671,"Lasva_lake",57.859444,27.175,72.2,"lake sediment","Pollen slide","concentration","author","central core",NA,134
+1300,1675,"Maardu_lake",59.441667,25,31.3,"lake sediment","Pollen slide","raw count","author","central core",NA,137
+1301,1676,"Mustjarve_bog",59.076944,24.099722,38.9,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1303,1678,"Parika_bog",58.490278,25.774167,48.5,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1304,1679,"Plaani_lake",57.676944,27.077222,244.1,"lake sediment","Pollen slide","concentration","author","central core",NA,134
+1305,1680,"Rouge-Tougjarv_core",57.738889,26.905,109,"lake sediment","Pollen slide","concentration","author","central core",NA,134
+1306,1681,"Surusoo_bog",58.529722,22.423056,43,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1307,1682,"Ruila_lake_less100",59.175833,24.429722,41.6,"lake sediment","Pollen slide","concentration","author","central core","2021-05-07",194
+825,1684,"Vedruka_bog",58.330278,22.060556,21,"bog sediment","Pollen slide","raw count","author","central core",NA,137
+1309,1686,"Verijarv_lake",57.808333,27.058333,90,"lake sediment","Pollen slide","concentration","author","central core",NA,134
+1311,1689,"FPB core",40.2363,-4.9776,1343,"bog sediment","Sieved","influx","author","central core",NA,189
+1312,1690,"Manaderos core",40.3424,-4.6939,1292,"bog sediment","Sieved","concentration","author","central core",NA,134
+1313,1691,"Marbore composite",42.6956305555556,0.0400194444444444,2612,"lake sediment","Pollen slide","concentration","author","central core","2020-11-13",76
+1315,1694,"BSM08",42.54527,0.3255,1906,"lake sediment","Pollen slide","concentration","author","central core","2020-11-13",76
+1317,1697,"VdL PB2_100minus",37.057965,-8.074734,2.3,"estuarine sediment","Pollen slide","influx","author","-999999","2021-05-07",195
+1318,1699,"ADP 01_06_100minus",37.110107,-8.34459,2.4,"estuarine sediment","Pollen slide","influx","author","-999999","2021-05-07",195
+1319,1701,"Abi 05_07_100minus",37.151969,-8.594376,0.6,"estuarine sediment","Pollen slide","influx","author","-999999","2021-05-07",195
+1320,1703,"BdlC-01",37.0506,-3.3233,2992,"bog sediment","Sieved","concentration","author","central core","2021-05-07",134
+1321,1704,"LdlM 10-02",37.0597,-3.4168,2497,"lake sediment","Sieved","concentration","author","central core","2020-11-13",134
+1322,1705,"LdlMo composite",37.0597,-3.3147,2889,"lake sediment","Sieved","count","author","central core","2021-05-07",137
+1323,1707,"Puerto del Pico core_micro",40.3233,-5.0145,1395,"bog sediment","Pollen slide","concentration","author","central core","2020-11-13",188
+1324,1708,"Calineasa core",46.5631,22.8292,1300,"bog sediment","Pollen slide","concentration","author","central core","2021-02-10",6
+1329,1713,"Kumata-1",42.5904,23.2519,1770,"bog sediment","Pollen slide","concentration","author","central core","2021-02-10",3
+1333,1718,"Molhasul Mare core",46.59,22.7642,1124,"bog sediment","Pollen slide","INFLUX","author","central core","2021-02-10",2
+1336,1723,"Ahlequellmoor core",51.73,9.51,300,"bog sediment","Pollen slide","raw count","author","central core","2021-02-10",137
+1337,1724,"BK-2C",41.73,24.14,1547,"bog sediment","Pollen slide","raw count","author","central core","2021-02-10",137
+1338,1725,"Bielice core",48.62,18.34,185,"bog sediment","-999999","other","author","central core","2021-02-10",211
+1340,1729,"Kahala_lake core",59.48674,25.531503,33.2,"lake sediment","Pollen slide","concentration","author","central core","2021-02-10",134
+1342,1732,"ABBO",63.8,14.37,387,"lake sediment","Pollen slide","INFLUX","Global Charcoal Database Version 4","central core","2021-02-10",28
+1343,1733,"BSII",51.176363,23.526241,173,"bog sediment","sieved","concentration","author","marginal core","2021-02-10",137
+1352,1747,"Lake Stiol core",47.57,24.8136,1670,"lake sediment","Sieved","concentration","author","central core","2021-02-11",13
+1357,1753,"Kevojarvi_core",69.75894,27.00018,74.7,"lake sediment","Pollen slide","concentration","author","central core","2021-06-04",134
+1358,1754,"Kilden core",70.67,23.64,15,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-02-11",164
+1364,1762,"Njargajavri core",69.8666666666667,27.1666666666667,355,"lake sediment","Charcoal particles identified by imaging software","raw count","author","-999999","2021-02-11",137
+1446,1863,"Taul Muced core",47.5739,24.5446,1340,"bog sediment","Sieved","concentration","author","central core","2021-02-16",13
+1465,1882,"LC",54.295,22.0592,147,"bog sediment","Pollen slide","influx","author","marginal core","2021-02-18",253
+1636,2075,"Gourte Mires core",51.06,-3.67,291,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-03-18",130
+1641,2083,"Viitna_Pikkjarv core 55_less100",59.446389,26.010556,76.5,"lake sediment","Pollen slide","concentration","author","central core","2021-03-18",195
+1647,2092,"Balywillin Crannog core",52.775,-7.4167,20,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","marginal core","2021-03-25",43
+1655,2100,"Derragh bog core",53.7667,-7.4167,70.5,"bog sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-03-25",43
+1656,2101,"Derragh Lough core",53.7611,-7.5778,62,"lake sediment","Pollen slide","concentration","Global Charcoal Database Version 4","central core","2021-03-25",43
+1660,2105,"Lake Salet core",53.94,21.3224,132,"lake sediment","Pollen slide","influx","author","central core","2021-03-25",211
+1679,2125,"Grosser Treppelsee core",52.1438,14.451,52.2,"lake sediment","Pollen slide","concentration","author","central core","2021-03-25",134
+1684,2130,"Loch an Amair core",57.28,-4.89,315,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-03-25",84
+1686,2132,"Lochan na h-Inghinn core",58.25,-5.09,65,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-03-25",84
+1687,2133,"Reidh-lochan core",58.03,-4.12,160,"lake sediment","Sieved","influx","Global Charcoal Database Version 4","central core","2021-03-25",84
+1702,2147,"MD95-2042 core_count",37.75,-10.16,-3146,"marine sediment","Charcoal particles identified by imaging software","concentration","Global Charcoal Database Version 3","-888888","2021-05-08",22
+1719,2166,"Lake Orijarvi core",61.662891,27.211239,89.7,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-03-26",21
+1722,2169,"Belauer composite core",54.1,10.2533,26,"lake sediment","-999999","influx","author","central core","2021-03-30",211
+1723,2170,"Dubrava MS15",48.8673,17.1024,190,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",28
+1725,2172,"Gasak II profile",52.46,19.391266,81,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",311
+1726,2173,"Golebiewo I core",54.45,18.5,130,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",211
+1727,2174,"Grosser Krebssee composite",52.85,14.0993,5,"lake sediment","-999999","influx","author","-999999","2021-03-30",211
+1728,2175,"Iezerul Sadovei core",47.6,25.44944444,930,"lake sediment","Sieved","influx","author","central core","2021-03-30",189
+1729,2176,"Jagniecy Potok core",50.85,15.36,850,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",23
+1730,2177,"Profile B_2007",52.5,19.494999,72,"lake sediment","Pollen slide","influx","author","central core","2021-03-30",311
+1734,2181,"Ruskowiejskie core",53.95,21.3117,144,"lake sediment","Pollen slide","influx","author","central core","2021-03-30",211
+1738,2185,"PM2",47.87,18.4653,123,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",28
+1740,2188,"Suminko core",54.18,17.798333,163,"lake sediment","Pollen slide","influx","author","central core","2021-03-30",28
+1741,2189,"Litzelsee core",47.77,8.9306,413,"lake sediment","Pollen slide","influx","author","central core","2021-03-30",211
+1742,2190,"Rasna core",49.23,15.37,676,"bog sediment","Pollen slide","influx","author","central core","2021-03-30",211
+1743,2191,"Semenic profile",45.18,22.05944444,1500,"bog sediment","Pollen slide","influx","EPD","central core","2021-03-30",211
+1746,2194,"Prasilske composite",49.06,13.4,1079,"lake sediment","-999999","influx","author","central core","2021-04-08",211
+1751,2200,"Penningholmen core_macro",66.03,17.43,425,"soil","Sieved","concentration","author","central core","2021-04-16",134
+1753,2202,"Juodonys core",55.74,25.44,20,"bog sediment","Pollen slide","influx","author","central core","2021-04-16",164
+1754,2203,"CMB9",42.505,1.306111,1821,"lake sediment","Pollen slide","concentration","author","central core","2021-04-16",123
+1767,2218,"Lago di Pergusa core",37.51,14.3,674,"lake sediment","Pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-04-16",68
+1787,2240,"Eustach core",50.890667,14.428425,387,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1788,2241,"Krepelcí dul core",50.931874,14.438233,357,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1791,2244,"Polomovy dul core",50.882869,14.317496,313,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1793,2246,"Pravcicky dul core",50.884236,14.296834,382,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1794,2247,"Puklina core",50.932394,14.439768,386,"buried organic sediment","Sieved","concentration","author","central core","2021-04-28",11
+1795,2248,"Raseliniste Jizery core",50.861706,15.301881,843,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1796,2249,"Stara jimka SJH",49.068764,13.402947,1129,"lake sediment","Sieved","concentration","author","marginal core","2021-04-28",11
+1798,2251,"Vlcek core",50.039798,12.731939,769,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1799,2252,"Zofinsky prales core",48.664442,14.705347,785,"bog sediment","Sieved","concentration","author","central core","2021-04-28",11
+1801,2254,"Tajga core",50.0261,12.680355,817,"bog sediment","Sieved","concentration","author","central core","2021-04-29",11
+1805,2260,"JC11_K5",53.87417,18.23667,109,"lake sediment","sieved","count","Pangaea","central core","2021-05-04",137
+1806,2261,"Dalane core",58.244167,8.004445,40,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1807,2262,"Holebudalen core",59.841389,6.008611,1144,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1808,2263,"Lille Kjelavatn core",59.796111,7.001944,978,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1809,2264,"Flotatjonn core",59.67027,7.54055,890,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1810,2265,"Bjornfjelltjorn core",68.44416,18.07166,510,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1811,2266,"Litlvatnet core",68.52694,14.93083,106,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1812,2267,"Myrvatnet core",68.66055,16.38138,197,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1813,2268,"Gammelheimenvatnet core",68.48222,17.75944,290,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1814,2269,"Vuoskkujarvi core",68.34555,19.1,384,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1815,2270,"Grauthelleren core",58.14416,7.91361,80,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1816,2271,"Kinnshaugen core",61.10833,10.35916,591,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1817,2272,"Lisletonn core",59.34361,7.305,520,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1818,2273,"Morttjern core",59.05972,11.61777,227,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1819,2274,"Masatjornet core",61.5625,10.26777,841,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1820,2275,"Reiarsdalsvatn core",58.32638,7.78583,245,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1821,2276,"Ratasjoen core",62.26666,9.83333,1169,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1822,2277,"Storsandvatnet core",63.4575,8.45444,106,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1823,2278,"Svartvatnet core",63.35138,8.87777,183,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1824,2279,"Tiavatnet core",63.05972,9.41694,464,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1825,2280,"Oygardtjonn core",59.62583,7.98666,665,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1826,2281,"Isbenttjorn core",59.765,0.43444,787,"lake sediment","pollen slide","count","EPD","central core","2021-05-04",137
+1833,2288,"BEAT core",57.259899,-4.9661087,270,"small hollow","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-05-04",28
+1835,2290,"Vernay core",47.261944,4.079167,595,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137
+1836,2291,"Verny des Brulons core",47.317778,4.122778,565,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137
+1837,2292,"Quart du Bois core",46.8925,4.034167,420,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137
+1838,2293,"Nataloup core",47.2275,4.035278,515,"bog sediment","pollen slide","count","EPD","central core","2021-05-05",137
+1839,2294,"Grostjorna Setesdal Valley core",58.5333,7.7333,180,"lake sediment","pollen slide","pollen concentration","Global Charcoal Database Version 4","central core","2021-05-08",164
+1840,2295,"Vestre Oykjamyrtorn core",59.8167,6,570,"lake sediment","pollen slide","concentration","global charcoal database version 4","central core","2021-05-12",134
+1841,2296,"Trettetjorn core",60.7167,7,810,"lake sediment","sieved","concentration","global charcoal database version 4","central core","2021-05-12",134
+1922,2381,"Champ Gazon core",47.203333,4.048611,585,"bog sediment","pollen slide","other","Pangaea","central core","2021-05-18",45
+1923,2382,"Bazu bog (LVmac)",57.70004,22.45021,15,"bog sediment","Sieved","raw count","author","central core","2021-05-19",604
+1924,2383,"Lielais Vipedis (LVmac)",56.59148,23.00094,96,"lake sediment","Sieved","raw count","author","central core","2021-05-19",604
+1925,2384,"Lake Pikku Harkajarvi (FImic)",68.8532,28.6447,188,"lake sediment","Pollen slide","influx","author","central core","2021-05-19",605
+1926,2385,"Lake Rosalia (Fimic)",68.9128,28.3692,180,"lake sediment","Pollen slide","influx","author","central core","2021-05-19",605
+1927,2386,"Mannikjarve core",58.8667,26.25,90,"bog sediment","pollen slide","count","author","central core","2021-05-25",137
+1951,2420,"Holbicky core",48.51,17.109167,183,"fluvial/alluvial sediment","Pollen slide","influx","author","central core","2021-06-03",117
+1953,2422,"Hute pod Smrkem core",49.47,18.418517,533,"bog sediment","Pollen slide","influx","author","central core","2021-06-03",117
+1958,2427,"S23",46.79522,7.04045,609,"lake sediment","Pollen slide","influx","Global Charcoal Database Version 4","central core","2021-06-03",10
+1966,2436,"HES2_short",48.669167,8.296389,830,"lake sediment","pollen slide","count","EPD","central core","2021-07-16",137
+1968,2440,"OSVA",49.0425,8.760278,207,"bog sediment","pollen slide","count","EPD","central core","2021-07-16",137
+1970,2443,"Skrzynka S1",53.81,17.5214,133,"lake sediment","Pollen slide","influx","author","central core","2021-07-19",28
+1973,2446,"Koj II",54.02,22.88,149,"lake sediment","-999999","influx","author","central core","2021-07-19",609
+1974,2447,"Brve section",50.06666,14.23888,362,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221
+1975,2448,"Dolskym core",50.8525,14.338889,240,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221
+1976,2449,"Zahaji section",50.379444,14.115556,232,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221
+1977,2450,"Na Bahne core",50.198889,15.961389,240,"bog sediment","pollen slide","count","EPD","central core","2021-07-19",221
+1982,2455,"Jeleni louze core",50.892778,14.27,460,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137
+1983,2456,"Pancavska louka core",50.766389,15.541111,1336,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137
+1985,2458,"PRYSKYRI core",50.887778,14.413333,423,"bog sediment","pollen slide","count","EPD","central core","2021-07-20",137
+1989,2462,"DESVERNE core",45.693333,6.8725,2276,"lake sediment","pollen slide","count","EPD","central core","2021-07-21",137
+1991,2464,"MINDGES5",47.75555,9.02305,406,"lake sediment","pollen slide","count","EPD","central core","2021-07-21",137
+1992,2465,"Suchar IV core",54.09,23.0247,143,"lake sediment","pollen slide","influx","author","central core","2021-07-21",610
+1355,2466,"J20",58.05916,26.51722,122,"lake sediment","pollen slide","count","Pangaea","central core","2021-07-21",137
+1999,2477,"Beg Bunar core",42.15,22.55,1750,"bog sediment","Sieved","Count","author","marginal core","2021-07-28",302
+2001,2479,"Zeller See core",48.002222,9.646667,577,"lake sediment","Pollen slide","Concentration","author","central core","2021-07-28",6
